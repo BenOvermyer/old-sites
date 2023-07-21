@@ -1,0 +1,24 @@
+Mobile Police OCC (Ingram Labor Pilot OCC)
+
+The police who either pilot the giant Ingram Labors or provide
+support roles to the pilots.  They are the officers who deal with
+Labor (robot), Power Armor and Cyborg crimes, being trained and
+equipped to deal with high powered criminals.  This occupation is
+becoming more common in some kingdoms that are growing and expanding
+as they become more high-tech.  However, their numbers are still
+presently small.
+
+Same as NGR Police OCC with following changes:
+OCC Skills
+Investigation (+15%)
+Language is native language
+Literacy is in character's native language
+Surveillance Systems can be changed to any Communications
+Pilot: Hovercraft changed to Pilot: Auto (+15%)
+Robot Combat: Elite changed to Robot Combat: Basic
+2nd Robot Combat: Elite changed to Athletics
+
+Equipment:
+Suit of body armor, energy rifle and energy pistol, 4 e-clips.
+Other standard equipment. (clothing, utility belt, etc)
+Car/Jeep or Ingram Labor.

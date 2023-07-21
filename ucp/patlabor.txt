@@ -1,0 +1,97 @@
+AV-98 Ingram (Patlabor)
+
+        The AV-98 Ingram labors were developed when general labors
+(large robot vehicles used primarily for construction) began being used
+by criminals.  The Ingram was a city patrol unit, designed to police
+urban areas where labor crimes were most common.
+
+        The standard armament for an Ingram is a labor-sized revolver
+holstered in the right leg, along with reload rounds.  This is generally
+sufficient for most routine operations.  The labor has its revolver
+holstered to enable it to keep both hands free if necessary for added
+versatility.  However, when anticipating heavy resistance or battles,
+the Ingram is also armed with a 90mm shotgun, which must be carried (no
+holster), reload rounds are in the left leg.  Both weapons have limited
+range for robot weapons, both due to the somewhat less advanced
+technology, and because the robot was designed for urban patrol.  The
+Ingram also has a forearm shield for use in parrying energy, railgun
+and missile attacks and can be fitted with a larger one (as tall as
+itself) if necessary. (125 MDC)
+
+        The Ingram is a relatively cheap robot vehicle.  It does not
+provide any extra space for passengers, does not carry missiles and
+does not have a nuclear power supply.  The AV-98 provides firepower
+equivalent to that of a heavily armed mercenary, but has much heavier
+armor protection.  It is believed that a factory or plans for the
+Ingram must have been discovered, as they have begun appearing in
+several cities that have been becoming more high-tech, despite the
+fact that it would probably be more efficient to produce power armor
+if the means (facilities, engineers, etc.) were available.
+
+
+Note: Robot Combat Elite is not necessary/possible for this mecha, a
+pilot with Basic Robot Combat can get maximum performance possible
+from the Ingram. (it is old and inferior by modern Rifts standards)
+The AV-98 gives NO additional attacks or bonuses. (but you need Basic
+Combat to operate it)
+
+Crew: One
+Class: AV-98
+
+MDC by Location:
+Head/Helmet - 90
+Arms - 85
+Left Forearm Shield - 75
+Legs - 125
+*Main Body - 200
+
+* Depleting shuts the robot down, rendering it useless
+
+Speed
+Running: 40 mph maximum
+Leaping: 15 ft after a running start (not designed for it)
+
+Statistical Data
+Height: 24 ft
+Weight: 7.4 tons (fully loaded)
+Width: 13 ft
+Physical Strength: PS 35 (however can lift up to 2.5 tons!)
+Cargo: Room for one rifle
+Power System: electric
+Black Market Cost: The Black Market doesn't know where they
+are coming from, but they would go for about 5 million credits
+(dirt cheap for a robot)
+
+Weapon Systems
+1. AV-98 Ingram 37mm Revolver:
+Weight: 500 lbs
+Mega-Damage: 4D6
+Rate of Fire: equal to #attacks per melee, single shots only
+Maximum Effective Range: 2000 ft
+Payload: 6 shots
+Note: +1 to strike
+
+2. AV-98 Ingram 90mm Shotgun:
+Weight: 900 lbs
+Mega-Damage: 1D4x10
+Rate of Fire: equal to #attacks per melee, single shots only
+Maximum Effective Range: 2000 ft
+Payload: 12 shots
+
+3. AV-98 Ingram Eletro-Baton:
+Mega-Damage: 4D6
+Can be shortened to half its length when not in use, usually stored
+under the left forearm shield.
+
+4. Extendable Hydraulic Hands/Arms:
+The hands are connected to a hydraulic system to enable the labor to
+draw its revolver from its holster in the lower right leg with maximum
+speed.  This also enables the pilot to extend the arms for various
+other purposes, such as grabbing human-sized individuals.  The arms
+can extend the full length of the forearm, approximately 6 ft.
+
+Each leg can hold either 12 shotgun or 36 revolver rounds, if the right
+leg is also used to holster the revolver, it can only hold 12 revolver
+rounds and cannot hold any shotgun rounds.
+
+By Hugh King

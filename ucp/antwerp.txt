@@ -1,0 +1,64 @@
+The Antwerp
+
+Based on Sierra Online's Quest for Glory I & IV 
+
+
+
+   (C) 1997 by Kevin Siembieda. (C) 1997 Palladium Books, All rights reserved world wide. No part of this work may be
+  reproduced in part or whole, in any form or by any means, without permission from the publisher. All incidents, situations,
+     institutions, governments and people are fictional and any similarity to characters or persons living or dead is strictly
+  coincidental. Palladium Books (R), and RIFTS (R) are registered trademarks owned and licensed by Kevin Siembieda and
+Palladium Books, Inc. P.P.E. (TM), M.D.C. (TM), Megaverse (TM), and Ley Line (TM) are trademarks owned and licensed
+                       by Kevin Siembieda and Palladium Books, Inc. By Crow T. Robot
+
+
+
+
+
+                                         Artwork By Gryphon
+
+
+
+There are many creatures in the megaverse that are regarded as dangerous. The Kreeghor, the mechanoids, sure, even the
+nightlords. They are all powerfull forces of darkness. Yet nothing can instill fear in the hearts of a world than a sighting of the
+horrible Antwerp!
+
+An animal of sorts, the antwerp resembles a bouncing blob of gelatinous glop with a face. They come in all sorts of different
+colors, but they all seem to act the same, repeating the endless cycle of bouncing and then multiplying into countless more
+antweps.
+
+At their largest, Antwerps reach about 8 feet tall, and at that point weigh about 1000-1200 lbs! At this point, they have been
+known to smother all but the stoutest of adventurers, to complicate matters even more, an attack on the antwerp is all but
+futile, as any rupture of the outer skin causes the antwerp to 'pop' and for dozens of babies to pour out. Asexual reproduction
+at its finest.
+
+Although they do not have to eat, there is one thing which is irresistable to any Antwerp.. An avacado. Yes, this seemingly
+disgusting vegetable is the most desirable thing in the world to an Antwerp. Once they catch the scent of avacado, they will
+bounce happily towards it, gobble it up, and bounce on their way. Antwerps, due to their mass regeneration factor, are
+extremly hazerdous, as any attack on them will most likely create more antwerps to deal with. Worse yet is that they reach full
+maturity in 1d4 days, resulting in dozens of bouncing blobs. They have appeared all over the megaverse, yet their origins are
+unknown. It is a wide rumor that they are a joke concieved by an insane Gene Splicer, yet this has not been confirmed. 
+
+
+
+The Antwerp
+
+IQ: 1d4, low animal PS: 5d6 PP: 2d6 PE: 6d6 PB: 1d6, even to other antwerps its ugly Spd: 2d6
+
+Hit Points: PE + 1d6
+SDC: 1d6x10+10
+
+MDC (on MDC worlds): 1d6x10 
+
+Special Abilities
+
+Bouncing - The antwerp is always bouncing, its how it gets things done. The crushing bounce of an antwerp delivers 1d6x10
+SDC on SDC worlds, and 1d4x10 MDC on MDC worlds. The creatures can reach heights of up to 8000 feet when jumping,
+and are +5 to hit a target from above. It is rumored that thier tireless bouncing is magical in origin.
+
+Reproduction
+
+If the Antwerp is harmed for more than half its SDC, or ever reduced to hit points, it will 'pop' releasing 6d6 small offspring.
+These offspring mature rapidly, and will be full grown within 1d4 days. The only way to prevent this is to totally destroy the
+body, not giving the babies a chance to escape.
+Lifespan: 1 year

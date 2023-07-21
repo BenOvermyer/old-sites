@@ -1,0 +1,81 @@
+Halflings R.C.C.
+
+
+                                               By:
+                                          Dan MacQueen 
+
+
+  Halflings are a race of short humanoids common to many worlds of magic (though not the Palladium world). They are
+sometimes confused for faerie folk or dwarves, but they are not related to either race. In fact, they appear to be closely related
+to humans. The main differences are in the little people's height (averaging about three feet tall), but several strains of halflings
+also have pointed ears, larger and hairier feet, and little or no facial hair.
+  In many of the worlds they inhabit, halflings keep to themselves, rarely meddling in the affairs of the taller and more
+power-hungry races. These little people are content to live simple lives as farmers and peasants, often surviving and prospering
+while other races wear themselves out with struggles for power and glory. These halflings are generally friendly, hospitable,
+comfort-loving people with great respect for laws and morals. In some dimensions, they are held in contempt by the other,
+stronger races. In fact, on some of these worlds, halflings are considered little more than petty vagabonds and thieves. The
+rulers of other worlds use halflings mostly as slaves. These halflings tend to be roguish, furtive scavengers. Regardless of their
+status on their homeworlds, most of them do not consciously seek adventure or power, accepting their lot in life.
+  Other races, especially humans and the gruff dwarves, think of halflings as soft, puny, and unimportant, but they are often
+tougher and more determined than they appear. They often learn how to circumvent their small size, or even turn it into an
+asset. Even the smallest and most comfort-loving halfling can turn into a resilient, clever, and capable adventurer -- if they have
+to.
+
+Alignment: any, but usually good or unprincipled: even a halfling thief tends to be selfish rather than evil.
+
+Attributes: IQ: 3D6, ME: 3D6, MA: 2D6, PS: 2D6+3, PP: 4D6, PE: 4D6, PB: 3D6, Spd: 3D6
+
+P.P.E.: 3D6
+
+Hit Points: Standard.
+
+S.D.C.: 10 plus those from OCC's and skills.
+
+Psionics: Standard.
+
+Combat: Standard.
+
+Life Span: Varies, usually around 110 years.
+
+Penalties: Due to their size, may not use large weapons: they are restricted to small and medium sized ancient weapons, such
+as short swords and short bows. Modern weapons are also generally restricted to pistols and medium to light rifles. Their size
+also causes many other races to act condescending towards Halflings, or ignore them altogether. This can be an advantage or a
+disadvantage, depending on how the character uses it. Magic: no natural abilities, and rarely study it.
+
+Natural Abilities:
+  - high physical prowess and physical endurance: many races are surprised at how resilient a halfling can be.
+  - keen eyesight and hearing
+  - +2 to dodge attacks from large creatures (Wolfen size or larger: includes humans in most power armor) 
+  - +1 to strike with slings, bows, and thrown weapons, due to years of tradition with such weapons.
+  - +1 to initiative
+  - can "freeze" : by remaining totally motionless, the Halfling may hide at +20% to his or her prowl skill 
+  - +20% on prowl and cook, +10% to rogue skills other than computer hacking, +10% to escape artist
+
+Skills of note: Speak native language at 95% (60% are also literate), speak one other language (usually an elven or human
+tongue) at 75%, WP Archery/Targeting, Prowl +20% and Cook +20%.
+
+Enemies: usually Goblins, Orcs, and the like. They tend to distrust Giants and other big folk.
+
+Allies: Generally, Gnomes, Dwarves, Elves, and Humans are preferred. On Rifts Earth, they will tend to be allied with most
+downtrodden and non-violent races of generally good alignments.
+
+Height: 2'6" + 3D6 inches
+
+Weight: 80 to 120 pounds: tend to be stocky or overweight (Halflings like to eat seven meals per day, when they can, but can
+survive on a loaf of bread and a bottle of water for days when they have to.)
+
+O.C.C.'s: Palladium-type fantasy worlds: Any but magic users (not including mind mages and clergy) or longbowman (too
+short).
+  Rifts: any but most men of magic (may still become clergy or druids) & power armor pilots (too small for the suit, but they
+may pilot giant robots).
+  Halfling adventurers are relatively uncommon: they usually get swept up by adventure, rather than seek it. They also tend
+towards scholarly classes rather than men-at-arms, but halfling warriors can be surprisingly effective (especially since their
+opponents don't expect them to be.)
+  The most attractive OCC's would be ranger/wilderness scout, thief/city rat, soldier/headhunter, healer/body fixer,
+scholar/rogue scholar, and vagabond/peasant farmer.
+  The truly noble and adventurous ones (generally seen as unbalanced by other halflings) will gravitate towards cyber-knight or
+paladin (riding ponies rather than horses, of course). These tend to see themselves as protectors of their people and of
+innocents everywhere.
+
+  The natural resistance halflings have to travel makes them rare on the Rifts Earth. However, a few thousand, coming from
+various worlds, are present, mostly in the British Isles and western Canada.

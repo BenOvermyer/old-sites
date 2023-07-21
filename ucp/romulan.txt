@@ -1,0 +1,70 @@
+Romulan R.C.C.
+
+
+                                               By:
+                                          Tim Santa Cruz 
+
+
+  Romulans are distant cousins to the Vulcans. Some would even consider them to be the same race. Possibly the Romulans
+left the Vulcans in a dispute over the addition of logical thinking into Vulcan society. Whatever their roots are, the Romulans as
+a race are a force to be reckoned with. They are magnificent Starship builders and have some of the most advanced FTL ships
+in their galaxy. They are a warlike race, constantly seeking to add more planets to their Star Empire.
+
+  They are the inventors of Cloaking technology in their galaxy, a technology that they traded to the Klingons for Warp Drive.
+Their Military vessels are by far the most superior in the quadrant. They have the utmost confidence in their military to the point
+of sometimes being overconfident. This can lead to problems, but has generally led to the growth of the Star Empire.
+
+  On Rifts Earth, they will seek to make alliances with seemingly powerful entities in order to advance the Empire.
+
+Alignments: Any
+
+Attributes: I.Q. 3D6+6, M.E. 4D6, M.A. 2D6, P.S. 5D6, P.P. 3D6+2, P.E. 3D6, P.B. 2D6+1, Spd. 3D6
+
+Hit Points: P.E. +1D6 per each level
+
+S.D.C.: 30
+
+Natural Armor Rating: None
+
+Awe Factor: None
+
+P.P.E.: 3D6
+
+Natural Abilities: Excellent Vision (3 times better than human)
+
+Combat: 2 Attacks, plus those gained from Hand to Hand Combat and/or Boxing.
+
+Bonuses: +2 Save vs. Poison, +1 Save vs. Horror Factor
+
+Psionics: None
+
+Magic: None
+
+Average Life Span: 200 Years (Not sure about this one?)
+
+Rifts O.C.C.s: Any except for CS Military
+
+Skills of Note: Speak Romulan 98%, +5% on Science Skills, +10% on Engineering Skills (Mechanical or Electrical)
+
+Size: 60 + 3D6 inches
+
+Weight: 150 to 220 lb.
+
+Equipment:
+
+Romulan Body Armor
+Weight: 25 lb.
+A.R.: 10
+S.D.C.: 75
+
+Romulan Disrupter
+Weight: 5 lb.
+Range: 1500 ft.
+Payload: 40
+Damage: 4 Settings
+  1 - 1D4 Stun. Has a 50 % chance of knocking out victims. 
+  2 - 3D6
+  3 - 1D6 x 10
+  4 - 2D6 MDC*
+
+* This last Setting is generally referred to as Kill and will vaporize in an instant.

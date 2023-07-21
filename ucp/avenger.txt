@@ -1,0 +1,211 @@
+Avenger Class Heavy Frigate: 
+
+In the Federation Fleet, a Frigate is a ship of similar firepower to a 
+Heavy cruiser such as the U.S.S. Enterprise (NCC-1701)
+but has less research facilities and require less crew. They also have
+a 
+slightly lower duration on their fuel supply before needing
+to refuel because they are not expected to operate as far from 
+Federation Territory. 
+
+The Avenger class Heavy Frigate is a class of starships that were 
+originally converted from an even older class of Frigates, the
+Surya class frigate. This conversion is similar to the conversion that 
+was done on Constitution class cruisers and the conversion
+was so successful that like the converted Constitution class cruisers, 
+later ships were laid down from the beginning as Avenger
+class frigates but followed the same design with only minor changes. 
+These ships still serve in Starfleet during Next Generation
+period and many ships of this class that were in the Federation
+mothball 
+fleet have been recommissioned and updated to serve
+against both the Dominion and the Borg. This makes the class the
+longest 
+lived starship class within the Federation having
+served far longer than the Excelsior class ships have. One of the most 
+well know ships of this class is the USS Reliant
+(NCC-1864). That is because the ship was captured by a genetic super 
+soldier named Khan and the ship was subsequently
+destroyed by the U.S.S. Enterprise. 
+
+These ships are better armed than rebuilt Constitution/Enterprise class 
+cruisers having two mega phasers as the ships heavy
+weaponry. This phasers are capable of destroying other ships in just a 
+few shots. To support this, the ship carries six banks of
+two phasers each. These phaser banks both act as heavy anti-ship 
+weaponry and as point defense. The ship carries four
+torpedo launchers as well. These launchers are mounted in a pod above 
+the ships hull and two of the launchers fire forward and
+two of the launchers fire aft. 
+
+These ships carry a large fighter compliment and carry a small 
+contingent of marines for shipboard defense. 
+
+This design is written to be able to interact with modified phase world 
+rules. There is a lack of hard detail on this ship. Some
+materials have suggested accelerations that are simply beyond scope. I 
+have taken a moderate level in writing up this starship for
+Phase World because otherwise the ship would either be far too powerful 
+or far too weak for Phase World. 
+
+This starship design uses modified starship speed and ranges. See 
+Revised Starship Rules for Phase World   for more details. 
+
+Model Type: NCC-1861. 
+Vehicle Type: Heavy Frigate (By Phase World terms would be considered
+to 
+be a Heavy Cruiser) 
+Crew: 360 (91 officers and 269 enlisted) 
+Troops: 80 Marines, 40 fighter pilots, and can carry up to 20
+passengers 
+in addition. 
+
+Vehicles: 
+ Fighter Compliment: 
+   12 Tycho class light interceptors. 
+   12 Arco class attack sleds 
+    6 Argus Class warp fighters
+ Shuttles: 
+    4 Standard Shuttles
+
+M.D.C By Location: 
+  Mega Phaser Cannons (2, above primary hull):         1,500 each 
+  Siege Phaser Cannons (6 banks of 2 each):            1,000 each bank 
+  Torpedo Pod (Above Primary Hull):                    3,000 
+  Torpedo Tubes (4, in Torpedo Pod):                   1,000 each 
+  Warp Nacelles (2, under primary hull):              20,000 each 
+  Impulse Engine:                                     10,000 
+  [1] Primary Bridge:                                 15,000 
+  [1] Auxiliary Bridge (Also used as Flag Bridge):    15,000 
+  [2] Main Body (Primary Hull):                       50,000 
+  [3] Variable Force Field:                            6,000 a side    
+                                                  
+(36,000 Total)
+Notes: 
+[1] Depleting the MDC of the main body will put the Frigate out of 
+commission. All internal systems will shut down, including
+life support and internal gravity. The ship itself will be an 
+unsalvageable floating wreck. 
+[2] In reality this is how much damage needs to be done for a weapon to 
+hit the bridge through the ships armor. This ship does
+have an auxiliary bridge. Even if the bridges is destroyed, the ship
+can 
+still be piloted from engineering but ship is -3 to dodge
+and all weapon systems will be at local control. Weapon hits near the 
+bridges that do not penetrate the ships integrity can injure
+crew members on or near the bridge. 
+[3] Shields positions can be varied and all could be combined in one 
+shield. Shields regenerate at the rate of 5% (1,800 MDC)
+per melee round 
+
+Speed: 
+Driving on the Ground: Not Possible. 
+Sublight: Has a special sublight engine that allows the ship to travel 
+up to 60 percent of the speed of light. Star Ship can
+accelerate/decelerate at the rate of 0.8 percent of light per melee. 
+As an alternative, the starship can reach .99 of the speed of light but 
+is normally restricted to slower speeds so that starship is
+not effected severely by time attenuation that occurs at the higher 
+sublight speeds. 
+Atmospheric Propulsion: Cannot travel within an atmosphere efficiently. 
+Stardrive: Uses a warp engine that allow ship to travel at Warp Factor 
+7.3 on cruise (0.32 Light Years per Hour), Warp Factor
+9.6 Flank (0.97 Light Years per Hour), and Warp Factor 11.1 Emergency 
+(1.73 Light Years per Hour). Warp speed is raised
+to the fourth power to figure out how many times the speed of light the 
+ship travels. 
+Maximum Range: Effectively Unlimited by either Drive system. carries 
+about five years worth of supplies on board and a small
+hydroponic section. 
+
+Statistical Data: 
+Length: 774.9 ft (236.0 m) 
+Height: 222.6 ft (67.1 m) 
+Width: 465.2 ft (141.7 m) 
+Weight: 170,000 Tons 
+Power System: Primary power system is Anti-Matter with a 20 year life 
+span. 
+Cargo: Cargo holds are scattered about the ship that allows for
+carrying 
+up to 10,000 tons of Cargo in addition to standard
+compliment of supplies and ammunition. 
+Market Cost: 3.8 billion to construct. No ships of this design have
+ever 
+been put on sale on the market. Black Market or the
+Kreegor would offer huge sums of money (40 Billion+ Credits) for an 
+undamaged completely working ship. 
+
+WEAPON SYSTEMS: 
+
+1. Two (2) Emperor class Mega Phaser Cannons: Located above primary
+   hull used as anti-capital ship weapons and can take out frigates in 
+   one shot or do large amounts of damage to bases or larger ships.
+   The Phaser cannons can be combined or used separately. They cannot
+   be used faster than the speed of light. Weapon has standard
+   penalties to hit fighters and small targets. The barrels can be
+   fired either forward or behind and can be rotated 30 degrees
+   horizontally or vertically. 
+   Range: miles (150,000 km) in space and miles (150 km) in an
+   atmosphere. 
+   Mega Damage: 1D6x1000 MDC each and can be combined for a damage
+   equal to 2D6x1000. 
+   Rate of fire: Maximum of Two (2) times per melee per cannon. 
+   Payload: Effectively Unlimited. 
+2. Six (6) banks of 2 Siege Phaser Cannons: Secondary energy weapon
+   system with two three banks on the top and three banks on the
+   bottom of the primary hull. The weapons damage is about equal to
+   laser cannons used by the CAF but the Phasers have a greater rate
+   of fire. The phasers are also slightly shorter ranged but only
+   slightly. Both Phaser Cannons in each bank can be linked or can be
+   fired separately. They cannot be used faster than the speed of
+   light. Weapons system has no penalties to hit fighters and small
+   targets. 
+   Range: 12,437 miles (20,000 km), range is halved in atmosphere. 
+   Mega Damage: 2D6x100 MDC each or 4D6x100 for both. 
+   Rate of fire: Maximum of Three (3) times per melee each cannon.. 
+   Payload: Effectively Unlimited. 
+3. Four (4) Photon Torpedo Systems: Mounted above primary hull in a
+   pod and fired both forward and aft. The pod has the advantage of
+   being easily jettisoned but has the disadvantage of being an
+   exposed target. While the launchers are older than those used on
+   the U.S.S. Defiant, they can use the same torpedoes Effectively
+   very similar to Phase World cruise missile launchers but instead of 
+   having groups of multiple launchers, Starfleet has concentrated on
+   launchers that can launch more than one torpedo at the same time.
+   There are two launchers that fire forward and two launchers that
+   fire aft. Once spread of torpedoes has been launched, the launchers
+   must reload and rearm before launching another spread of torpedoes. 
+   In the early service of this ship, it carried photon torpedoes
+   which are anti-matter/matter warheads but they can carry quantum
+   torpedoes when they are available. 
+   Torpedoes has a top speed of Mach 25 in an atmosphere and in space
+   has an acceleration of 10% of light per turn (far faster than any
+   starship). When drive goes dead, the torpedo will still cruise
+   unless preset to self destruct or receives a destruct code but has
+   very low odds of hitting star ships (Great for hitting bases and
+   planets because target does not move and torpedoes when dead at
+   -25% to detect.) See Modified starship rules for more details, 
+   sublight torpedoes have minuses to hit small targets but are all
+   considered smart missiles. Launchers can launch on multiple targets
+   each. 
+   Range: Powered torpedo range is 8000 miles (12,875 km) in an
+   atmosphere and 4,000,000 miles (6,437,376 km/ 21.5 light seconds)
+   in space 
+   Mega-Damage & Properties: Photon Torpedoes (Anti-matter warheads)
+   do 4D6x100 MDC each and Quantum Torpedoes do 8D6x100 each. 
+   Rate of fire: One at a time or in volleys of 2, or 4 per launcher,
+   per melee round, for a maximum of 16 torpedoes per melee. Launchers 
+  
+are reloaded on the same melee and can be fired again on the next. 
+   Payload: 800 torpedoes (because the launchers are right next to
+   each other they all use the same magazine)
+
+[ Phase World TM, Kreegor TM, and CAF TM are trademarks owned by Kevin 
+Siembieda and Palladium Books Inc. ] 
+[ Rifts� is a registered trademark owned by Kevin Siembieda and 
+Palladium Books Inc.] 
+[ Star Trek is copyright � Paramount Pictures. ] 
+
+By Kitsune (Kitsune@vabch.com ). 
+
+Conversion Copyright � 1998, Kitsune. All rights reserved. 

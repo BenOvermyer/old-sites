@@ -1,0 +1,122 @@
+Predator Equipment
+
+
+                                               By:
+                                        Baldmeistr@aol.com 
+
+
+Predator Hunting Armor
+M.D.C.: 45 A.R.: 12
+  Wire mesh covers body, armor plates on both shoulders, forearms, shins, thighs, as well as the groin area (5 MDC apiece).
+However, the mesh emits a field which dissipates energy attacks. This provides an AR of 17 and 80 MDC against Plasma,
+Ion, and Laser weapons, as well as vibro blades (which do inflict SDC damage, if they roll between 12 and 17). The mesh's
+MDC regenerates at a rate of 1D4 MDC per minute, recharging via a standard 20-year nuclear battery. The mesh itself is an
+SDC structure, and can take 30 SDC before tearing and reducing the amount of MDC output by half and dropping the AR to
+15. If it takes 80 SDC, it is basically destroyed.
+  However, it is EXTREMELY hard to hit - called shots are -8 to strike. There is a chance that an attack accidentally hits it, as
+well - any roll of 24 or higher (obviously modified), or any natural twenty does damage to the SDC of the mesh. Note: The
+mesh does not protect the Predator from SDC damage - all damage done to it is taken by the Predator as well. It DOES
+prevent MDC damage.
+  The forearm portions of the armor (5 MDC ea.) contain various interesting implements. In the right forearm are two claws.
+These can be extended and used as a weapon to deal 2d6 x 10 SDC + PS bonus, or their vibro-component can be activated,
+making them mega-damage weapons which deal 3D6 MD (total - the two blades attack together, and cannot be used one at a
+time).
+  The left forearm contains the Predator's most deadly tool: The cloaking device. When activated, it bends electromagnetic
+energy around the Predator, effectively rendering it invisible. It can in fact be seen, as it has a shimmering outline - Detect
+Concealment has a -50% penalty if it is not moving, and a -25% penalty if moving. If the character does not have Detect
+Concealment, their base percentage to spot a MOVING Predator is equal to their IQ divided by two. See the Invisible has
+NO EFFECT. In addition, Lasers do NO damage - the light is bent around the Predator to reform on the other side,
+continuing on to hit whatever is behind it. Ion and Particle beam weapons do 1/2 damage, but all attackers are -8 to strike.
+Invisible Predators have Prowl values of 95%. Fortunately, there are limitations - it can only be active for 1 hour before it must
+recharge - recharging takes a time equal to the amount of time it was active. However, it is constantly recharging, so it can be
+used briefly for long periods of time (30 minutes an hour indefinitely).
+  Lastly, on the left forearm there is a keypad which is used to detonate the nuclear power pack, in the event that the Predator
+is mortally wounded or captured with no hope of escape. The explosion does 1D6 x 50 MD to everything within a 200'
+radius, 1/2 that to everything within 300', and 1/10 that to everything within 500' (Note: these are not cumulative - imagine 3
+concentric circles. Inside the first does 1D6 x 50 MD, between the first and the second does 1/2 that, etc.).
+
+Note: The cloaking device/detonator can be disabled by doing 4 MD to the left forearm. This is a called shot and is -3 to
+strike in melee, and -3 for every 50', long-range.
+  The left shoulder contains a first aid kit which has tools that can be used to perform first aid on a Predator (not all standard
+techniques that work on humans work on Predators, since their physiology is different) Note: The human Predators will have
+human first aid kits.
+
+
+Predator Battle Armor:
+M.D.C.: 150
+Prowl Penalty: -20%
+Weight: 25 lb
+A.R.: 19 (Does not include head protection)
+  Heavy Battle Armor specifically tailored for each individual Predator. It is NEVER worn in the Hunt. Even Rogues will not
+CONSIDER using it in the Hunt.
+  It is used in an all-out attack, typically in the company of many other Predators. Thus, it has no cloaking device, nor does it
+have a nuclear detonator. In addition, Plasma Caster (see below) cannot be attached to the Battle Armor, since there is no
+nuclear power source for them to draw upon.
+  Most often, E-Rifles are the weapon of choice to accompany the Battle Armor.
+
+Note: It is VERY rare to see a Predator in this armor. I've seen it in ONE comic book that I've read (Aliens vs. Predator:
+War #1). It is really only used in all-out war.
+
+
+Plasma Caster:
+  This weapon is attached to the right shoulder and is hardwired to the Predator's sight. This, in combination with the
+triangle-shaped laser-targeting system give the Predator a +3 to strike with the Plasma Caster.
+Damage: 2D6 MD
+Range: 500'
+Ammo: Unlimited (connected to power source in armor)
+Rate of Fire: 3 per melee (15 seconds)
+Falls under WP: E-Pistol
+
+
+Collapsible Spear:
+A 3' long pole which telescopes to a 6' spear, pointed at both ends.
+Damage (+ PS bonus):
+   Club (not telescoped): 3D6
+   Spear (held): 4D6
+   Spear (thrown): 6D6
+Max Range: 150', - 1 to strike per 10' beyond 100'
+Falls under WP: Blunt (Including handheld spear) and WP: Archery/Targeting
+
+
+Boomerang Disc:
+  10" in diameter, this small, basically circular disc always returns to the thrower. It is somewhat collapsible - it collapses in the
+middle, becoming ellipsoid with a minor radius of 5" (and a major radius of 10")
+Damage: 5D6 (does NOT get PS bonus)
+Max Range: 200'
+
+
+Hunting Mask:
+10 MDC, adds 3 to AR of both previously mentioned armors. Provides following abilities:
+-Has its own, self-contained air supply. Predators CAN breathe air, but it is difficult, halving the amount of time they can exert
+themselves. The air system provides air for 8 hours, but replenishes itself, when possible with components of the outside air.
+Note: Predators breathe mostly methane, with a few other gasses mixed in. (Flammable? You betcha.)
+-Amplifies user's natural vision: adds 1000', provides passive nightvision to human wearers.
+
+
+Net Gun:
+  This is a small, handheld weapon which fires a titanium-alloy wire mesh to capture and hold prone an opponent. When the
+mesh is fired and scores a successful hit, the target must roll higher than the attack roll on a 1D20 to avoid being knocked
+down. If they attempted a dodge, however, they do not get this roll - they are automatically pinned, either to the ground
+approximately 20' away or to the nearest vertical structure that will support their weight.
+  The initial attack does 2D6 SDC due to the tearing the mesh does against the body; in addition, struggling against it, or the
+impact with the ground/wall will do damage (even in MDC body armor, as per the tables in the RIFTS Rule book, page 12).
+Treat as a high speed crash at 50 mph or a fall from 10 feet, depending upon whether they were propelled into a wall or into
+the ground.
+  In addition, struggling against the mesh does 1D4 SDC per round (# of chances to break free = # of attacks per melee). It
+takes a combined PS of 25 to break free (most characters will need someone else's help).
+  Predators use this to hold their prey immobile while they either dispatch with others or advance upon the helpless victim. The
+net gun is not used with tremendous frequency by Predators, but is one of the many weapons available to them. It falls under
+WP: Revolver.
+Other useful info:
+Ammo: 1 net (takes 1 minute to reload)
+Range: 200'
+Damage: see above
+  The mesh has a total of 100 SDC, but only 20 SDC must be dealt to it to cut a hole in it big enough for a human to escape
+through.
+
+
+
+  These CCs were created by Baldmeistr@aol.com. Please do not call them your own, as they are not. Anyone found in
+violation of this policy will be taken behind the building and tickled until they can no longer breathe. Predators and their
+likenesses are most likely �, �, �, (ugly), and (property of) Paramount Pictures. Use them at your own risk, fully realizing
+that giant tomatoes can fall out of the sky and crush your house at any moment, thanks to the Greenhouse Effect. 

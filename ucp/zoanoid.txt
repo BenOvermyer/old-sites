@@ -1,0 +1,269 @@
+Zoanoid R.C.C.
+
+           This is a write-up of the Zoinoid character class, for use in the Rifts and Nightspawn RPG's. The
+Zoanoid's are from the Japanese comic book and anime series called the Guyver. It is constantly under development. If anyone
+has any suggestions, I would greatly appreciate thier input.
+
+
+
+The Chronos Corporation, was pre-Rifts company, had discovered advanced alien technology. One
+of the experiments of the aliens was to create the ultimate soldier out of genetically altered humans.
+Chronos used this technology to give humans the ability to transform into powerful monstrous soldiers.
+When killed, their bodies turn into dust, leaving no bodies - human or monsters - to be used as proof
+of what the Chronos Corporation was up to. Chronos also had a habit of kidnapping innocent victims
+and converting them into Zoanoids, then deleting their memories and placing them back into society. These sleeper Zoanoids
+would never know what happened to them unless a telepathic command triggered their transformation. Chronos tried to take
+over the world, had it not been for the coming of the Rifts, Chronos could have completed their goal. During the coming of the
+Rifts, Zoanoids fought against the inhuman creatures who were invading Earth, and died in great numbers. No one known what
+happened to the Zoalords, the heads of the Chronos Corperation, but those few who knew of their existance say they
+abandoned Earth, no longer seeing it as a place worth controlling. Others say they are in hibernation or hiding, biding their time
+until Earth is ready for their return.
+
+On Rifts Earth, the surviving Zoanoid genes have become deluted among the human populaton, but still express themselves
+from time to time. Seemingly normal humans can become monsters.
+
+     Alignment: Any, but most commonly anarchist ot evil
+     Rifts O.C.C.: Any Men of Arms or Scholar and Adventurer O.C.C. that doesn't have psionic, magical or supernatural
+     powers. Use the Mystic O.C.C. experience table
+     Attributes: I.Q.: 3D6, M.E.: 3D6, M.A.: 3D6, P.S.: 2D6+6, P.P.: 2D6+6, P.E.: 2D6+6, P.B.: 3D6, S.P.D.: 2D6+6
+     (Note: has the same range as normal humans, but tends to be physically fitter, even in human form.)
+     Hit points: P.E. plus 1D6 per level of experience in human form.
+     S.D.C.: 40 base in human form.
+     M.D.C.: Double total Hit Points and S.D.C. for M.D.C. in Zoanoid form, plus those from various bonuses.
+     P.P.E.: 1D4+1, the Zoanoid process burns off most available P.P.E.
+     Horror Factor: None in human, 14 in Zoanoid Monster form, 16 when transforming into Zoanoid Monster form.
+     Weight: 300 To 2000 Lbs. in Zoanoid Monster form, 125 - 250 in human form.
+     Size: 7-12 feet tall in Zoanoid Monster form, 5-8 feet in human form.
+     Natural Abilities: In either form the Zoanoid is immune to magical transformation. All metamorphsis spells, magical
+     tattoos, etc. automatically fail. In human for they have the ability to assume combat form, taking only one melee action to
+     change. In combat form they gain a bonus of +10 to P.S. and P.E. and both are considered supernatural, +6 to P.P.,
+     and double normal human running speed. They have night vision, hawk-like vision, able to see a rabbit a mile away, and
+     can leap forty feet high and fifty feet long. Bio-regenerates 2D6 per minute. Exceptional lung capacity allows the
+     Zoanoid to hold it's breath for 1 melee round per P.E. The other abilities are different for each Zoanoid, roll of the
+     following table.
+          Roll on the Zoanoid powers table six times, re-rolling and duplicates:
+          01-02 Blade Hands: Add 2D6 to hand to hand damage, but cannot use their hands for fine work.
+          03-04 Strikers: The Zoanoid has 1D4+2 tenticles or skinny clawed arms on it's body. These have a P.S. of 14,
+          and do only 1D6 M.D.. Each arm can attack once per melee.
+          05-06 Sonar: The same as the Mutant Bat R.C.C. given in Rifts Lone Star.
+          07-08 Increased Stregnth: Add 2D6 to P.S.
+          09-10 Increased Agility: Add 1D6 to P.P. and +2 to init., roll, strike, parry and dodge.
+          11-12 Increased Endurance: Add 2D6 to P.E. and 40 to M.D.C.
+          13-14 Poison Spines The has Zoanoid 1D4x10 poison spines that he can shoot up to 50 feet away doing only
+          1D4 S.D.C. damage. Anyone poisoned by these spines must save us save vs. poison or loose 1 attack per melee
+          for 1D4 minutes. The effects of these spines are accumlative, so multiple spines can reduce a target to no attacks
+          per melee, paralyzing them temporaly. Any number of spines can be fired at one target at one time. Spines take
+          24 hours to grow back.
+          15-16 Increased Running: Unusual legs or centaur like body provides for increased running speel. Add
+          2D4x10 to Spd. attribute.
+          17-18 Adhesion: Just like the minor super ability.
+          19-20 Thick Body Fat: Add and 2D4X25 M.D.C. and taked half damage from cold attacks, but the Zoanoid
+          looses 3 to P.P. stat.
+          21-23 Plasma Breath or Bio-Laser Canon: Can fire a 2D4X10 M.D. blast, of plasma or bio-laser once every
+          other melee round. Range: 1000 Ft.
+          24-25 Chameleon: Just like the magic spell, but can activate at will.
+          26-27 Bio-Glue: The Zoanoid can spit a bio-glue that has a similar effect as the Magic Net spell once per melee
+          round.
+          28-29 Elongated Neck: The Zoanoid has a long flexable neck as long as his arm. He gets an additional attack
+          per melee, which can be a head butt equal to a punch, or a horn or bite if he has such an attack.
+          30-31 Extra Pair Of Hands & Arms: The Zoanoid has two fully functional extra arms and partial human hands
+          (Thumb and 1D4 fingers) immediately below their normal arms. The extra arms add two (2) additional
+          actions/attacks per melee and a bonus of +2 to parry.
+          32-33 Increased Healing Factor: Bio-Regenerates 2D6 Per Melee, and can completely regrow lost limbs and
+          organs in 24 hours.
+          34-35 Heat Resistance: Zoanoid takes no damage from heat and fire.
+          36-38 Heightened Sense Of Hearing: Same as the minor super ability.
+          39-40 Aquatic Adaptions: The Zoanoid is adapted for aquatic life. Can breath under water, and swim at double
+          running speed, double normal swimming speed, whichever is faster. Can survive the pressure of the ocean depths
+          up to 5 miles deep without ill effect.
+          41-42 Heightened Sense Of Smell: Same as the minor super ability.
+          43-44 Heightened Sense Of Taste: Same as the minor super ability.
+          45-46 Heightened Sense Of Touch: Same as the minor super ability.
+          47-49 Corrosive Enzyme: The blood and spit of the Zoanoid is a powerful acid. Also the hands, tail and teeth
+          of the Zoanoid can emit this acid, adding 2D6 M.D. to hant to hand damage. Even more devistating it the fact
+          that any hand to hand attack against the Zoanoid is effected by the same acid, which gushes out of any wound on
+          his body, the larger the wound, the more acid. The attacker takes 2D6 plus half the damage inflicted by the
+          attack he made. The Zoanoid can also spit the acid he generates with a 10 feet range.
+          50-51 Bio-Laser: Same as the minor super ability Energy Expulsion: Light.
+          52-53 Increased Size: The Zoanoid is extreemly large. Double his height and M.D.C. after all other factors are
+          considered. He also weighs 8 times as much.
+          54-55 Bio-Electrical Battery: Same as the major super power Control Elemental Force: Electricty
+          56-57 Flight: Winged: Same as the minor super ability.
+          58-59 Low Oxygen Use: This Zoanoid has a metabolism that naturally uses very little oxygen. Consumes one
+          third as much oxygen as normal.
+          60-61 Leaping ability: The Zoanoid has exceptional leaping ability, able to leap P.S.x4 feet long or P.S.x3 feet
+          high.
+          62-63 Chemical Bladder: The Zoanoid can hold 3D6 gallons of liquid in his body in a special bladder. This
+          bladder is lined with a fatty tissue that is pratically immune to corrosion and poison effects, and leads to an
+          extendible tube somewhere on his body. By contracting special muscles, the Zoanoid can suck up or spray out
+          chemicals. Against vampires a gallon of water does 2D6 damage. Range 20 feet. Note: Must empty the bladder
+          to return to human form.
+          64-65 Extra Mini-Manipulators: The Zoanoid has an extra pair of small delicate looking arms with precise
+          fingers n them. They only have half the normal P.S. attribute of the Zoanoid, but they operate at +5 to P.P.
+          attribute, and are +10% to all skills requiring delicate movements, like lock picking.
+          66-67 Miss-shapen Face: The Zoanoid had facial features that are all out of place, giving him a frightening alien
+          appearence. Add 2 to Horror Factor and to save vs. Horror Factor as well.
+          68-69 Oxygen Retention: The Zoanoid can build up a natural reserve of oxygen within his body, lasting the
+          same number of minutes as the Zoanoid's P.E.x2. It takes an equal amount of time breathing normally to recharge
+          this reserve.
+          70-71 Peripheral Vision: The Zoanoid has exceptionally large, bug-like eyes, giving him or her an all-round field
+          of vision; 360 degrees. It is almost impossible to sneak up on them unless their attention is distracted. The
+          character gets the Detect Concealment skill at +20%, is +2 to initiative, and +2 to parry and dodge.
+          72-73 Plastic Bones: This means that while the Zoanoids' bones are not literally plastic, they are very flexible.
+          The Zoanoid can change their own structure, shape, appearance and even their apparent size by as much as
+          20%. They can crawl through tiny spaces one-quarter their normal size and can bend in the most extraordinary
+          ways. They receive +20% on the disguise, escape artist and impersonation skills, and get +25 M.D.C.
+          74-76 Prehensile Tail: Adds one additional attack per melee and can carry ten times the Zoanoid's weight,
+          Length of tail: 4D4 Feet.
+          77-78 Enhanced Vision: The Zoanoid possesses a number of related powers. He or she has perfect 20/20
+          vision, can see a greater range of colors (30% more than the average human), has ultraviolet, infrared, and
+          polarized vision, and can see the invisible.
+          79-80 Energy Disruption: The Zoanoid can generate a bio-field that disructs electrical equipment. Equal to the
+          Energy Disruption spell but with a 10 foot range centered on the Zoanoid. Can be created at will.
+          81-82 Fur Armor: The Zoanoid has a coat of fur that is thick and coarse adding some physical protection in the
+          way of 40 M.D.C. and is water repellent and helps to shield against radiation and cold (half damage).
+          83-84 Bio-Disruption Blaster: The Zoanoid can fire a bio-disruption blast once every other melee round that
+          has an effect equal to a Life Drain spell, that can effect one target and has a 200 feet range.
+          85-86 Reflective Skin: The skin of the Zoanoid is metalic in appearence, and has a glossy finish. The Zoanoid
+          takes only 75 percent the usual damage from laser attacks.
+          87-88 : 
+          89-90 : 
+          91-93 Increased Mass And Natural Body Armor: Add 50 M.D.C., +10 to P.S., Impervious to
+          decompression sickness and the effect of zero gravity. Reduce speed by 2 points.
+          94-96 Flame Breath: Same as the minor super ability Energy Expulsion: Fire.
+          97-98 Bio-Missles: The Zoanoid has one or two large growths on his upper body that are covered with odd
+          crater-like holes. These are biological missle launchers. They fire self grown plasma mini-missles. Total number of
+          missles is 4D6, and once fired, they take 24 hours to regrow in the launcher. Any number can be fired at will at
+          any target.
+          99-00 : 
+     Combat: As per hand to hand skills and bonuses, plus 1 attack per melee in Zoanoid form
+     Damage: Normal in human form. See Supernatural Strength Table for damage in Zoanoid form.
+     Bonuses: +4 To Initiative, +5 Vs. Horror Factor, +2 Vs Magic
+     Psionics: None. In fact Zoanoids are vulnerable to psionics.
+     Magic: None, cannot learn magic.
+     Appearance: When in human form, they look completely normal. Roll On The Following Table For Appearance Of
+     The Zoanoid Monster Form
+          01-05 Amorphous Appearance: Little or no facial features, a slit or two for a nose,long, smooth featureless
+          limbs, 1D4+1 fingers, and toes, generally non-human appearance. These Zoanoids may also have a large head,
+          eyes, and pale complexion.
+          06-10 Humanoid Skeletal: Sunken eyes and cheeks, very thin, long limbs, thin waist, and bony hands and
+          body. No body hair, but some may have hair on their heads, +2 to P.P., and +5 to Speed.
+          11-15 Humanoid Amphibian: Soft, smooth skin, webbed hands and feet, semi-aquatic. Bonuses: Can hold
+          breath for 20 minutes, Swimming: 90%, Swimming Speed is six times greater the normal running speed.
+          16-20 Human Like: The Zoanoid in Monster form looks almost human
+          21-25 Humanoid Pig: Husky build with a larger, wide pig nose and mouth, small eyes, and large ears. Can be
+          smooth and pink with thin hair or coarse and boar-like. Bonuses: +1 to both P.E. and P.S., and a +15 to M.D.C.
+          26-30 Humanoid Atroxian: Tall, serpent-like Zoanoid with flat, wide head, round eyes, large mouth, prominent
+          fangs (+2D4 M.D. To Bite), long, thin neck and limbs, and a slim, pliable body. 80% are double jointed. Able to
+          slip out of handcuffs or bound ankles 65%, and 45% likelihood of escaping from bound limbs, straight jacket or
+          prison cell with bars (can try to escape once per melee round/every 15 seconds). Bonuses: +1D6 To Speed,
+          +10 M.D.C., +2 Save Vs. Poison And Drugs, Natural Thermal Imaging Sense (Range: 50 Ft.)
+          31-35 Humanoid Reptilian: Lizard-like features, leathery or scaly skin, little or no body hair, long clawed
+          fingers. Bonuses: +30 M.D.C., +2 To P.P., and +1D4 To Damage From Claws.
+          36-40 Humanoid Canine: Dog-like features, muzzle, ears, body fur or extreme body hair, round dark eyes.
+          Bonuses: +1D4 To P.S., and +2D4 To P.P., and +10 M.D.C.
+          41-45 Humanoid Avian: Bird-like features with large, round eyes clawed feet and hands, and feathers for hair.
+          Only 10% have large wings, capable of flying. Most bird humanoids have no wings or they are small/stunted and
+          incapable of flight. Bonuses: +1D6 Damage From Claws, Most (80%) have keen hearing and sight twice as good
+          as humans.
+          46-50 Humanoid Mineral: Rocky or crystalline appearance. Bonuses: Natural Body Armor: +180 M.D.C.
+          51-55 Humanoid Feline: Cat-line features; bright oval eyes, fur covered body, pointy ears, and small fangs
+          (+1D4 Damage from bite). Bonuses: +2 to P.P., and S.P.D., +10% to Climbing, +10 to M.D.C., and 50% will
+          have retractable claws (+1D6 damage from claws)
+          56-60 Humanoid Ape: Resembles an ape (no tail); long arms, fur covered or extreme body hair. Bonuses: +1 to
+          I.Q., and M.A., +1D6 to P.S., and +20M.D.C.
+          61-65 Humanoid Elephant: Large body, short limbs, thick, wrinkled skin, wide head with long nose, large ears,
+          small eyes, and many have tusks (45% chance; inflict 1D8 damage). Bonuses: +1D4 To P.S., P.E., And S.P.D.,
+          +30 M.D.C., Add 4D6 Inches to height. Weighs twice as much as normal.
+          66-70 Humanoid Bison: Wide, low forehead, wide nose, huge shoulders, may have horns (45% Chance; 1D6
+          damage), and long hair or fur. Bonuses: +2 To P.S., And P.E., +20 M.D.C.
+          71-75 Humanoid Rhinoceros: Large, powerful body, thick skin, little or no hair, wide hands and feet, long,
+          wide face with high ears, and a small mouth low on the face, May or may not have one or two horns (45%
+          Chance) above the nose. If so, it does 2D4 (1-75%) or 2D6 (76-00%) damage. Bonuses: +1D4 to P.S., P.E.,
+          and S.P.D., and +40 M.D.C., add 1D4X10 Lbs. to weight.
+          76-80 Demonic Appearance: Large horns or spines (especially on the head, forearm, elbow, or shoulders),
+          pointed teeth or large fangs (+2D8 damage), claws (1D6 damage), unusual skin color and texture (lumpy, scaly,
+          slimy, etc.). A tail (only prehensile 33% of the time) or an extra pair of limbs (adds one attack per melee).
+          Bonuses: +2 To P.S., +1 To Initiative, +2 to save Vs. Horror Factor, and + 20 M.D.C.
+          81-85 Vegetation: Composed of plant matter. Bonuses: +40 M.D.C. The plant Zoanoid does not register on
+          heat or infrared sensors. Plant Zoanoids also heal twice as fast.
+          86-90 Humanoid Aquatic: Fish or mammal (dolphin, whale, seal, etc.), webbed feet and hands, smooth or
+          scaly skin, blow-hole or gills, no body hair, dull gray to brightly colored. Bonuses: Swimming: 98%, Swimming
+          Speed Is 2D4X10 Plus Running Speed, Can Hold Breath Underwater for 3D6 minutes (Indefinitely For Gills),
+          can also breath out of water. Bonuses: +20 M.D.C.
+          91-95 Humanoid Crocodile: Tough lumpy skin, powerful built, long face with a long, wide mouth, little or no
+          hair. Bonuses: +100 M.D.C., +2 Attacks, And +1 To Strike.
+          96-00 Insectoid: Large eyes, antennae, claw-like hands and feet, and exo-skeleton are common to the insectoid
+          Zoanoids. Bonuses: +200 M.D.C. 
+
+     Depth Tolerance in Zoanoid form:
+          01-10 500 Ft. ( 152 M)
+          11-20 1000 Ft. ( 305 M)
+          21-30 2000 Ft. ( 610 M)
+          31-50 4000 Ft. (1220 M)
+          51-70 1 Mile (1.6 Km)
+          71-80 2 Miles (3.2 Km)
+          81-90 3 Miles (4.8 Km)
+          91-00 5 miles (8 Km)
+     Odd Colors in Zoanoid form (roll twice):
+          01-10 Yellow
+          11-20 Green
+          21-30 Red
+          31-50 Gray
+          51-70 Blue
+          71-80 Black
+          81-90 Stark White
+          91-00 Metallic Silver
+     Vulnerabilities: Character is vulnerable to psionic attacks. This is by design, because the heads of the Chronos
+     Corperation were powerful psionics. The character saves vs. psionics on a 17 or less, and gets no bonus to save vs.
+     psionics from his M.E. This vulnerability is present in both human and Zoanoid form. Also returning to human form is not
+     as easy as assuming combat form. It takes one full melee of concentration, and the Zoanoid must be healed of all
+     damage to return to human form. (Note: I based this rule on the first episode of the Guyver anime where a Zoanoid was
+     injured by a hand grenade and could not return to human form.)
+
+Hyper-Zoanoid notes: Chronos has also created a lesser number of Zoanoids who were both physically and mentally
+superior to others of their kind. These Zoanoids often acted as commanders of large Zoanoid groups, or as bodyguards for the
+Chronos elite. Hyper-Zoanoid characters are created like normal Zoanoids with the following modifications. Add 3 to all
+physical stats in human form, and mental stats become 2D6+6, increase all S.D.C. and S.D.C. bonuses by 50 percent, all
+powers do 50 percent more damage, and bonuses are 50 percent greater, and have double range. Horror Factor is increased
+by 2. Hyper-Zoanoids use the Dragon experience point table.
+
+The Classic Zoanoids: Just in case you wish to play recreation of one of the Zoanoids from the Guyver series, I have
+provided the information for some of the more promanent ones here. Please forgive the spelling, I decided to spell the names in
+the way they are pronounced in the anime series english translation. Some of these do not have the full 6 powers listed, so
+players should choose the remaining powers.
+
+     Darzerb: Hyper-Zoanoid humanoid rhino with increased stregnth and flame breath. Gray in color.
+     Elegan: Hyper-Zoanoid humanoid amphibian with strikers, heat resistance and bio-electric battery. Purple and white in
+     color.
+     Gaster: Hyper-Zoanoid reptilian with bio-missles. Red in color.
+     Gregole: Humanoid rhino with increased endurance. Green color.
+     Malmont: Humanoid skeletal. Grey and red color.
+     Ramotithe: Humanoid ape with the powers of sonar, increased agility, fur armor. Gray color.
+     Samarubu: humanoid reptilian with bio-glue, leaping ability and peripherial vision. Green and yellow in color.
+     Thankrus: Hyper-Zoanoid insectoid with the powers of blade hands. White in color.
+     Vamore: Humanoid reptilian with the powers of sonar, bio-lasers. Red and black in color.
+     Zektore: Hyper-Zoanoid insectoid with bio-lasers, bio-laser cannon and flight: winged. Black and white in color.
+     Zerabuboth: Hyper-Zoanoid insectoid with bio-lasers and leaping ability. Red and black in color.
+
+
+
+Nightspawn notes: On Nightspawn Earth the Chronos Corperation can be adapted into the story line with a few alterations.
+First their research is not based on the study of alien technology, but is an attempt to genetically engineer supernatural beings.
+They have secretly developed the technology to break down the genetic structure of such creatures as Werewolves,
+Nightspawn, and several Nightlands creatures. The Zoanoids are an attempt to recreate humans into supernatural soldiers.
+
+While Chronos kept it's activities secret, they were not prepared for a rival in world domination. Luckily for Chronos they
+learned about the existance of the Nightlords before the Nightlords discovered them. Their plans to take the world by force
+were put on hold when the Zoalords learned what they were up against. They knew that a few thousand Zoanoids were no
+match for the millions of minions of the Nightlords. Chronos have just barely been successful in keeping the Nightlord's minions
+out of Chronos, through special blood screenings they are able to spot infultrators, and arrange for ''accidents'' before these
+spies can report back. Chronos is firstly dedicated to keeping it's agenda a secret from the Nightlords, and secondly, it plans
+to increase it forces so that it can one day stand against the Nightlords.
+
+While Zoanoids are physically powerful, and can have suprising powers, they lack magical abilities such as spell casting and
+Nightspawn talents. Of cource as creatures of Earth, Zoanoids have Nightlands counterparts. The nemesis of many Zoanoids
+include Hounds, Hunters, Hound Masters, Doppleganger Warlords, and Asmedia.
+
+To convert Zoanoids to Nightspawn rules, they become S.D.C. while in combat form. They do damage as per the
+supernatural stregnth table in the Nightspawn rules book. All damage from powers is now S.D.C. 

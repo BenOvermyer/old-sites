@@ -1,0 +1,69 @@
+Samus Aran Power Armor
+
+	Samus Aran - the heroine of Metroid, Metroid II, and Super Metroid fame.
+This power armor is what she wears throughout each of the games. Like in the games,
+it comes without any add-ons like the famous Ice Beam, and you'll have to buy, steal,
+or find them. The armor is full-body, and looks awesome. It has a red-and-yellow
+color scheme, with a green Multicannon(see below). 
+
+Name: Samus Aran Power Armor(S.A.P.A.)
+Manufacturer: Aran Industries
+Type: Cybernetic interface power armor
+M.D.C.: 5*
+   *M.D.C. is increased every time a Power Shield energy tank is inserted
+    into the reactor. This results in an additional 5 M.D.C. per tank.
+    The armor's reactor can hold 8 tanks, for a max M.D.C. of 45. This
+    armor system is truly unique, because it allows for "rechargable"
+    armor. 
+Systems: Standard PA systems.
+Weapons:
+   1) Multicannon: in place of a right hand on the armor is an energy
+		   cannon whose armament can change with armor add-ons. It comes
+		   with a basic beam which does 1d4 MD and has a range of 500 ft.
+		   The following add-ons are available:
+			1 - Long Beam: Increases range by 500 ft
+			2 - Ice Beam: Freezes target for 2 combat rounds.
+				      Range: 500 ft
+			3 - Wave Beam: Fires several bursts of energy
+				       in a vertical wave. Does 3d6 MD, +2 to strike.
+				       Range: 500 ft
+			4 - Missile: The MC can carry up to 10 micromissiles which
+				     do 2d20 MD apiece.
+				     Range: 1000 ft
+			5 - Plasma Beam: Fires a high-energy burst. Does 3d12+10 MD.
+					 Range: 500 ft
+			6 - Charge Beam: For every round charged, this beam does
+					 1d4 MD. Max charge is 5 rounds.
+					 Range: 500 ft
+   2) Bombs: This armor can hold 20 microbombs which do 2d10 MD apiece to a 15' radius.
+	     Range: Dropped. 1 round timer, also remote detonation.
+   3) **Screw Attack: The armor can allow the user to do a mid-air somersault, which
+		    is charged with destructive energy. This attack counts as a melee
+		    attack, and a normal jump. It does 1d10+5 MD.
+		    Range: Up to max jump.
+
+
+**Note: the Screw Attack can only be used when the armor is equipped with the proper
+	add-on. Costs of add-ons are listed below.
+
+Stats
+-----
+Height: User's height + 2 ft
+Weight: 50 lbs, but is negated by systems, giving normal movement.
+Cost(New, with choice of Long Beam or 5 missiles): 250,000 credits
+Cost(Black Market, no add-ons): 200,000 credits
+
+Costs of Armor Add-ons
+----------------------
+Long Beam - 10,000 credits
+Ice Beam - 25,000 credits
+Wave Beam - 35,000 credits
+Missile - 13,000 credits for 2
+Plasma Beam - 50,000 credits
+Charge Beam - 20,000 credits
+Bombs - 5,000 apiece
+Screw Attack - 75,000 credits
+
+
+Conversion done by Ben Overmyer
+			

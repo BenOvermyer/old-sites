@@ -1,0 +1,264 @@
+Z Warrior
+
+                                   (An RCC based on the Saiya-jin)
+
+                                        Created by Yun Pang
+
+                                         Incomplete Version
+
+
+
+Alignment: Any 
+
+Attributes: IQ 3D4+4 ME 4D6+6 MA 3D6+4 PS 3D6+15 PP 3D6+12 PE 3D6+10 PB 3D6+3 Spd 2D4x10+30
+(supernatural PS andPE) 
+
+MDC: PEx10+20 +PE/lvl 
+
+HF: 
+
+Weight:160+ lbs 
+
+Height: 5 1/2 + feet 
+
+Life Span: Up to 250 years 
+
+Sex: Male or Female 
+
+Appearance: Entirely Human 
+
+Disposition: Varies 
+
+Combat Skills: 
+
+Magic: 
+
+PPE Base: 20 
+
+Psionic Powers: Sixth Sense ISP:10 +10/lvl
+
+Chi Base: 100+PE +100/level of experience
+
+Bonuses: 
+
+     +3 initiative, +2 strike, parry, dodge, +6 pull punch, +4 save vs. mega damage poisons, +6 to save vs. horror factor, in
+     addition to attribute bonuses.
+
+     1)Multiple Dodge: dodge attacks from behind, takes one action. 
+
+     2)Automatic Dodge:(adjusted) The Z warrior may dodge during the melee round without using up actions. The only
+     bonuses counted are the above bonuses and bonuses from PP. Multiple and Automatic Dodges may not be combined
+     but can be mixed. 
+
+     3)Normal Dodge: The Z warrior receives the bonuses from flying (he can always fly away instantly), the above bonuses,
+     PP bonuses and HTH bonuses. In addition, the normal dodge will allow the Z warrior to escape explosions unharmed
+     as long as the the explosion has a radius less than the Z warrior's level times 10 in feet (or level times 50 if blasting). 
+
+     4)Entangle (grab arm or leg)
+
+     5)Paired Weapons 6)Judo Throw or Flip
+
+     7)Flip/Throw Counter: if failed to parry or dodge flip/throw spend one action roll D20 +bonuses if equal or greater to
+     the throw roll then land safely. If a -5 penalty is taken to the counter roll, upon a successful the Z warrior may attempt to
+     attack the thrower back in which case the thrower can only parry/block. 
+
+     8)Instant Stand: whenever the Z warrior is knocked off his feet by an attack, he may roll D20 +bonuses to regain his
+     footing without using up an action. If the roll equals or is greater than the strike roll, then the Z warrior has regained his
+     footing. 9)Parry Blasts: The Z warrior can parry blasts with his bare hands. This ability only works as long as the the
+     blast's maximum damage does not exceed 50 times the Z warrior's level of experience. The Z warrior will have an
+     instinctive idea of how powerful the blast is from Sixth Sense. The Z warrior can also parry missiles but is -5 to do so,
+     failure results in the detonation of the missile, success results in the missile being knock off course. 
+
+     9)Parry Bursts: The Z warrior can move fast enough to parry bursts but is at a -5 to do so. A volley of missiles can be
+     parries at -5 plus an extra -1 per missile. 
+
+     Heals twice as fast as a normal human 
+
+Chi Powered Abilities:
+
+     1.)Enhanced Strength: In addition to the Z warrior's already supernatural strength, his chi can also provide him with
+     extra power: for every 50 points of chi (current base chi + current SSJ pool + current enhanced pool) the Z warrior
+     receives a +1 to PS. As a Z warrior spends chi for other powers, his current chi will lower resulting in a lesser or
+     nonexistent bonus to PS. 
+
+     2.)Flight: The Z warrior can fly using chi: Base flight speed is 50 mph per level of experience. This flight is similar to TK
+     flight an is totally silent. If pressed for speed, the Z warrior can opt to blast. Blasting creates an energy aura, an
+     accompanying contrail and is very noisy. The upside of blasting is that the Z warrior can fly at Mach one per level of
+     experience for a low cost of one point of chi per melee round. Both forms of flight provides the usual dodge bonuses. 
+
+     3.)Energy Discharge: The Z warrior can expel chi in the form of destructive energy/force blasts. The basic manifestation
+     of this power is the fireball; a glob of chi energy that produces both heat and impact damage. The fireball is explosive in
+     nature, affecting the target much like a missile (main target takes full, those in the radius of the blast take half). It may be
+     dodged or blocked but only Z warriors can parry it without it exploding and doing half damage. For every point of chi
+     put into the fireball, it does 1D6 MD. A maximum of 5 x level amount of chi points may be used in one fireball. The
+     fireball has a blast radius in feet in equal to the number of chi points used. The range of the fireball is 1000 ft plus 250
+     feet per level of experience. Only the racial bonuses and the bonuses from PP apply to the fireball. Other forms of
+     energy attacks can be taken as skills... 
+
+     4.) Defensive Aura: The Z warrior is able to create an defensive shield around his body that can withstand 5 MDC per
+     point of chi used. The maximum amount of chi that he can have in his aura is equal to 50 per level experience (or 250
+     MDC per level). If the field is damaged, the Z warrior may spend extra chi to bring up the aura chi total to 50 x lvl. The
+     aura has a duration of one hour or until all MDC have been depleted. While the aura is up, the Z warrior will not be able
+     to recover any of his base chi (or recover chi from the SSJ pool), but is still able to power up as usual. The activation or
+     enhancement of the defensive aura does not take an action and is instantaneous as long as only one adjustment has been
+     done to the aura per action. (i.e. you can turn on your aura for 10 MDC but can't increase it to 50 in the same action...
+     you can however just turn it on to 60 MDC) In any case the aura must be set before damage is calculated. Creating a
+     powerful defense field will limit your offensive capabilities. The aura is visible to the naked eye and can be a variety of
+     colors. 
+
+          Example of use: Bardock (first level Z warrior: 125 base chi points total -early in his career) is in a battle. He first
+          starts off by spending 25 chi points to create 125 MDC aura, and launching a attack (his first action). His
+          opponent blocks the attack and strikes back for 34 points of damage; Bardock's MDC is reduced to 91 (chi
+          points in aura drops to 18 -rounded down). On his next action Bardock, seeing more enemies approaching,
+          spends 32 points of chi to increase his aura to the maximum: 50 chi points or 250 MDC. If Bardock thinks he
+          needs more protection, he can withhold his attack and reboost his aura when it gets damaged. As luck would
+          have it his enemies bombard him to heck with fireballs: the first two (Bardock voluntarily lost initiative for holding
+          his action) do an incredible 243 points of damage, sending Bardock flying through the air. Bardock realizing his
+          impending danger, spends another 20 chi points and using up his action to boost his aura back up to 107 MDC
+          before the third opponent hits him for 45 points of damage. (Bardock could have dodged /parried some of the
+          attacks but luck was against him) At the end of the second melee action, Bardock only has 48 chi points left. 
+
+     5.) Speed Boost: The Z Warrior can use his chi to momentarily increase his speed and give him extra action/attacks per
+     melee round. The maximum number of extra attacks possible is equal to the level of the Z warrior (i.e. a first level Z
+     warrior can gain only one extra attack). Using the speed boost does not count as an action but costs the Z warrior 5
+     points of chi for every extra attack he receives. The extra attack only applies to that melee round unless the Z warrior
+     spends more chi in the following rounds to maintaining the extra attack. The speed boost does not have to be used at
+     the beginning of the round. 
+
+     6.)Power Boost: The Z warrior can charge himself up with chi and thereby increase his power. All the chi from the
+     Power Boost go into the Enhanced Chi Pool. Whenever the Z warrior has chi in his enhanced chi pool, he projects a
+     glowing aura of varying colors (mostly white). The Power Boost cannot be used to regain Base Chi Pool or chi in the
+     SSJ Pool; those chi pools can only be refreshed through rest. A Z warrior may only power up once per day per level of
+     experience (i.e. 5 times per day for a 5th level Z warrior). Furthermore the Z warrior cannot have more chi in his
+     Enhanced Chi Pool than he has in his Base Chi Pool and SSJ Chi Pool combined. A single power up can provide up to
+     Base + SSJ Pool amount of chi. Multiple Power Boosts may be used one after another as long as the Enhanced Chi
+     Pool never goes above the limit. Each action spent powering up provides the Z warrior with 5 X level amount of chi. A
+     Z warrior may not use a Speed Boosted extra action to power up. He may however power up, and then use the chi
+     from the power up to boost his speed. A Z warrior may not dodge, parry or block during the Power Boost, the only
+     allowed defensive action is increasing his Defensive Aura. The chi form the Power Boost only last one melee round per
+     level of the Z warrior after the fight is over (i.e. you can't always stay powered up). 
+
+          Example of use: Bardock is at his maximum power level before the fight (125 chi). Sensing enemies approaching,
+          he uses the Power Boost. For his first action, he screams in typical DBZ fashion, and gains 5 points of chi to his
+          enhanced pool (Enhanced Pool Total: 5 Current Enhanced Pool Chi: 5). I f Bardock spends 24 more actions
+          powering he would reach his limit of 125 in his Enhanced Pool Total -even if he spent some of his Enhanced Pool
+          Chi, he would still be unable to power up further (since he is only entitled to one power up and he has used all
+          125 points possible for that power up). If Bardock was second level he could have reached an Enhanced Pool
+          Total of 225, spent 10 points of chi for a fireball, and then use his second power up of the day to bring his
+          Enhanced Pool Total back up to 225 but not beyond (he does however still have 215 points of chi still available
+          in his second power up to use to recharge his enhanced pool should it ever fall below 225).
+
+     During the powerup the Z warrior generates a HF equal to his level plus three.
+
+The above are standard abilities common to all Z warriors, the following is a list of skills that may or may
+not be part of the Z warrior's abilities. One of the following may be chosen per level of the Z warrior
+(with some noted exceptions).
+
+     1.) Energy Discharge: Light (Sun Burst) Same effect as Blinding Flash the spell except with a radius of 10 feet for every
+     point of chi used, and it is centered on the user (who presumably closes his eyes as he does the sun burst).
+
+     2.) Energy Discharge: Force (Push Attack) Instead of firing a fireball, the Z warrior can use his chi to push his opponent
+     back. This attack may be blocked, parried or dodged. Failure to do so will push the target back a number of feet equal
+     to 10 times the amount of chi used. The target will take 1D6 SDC for every ten feet he would have traveled if he hits a
+     solid object. Furthermore, the target must roll vs. punch against the attack or be knocked off his feet (and lose one
+     attack). The target The maximum amount of chi that can be used in this manner is the same as a normal fireball. The only
+     bonus that is applicable is the +2 racial bonus. 
+
+     3.) Energy Discharge: TK (prereq: Energy Discharge: Force) The Z warrior has fine tuned his force attack to the point
+     that he can use it to levitate and move around objects. The maximum weight of the object(s) is equal to 100lbs per point
+     of chi used. The range is 100 feet per level of the Z warrior. The speed, damage and bonuses are equal to Super TK,
+     the psionic power. The duration is one melee round.
+
+     4.) Energy Discharge: Disc (Kin-zan) Instead of firing an explosive fireball, the Z warrior can create a disc of force and
+     use it to slice his opponent. The disc does 1D8 MD per point of chi used. This attack may be blocked, parried or
+     dodged, but it is -3 to block or parry because of its nature. It has the same limitations as the fireball with regard to range
+     and max amount of chi per attack. It is however non-explosive and is -3 to strike (other modifiers apply as per fireball).
+     (reads cutting damage for GURPS Guru)
+
+     5.)Energy Discharge: Bolt (Freeza's move) Instead of a fireball, the Z warrior can create a bolt of force/energy to attack
+     his opponent with. The bolt does 1D10 MD per point of chi used. This attack may be blocked, dodge or parried, but it
+     is -4 to block and parry because of its nature. It has the same limitation as the fireball with regard to range and max
+     amount of chi per attack. It is however non-explosive and -6 to strike (other modifiers apply as per fireball). (reads
+     impaling damage for GURPS Guru) 
+
+     6.) Homing: By spending twice the amount chi normally used, the Z warrior can make his fireball, disc or bolt homing. A
+     homing missile provides a strike bonus of +5 (other bonuses and penalties still apply). Furthermore the homing missile
+     will last one melee action per level of the Z warrior. While the missile exists, the Z warrior cannot take any other actions
+     (besides upping his defensive aura). The missile in turn becomes a remote attack controlled by the Z warrior. It can
+     either make one attack or one dodge per round (the attack uses the above strike bonus while the dodge is at a straight
+     +5). The missile will cease to exist either when it hits a solid object, gets hit by an attack doing 1 MDC per point of chi
+     used in the missile or time runs out. If the Z warrior abandons his missile before the duration runs out, the missile will
+     head in the direction it was heading prior to being abandoned. The missile can cover the normal range of a fireball per
+     melee action. A maximum of 10 times the level of the Z warrior amount of chi may be used in one such attack (i.e. 10
+     chi points can be used by a first level Z warrior in a homing missile attack -while the missile only lasts one action, he still
+     receives a +5 to strike with it). 
+
+     7.) Energy Discharge: Powered Blast (Bi-ning-la-da) This is the lower end of the super blast techniques. The basic idea
+     is that the Z warrior powers up and unleashes a fireball of immense magnitude. The blast does 2D6 MD per point of chi
+     used in the attack. The maximum amount chi that can be used in one attack is 25 times the level of the Z warrior. The
+     radius of the blast is still equal to the number of chi used in feet. The blast only explodes if it hits a solid object (a wall,
+     the ground). This attack must be the first and only attack of the round for the Z warrior. During this attack the Z warrior
+     cannot block, parry or dodge. His only defense is the defensive aura and the range of the super blast (i.e. fly far away
+     out of their weapon range before doing this). The range of the blast is 1000 feet per level plus 100 feet per point of chi
+     used. The blast is at +5 to strike in addition to any other modifiers. The blast may not be parried but may be blocked or
+     dodged at a -3 penalty.
+
+          The Pushing War: Whenever, two Z warrior use the Powered Blast against one another, a pushing war may
+          result. The pushing war is the energy of the two powered blasts pushing against one another. Such a clash always
+          takes place more or less half way between the two opponents. In such a case roll for damage for both sides, the
+          difference of the damage (in tens of feet) is added to distance between the victor and the fireball and is subtracted
+          from the distance between the loser and the fireball. The fireball is assumed to have a radius in feet total number
+          of chi of both (or all) of the blasts. Should the fireball hit the loser, it does damage equal to the combined damage
+          of both blasts. If it doesn't reach the loser then the contest continues to next round where the blast becomes even
+          larger (the total damage is kept from last round and a new contest is held -and the results applied). Should one of
+          the contestants stop his Powered Blast then he effectively does Zero damage for the round (probably resulting in
+          the fireball hitting him). The one who stopped however can still make use of other techniques to save himself (i.e.
+          Sho-Kan-Idou, creating a Barrier, or by dodging (a further -2 penalty for each round he spent in the pushing
+          war). 
+
+     Note: Other weapons/blasts may also be used to counter a Powered Blast (i.e. A volley of missiles may be fired at the
+     approaching Powered Blast). In such a case, the Powered Blast may be detonated (inflicting its normal damage with its
+     normal radius) if the opposing attack inflicts at least 75% the damage of the Power Blast.
+
+     8.) High Speed Shifting: By spending 5 points of chi each melee action, the Z warrior can move up to 100 feet per level
+     of experience and still make a normal attack. He may, on the other hand, choose to move half that distance and attack
+     the enemy from behind. (An attack from behind is -5 to defend against and the victim must have multiple dodge or
+     multiple parry to begin with) Note: The Z warrior has multiple dodge but not multiple parry. To the world at large the Z
+     warrior seems to teleport from place to place but in actualality he's only using his speed to fool the eye. 
+
+     9.) Shadow Casting: (prereq: High Speed Shifting) By moving extremely fast and then remaining momentarily at one
+     place, the Z warrior can leave images of himself. The images are static so they'll only be able to fool opponents for a
+     brief period of time. By spending 10 points of chi each shadow, the Z warrior can create up to his level number of
+     shadow images of himself in addition to recieving the benifits of High Speed Shifting. With this power, the Z warrior can
+     speed up to his opponent leave an image of himself attacking from the front, and attack from the rear as his opponent
+     dodges the attack from the front. The shadow images last for an entire melee round, though oppoents will notice that the
+     images are static after the first attack/action. The number of images can be spread out during the melee round (i.e. a 2nd
+     level Z warrior can create two shadows during the first action of the round, or he can create one image during his first
+     action and another during his second action. In any case all the images vanish at the end of the melee round.) Only the Z
+     warrior's body (and what ever he's carrying) can be left as a image, the Z warrior cannot make a shadow image of a
+     fireball.
+
+     10.) Chi Awareness I: by spending one action per melee (comes of the last action of the melee round), the Z warrior
+     can track living creatures and disturbances in the envirnoment in his mind. While using this power, the Z warrior can see
+     through illusions, follow super fast movement (like High Speed Shift), and function normally against living opponents
+     even if blinded. The range of this power is 1000 feet per level of experience. This ability will give the chi warrior an
+     rough estimate of the person's chi in addition to just pinpointing that person's location. If the subject is someone the Z
+     warrior knows well or has sensed his chi before, the Z warrior will be able to identify that person through his chi. A
+     person's chi signature will always be the same even if that person's mind is no longer in his body. This power will not
+     sense robots and undead creatures but it will sense their disturbance of the air around the Z warrior.
+
+     11.) Chi Awareness II: (prereq: Chi Awareness I) Same as above but the Z warrior can extend his range to interstellar
+     distances. This ability should not be used in comabt since it takes one melee round for every 100 light years of distance
+     between the Z warrior and his target.
+
+     12.) Sho-Kan-Idou: (prereq: Chi Awareness II) By spending 25 chi the Z warrior can teleport to another living creature
+     that he has sensed with Chi Awareness. If used in combat, the Z warrior can use it to evade an attack (+10 to dodge
+     -no other modifiers apply) and reposition himself next to a living creature (within 10 feet). Using the power this way uses
+     up an action. The Z warrior can also use this power during a Powered Blast so that he can teleport to point blank range
+     and then unleash his blast. If this is the case the victim must roll vs HF 15 or have no defense against the attack (other
+     than boosting his aura).
+
+     13.) Barrier: This purely defensive move creates a barrier around the Z warrior (radius = 5 times level in feet). The
+     barrier can have up to 10 points of chi per level of the Z warrior. The barrier has 25 MDC for every point of chi placed
+     in it. The barrier will last one melee round or until cancelled by the Z warrior. The Z warrior (and those inside the
+     barrier) cannot attack through the barrier (without damaging it).

@@ -1,0 +1,161 @@
+Puppet Master O.C.C.
+
+    This O.C.C. was inspired by the Pinnoccio and Puppet Master movies
+
+
+                                               By:
+                                        gminser@erols.com 
+
+
+       " A strange old man came into town tonight. He claimed to run a puppet show with puppets that moved on their
+     own. He asked to be allowed to pay for his room with a puppet show. I agreed for some reason I can't fathom. "
+
+       " I took my children to the puppet show tonight. It was wondrous. The puppets, they really did move without
+     strings. It was awe inspiring. At first I refused to believe it, looking around for some source of manipulation.
+     Seeing none, I thought that a wizard was moving them, but there was none. I don't know what motivated those
+     puppets, but there was something. Most strangely, even for their wooden bodies, there was something about the
+     puppets, something almost human. Later, I went to see if the old man needed anything. Stopping outside his door,
+     I could hear him talking, to his puppets I guess. I looked through the keyhole, and what did I see but the puppets
+     moving about as if alive. Suddenly one of their wooden little faces appeared in the keyhole starring at me with a
+     look most sinister. Scared out of my wits, I ran down the hall as fast as I could. I fear it would be best to usher
+     this old man and his odd puppets "
+
+         -Unfinished journal entry found next to dead hotel manager 
+
+
+  The Puppet Masters are an odd lot. Part craftsman, part showman, and part wizard, they are among the most mysterious of
+magic practitioners. While most arcanists have a thirst for adventure, knowledge or even power, these individuals seem to care
+only about entertaining, and bringing life to their beloved puppets. Their whole lives revolve around traveling from town to town
+putting on shows with their little puppets, often in exchange for room and supplies.
+  There are two groups of arcanists, Gapetoans and Toulans, named for two Pre-rifts Puppet Masters who are believed to be
+the first Puppet Masters. The Gapetoans carve the body and then pray over the new puppet. They believe that it is a
+benevolent being that infuses their puppets with life but in reality, the puppets come to life because the Puppet Master has
+transferred some of his own life into the puppet. The Gapetoans are unique among Puppet Master in that they can actually
+bring their puppets not just to life but also to flesh and blood.
+  However, this needs an enormous amount of power often requiring a nexus. What many Gapetoan Puppet Masters realize is
+just how much magic energy they have. In fact few arcanists start with the power Gapetoan Puppet Master do.
+  The Toulan Puppet Masters are almost as strong, though their practices don't require them to be as strong. The Toulan
+Puppet Masters use a different method of animating their wooden actors. The Toulan Puppet Master will often find a volunteer
+or victim, though they prefer the words candidate or subject, kill them, and transfer the life force of the dead into the puppet.
+While they can not bestow flesh on to their puppets as the Gapetoan Puppet Masters, they also do not suffer from reducing
+their life force.
+
+Puppet Master Abilities:
+I. Gapetoan Abilities 
+
+   1.Animate Puppet - The Gapetoan Puppet Master, having fashioned the body, prays for several minutes, 1D20, over the
+     puppet asking for it to be infused with life. There is no particular individual that Gapetoan Puppet Masters must pray to,
+     although many prefer to pray to Gapeto. During this time of prayer, the puppet will begin to glow with growing intensity.
+     At the peak there is a bright blinding flash, -5 strike, parry, and dodge for those looking at the puppet, -3 for those
+     within 5'-10' of the puppet, and the Puppet Master expends 200 PPE while transferring 10 SDC or 5 HP into the
+     puppet. MDC creatures transfer 5 MDC. A few minutes, 1D4, after this culmination of prayer the puppet will begin to
+     show signs of it's new life. 
+   2.Flesh Puppet - A Gapetoan Puppet Master has the ability to cause a puppet to become flesh and blood. That is, it will
+     no longer be a animated wooden puppet, but a living, creature of flesh. To do this, the Puppet Master prays for his
+     creation to become real. However this time the experience is much more intense and the Puppet Master must pray
+     longer, 2D20 minutes. -10 strike, parry, and dodge to those watching and -6 to those within 10'-15' of the puppet. If
+     the Puppet Master is praying for an already animated puppet, he only expends 400 PPE and transfers 20 SDC or 10
+     HP into the puppet. MDC creatures transfer 10 MDC. If the Puppet Master is praying for a puppet not yet animated,
+     he expends 600 PPE and transfers 30 SDC or 15 HP / MDC into the puppet. Within several minutes, 2D4, the puppet
+     will undergo a transformation where it's body turns to flesh from top to bottom although it will retain the size and shape
+     of it's puppet form. 
+   3.Generate Creation - Perhaps the most awesome of a Gapetoans abilities is the ability to have a puppet not just come to
+     life, but to come to life at it's real size. This is perhaps the most taxing of abilities for the Gapetoan and is rarely
+     preformed more than once or twice in a lifetime by them as that few have the strength to endure more than one or two.
+     The Gapetoan starts his prayer which may last as long as an hour, 3D20. The culmination flash of this Gapetoan prayer
+     is strong enough to harm, 1D10 SDC / 1D4 MD, most creatures damaged by sunlight and blinding to those without
+     proper eye shielding, -15 strike, parry, dodge to those looking at the puppet and 35% chance permanent blindness, -9
+     to those within 15'-20' of the puppet. It is at the time of the flash that Gapetoan expends 600 PPE and transfers 40
+     SDC or 20 HP / MDC for a puppet that is flesh and blood, 1000 PPE and 60 SDC or 30 HP / MDC for an animated
+     puppet, or 1200 PPE, 70 SDC or 35 HP into the puppet. Soon thereafter, the puppet will begin to grow to real-life
+     proportions. Because of the amounts of energy need, this prayer often said on or near a Ley Line Nexus. Because many
+     Gapetoans have noticed that this prayer seems to work better in groups, they have organized a calender of gatherings at
+     various places and times of the year where Gapetoans may come together to assist one or more of their kind in this
+     ceremony. 
+   4.PPE - 1D6 x 100. Increase by 1D6 x 10 every other level 
+
+II. Toulan Abilities 
+
+   1.Animate Puppet - In order for a Toulan Puppet Master to animate his puppets by infusing them with life, he must
+     capture a persons soul and their PPE as well as remove a gland from the back of their neck. Then he creates a solution
+     with the gland, PPE, and life force which is spread over the puppet. At the same time the Puppet Master expends 150
+     PPE and completes the transfer of life into the puppet. The puppet will come to life soon thereafter, 1D4 minutes. 
+   2.Capture Life Force - The Toulan Puppet Master has the ability to capture a persons soul and life force. Capture Life
+     Force: 45% + 5% per level. If fails within 5% of skill level, captures either PPE or life force but not the other, GM's
+     discretion. 
+   3.Store Life Force - The Toulan Puppet Master that has capture someone's life force and PPE can store it indefinitely in
+     an air-tight container. 
+   4.Telepathy - The Toulan Puppet Master can communicate with his puppets telepathically. 
+   5.PPE - 1D4 x 100 + 50. Increase by 1D4 x 10 every other level. 
+
+
+III. Puppets 
+
+   1.The Puppets can be made out of any material but most often are made of wood or soft metal. 
+   2.Attributes - NPC Puppets: Gapetoan puppets attributes reflect their puppet master. Toulan puppets reflect the attributes
+     of the dead person whose soul inhabits the puppets body. Players who wish to play a puppet use the attributes of the
+     race that most closely resembles their puppet character, i.e. A dragon puppet would use dragon attributes (hatchling in
+     most cases) and a human puppet would use human attributes. 
+   3.SDC / HP: NPC Puppets: Gapetoan puppets have whatever SDC or HP that was transferred to them from their puppet
+     maser plus the SDC of the material they were fashioned from. If MDC was used instead of HPs, convert each MDC
+     into 1 HP or 2 SDC. Toulan puppets have as much SDC as the material their bodies were formed from. Players with
+     Gapetoan puppets use the SDC and HP of the race that most closely resembles their puppet. If a MDC race is picked,
+     SDC equals MDC and HPs equals half of MDC. For example: if the race had 300 MDC, the Puppet would have 300
+     SDC and 150 HP. Players with Toulan puppets use the SDC of the material their bodies were made of. 
+   4.Magic & Psionics: None. 
+   5.Combat: Starting number of attacks is half number of limbs Example: 2 arm puppet starts with 1 attack, 4 arm puppets
+     start with 2 attacks, etc. 
+   6.Skills - Domestic: Dance & Play Musical Instrument; Military: Demolitions; Physical; Technical: Art; Weapon
+     Proficiencies. All skills are at toy equivalent. For instance, the toy equivalent of Demolitions would be using firecrackers
+     and the toy equivalent of Weapon Proficiencies as seen in the Puppet Master movies (Six-Shooter is one example),
+     however, modern weapon proficiencies can only be used with weapons designed for the puppets. Also if a vehicle is
+     designed for the puppet, then the puppet gets appropriate Piloting skill and any Pilot Related skills for that vehicle only.
+     Toulan Puppets (NPCs) get any of the above skills from the dead whose soul inhabits their body. Gapetoan Puppets
+     (NPCs) can learn any of the above skills by choosing any Men-of-arms OCC but without bonuses and half the skills.
+     Players Select any four skills at level 1, and another skill 
+   7.Equipment - Start with 1D6 toy items. may tend to collect small things from time to time. 
+
+
+O.C.C. Skills:
+  Dance - (+10)
+  Play Musical Instrument - (+10)
+  Sew - (+10)
+  Disguise - (+10)
+  Anthropology - (+10)
+  Chemistry - (+10) [Toulan Puppet Masters only]
+  Math: Basic - (+10)
+  Art - (+20)
+  2 Language Skills - (+15)
+  2 Literacy Skills - (+15)
+  Lore: Demon & Monster - (+10)
+  Lore: Faerie - (+10)
+  Writing - (+10)
+  Carpentry - (+25)
+
+O.C.C. Related Skills: Select 5 skills and another two at levels 4, 7, 10, & 13.
+  Radio - Radio: Basic only
+  Domestic - (+10)
+  Electrical - Basic Electronics only
+  Espionage - Wilderness Survival only
+  Mechanical - None
+  Medical - First-Aid only
+  Military - None
+  Physical - All except Acrobatics, Boxing, Gymnastics, & Wrestling
+  Pilot Skills - All
+  Pilot Related - All
+  Rogue - All
+  Science - (+5)
+  Technical - (+10)
+  Weapon Proficiencies - All
+  Wilderness - All
+
+Secondary Skills: Select 5 skills and another two at levels 4, 7, 10, & 13 without bonuses.
+
+Equipment: A few sets of clothes, a toolkit for fashioning puppets, paint kit, 1D4 non-living puppets, 1D4 living puppets,
+combination storage case and stage set, backpack, tent, notebook, digital disk audio / visual recorder / player, sunglasses,
+heavy SDC or light MDC body armor, 1 energy weapon with 1D4 E-clips, 1 ancient weapon, 10% of all Puppet Masters
+have a vehicle like a car or jeep.
+
+Money: 1D4 x 100 credits, 1D6 x 1000 Black Market Items
+
+Cybernetics: Tend to avoid cybernetics.

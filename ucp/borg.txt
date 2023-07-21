@@ -1,0 +1,215 @@
+The Borg
+
+Based on Star Trek:TNG, Star Trek: Voyager, & Star Trek: First Contact
+
+
+
+   (C) 1997 by Kevin Siembieda. (C) 1997 Palladium Books, All rights reserved world wide. No part of this work may be
+  reproduced in part or whole, in any form or by any means, without permission from the publisher. All incidents, situations,
+     institutions, governments and people are fictional and any similarity to characters or persons living or dead is strictly
+  coincidental. Palladium Books (R), and RIFTS (R) are registered trademarks owned and licensed by Kevin Siembieda and
+Palladium Books, Inc. P.P.E. (TM), M.D.C. (TM), Megaverse (TM), and Ley Line (TM) are trademarks owned and licensed
+                              by Kevin Siembieda and Palladium Books, Inc. 
+
+                                         By Crow T. Robot
+
+
+
+    "We are the Borg. Lower your shields and surrender your ships. We will add your biological and technological
+              destinctiveness to our own. Your culture will adapt to service us. Resistance is futile"
+
+The Borg are a species of cybernetic creatures, of varying races. They are unique in the fact that they have a collective hive
+mind, aside from speakers and 'queens' there are no individuals. 
+
+Their goal is simple, to assimilate all life in the megaverse to their own. Contact with the Borg usually results in one of two
+things. If the offender is considered insignificant and harmless, they are ignored. Otherwise they will be assimilated by the Borg,
+their knowledge distributed among the collective. 
+
+
+
+Borg Hirarchy
+
+                           "I am curious, do you control the Borg collective?"
+                        "You imply desparity where none exists. I am the collective."
+
+There are assumably 3 to 4 types of Borg, depending on which school of thought you use.
+
+The first school of thought is that the Queens are not the true leaders of the Borg, but simply generals of a central entity. A
+computer, or perhaps a borg creature, assumably on the homeworld. The Queens each control a section of the Borg, and they
+get thier orders directly from central HQ, this prevents a virus from infecting the entire collective.
+
+Next school of thought is that the Queens are the leaders, and that each of them shares a portion of the Borg, they collaborate
+on many things, but each have their own jobs and problems to deal with.
+
+Finally, the third school of thought is that the Queen is the ultimate leader, and that she controls the ENTIRE collective.
+(Author Note: The Events in First Contact seem to contradict this, seeing as in Voyager the Borg still exist).
+
+Which school of thought is true is a matter of heated debate.
+
+
+
+Borg Technology
+
+                        "The Borg have adapted to every modulation we have used"
+
+Borg technology is adaptive, which means you can't kill a Borg the same way twice, most of the time. Generally the Borg will
+examine an enemies attack patterns, usually taking heavy casulties, but eventually they will adapt to the enemies weapons,
+forcing them to change tactics.
+
+There are weaknesses in this, first of all, old adaptions dont always carry over, they cant adapt to everything, so reverting to
+older tactics MAY help, depending on which adaptions the borg have dropped. 
+
+Borg are all equiped with personal force fields, and after several shots they will adapt to that ENERGY weapon, making it
+useless. Variable frequency weapons can last a bit longer, but eventually the Borg adapt. Mass produced weapons lines
+usually all have a standard frequency, but can be set differently if the holder has weapons engineering. Note that different
+brands will have different frequency. A wilks laser pistol and a triax laser pistol of equal damage, will each be set on different
+frequency, and the Borg would have to adapt to each sepratley.
+
+Borg are NOT immune to physical attack, and it is their greatest weakness, however if the attackers use railguns and MD fists
+enough, the Borg will increase their drones armor to adapt.
+
+How Borg's communication technology works is unknown, but it seems to reach any distance, dimension, or even time that the
+Borg appear in, and they are widespread.
+
+Shields can take 1d4 shots of any given energy weapon before adapting, 2d6 from rotating frequency weapons. Once
+adapted, the weapon does NO damage. They can also adapt to magic spells such as fireball, call lt., and even the fiery breath
+of a Dragon, but these take 3d4 attacks to adapt.
+
+
+
+Assimilation
+
+ "Brave words, I have heard them before. From thousands of species across thousands of worlds since long before you
+                               were created, but now, they are all Borg."
+
+The Borg gain numbers by: A) reproducing (cloning techniques) and B) assimilating other beings into the Borg collective,
+usually as Drones. Assimilation is a process of bionic conversion much more advanced than anything on Rifts Earth, Phase
+World, or Star Trek.
+
+Almost any race, be it elf, human, gargoyle or broodkill can.. in theory.. be assimilated into the collective, the problem being
+that the first creature of any race must be brought to a Borg lab and generally dissected to discover the best way to assimilate.
+This can take from several hours for simple races to days, weeks, or even years for complex races such as creatures of magic.
+Once the creature is able to be assimilated, they will quickly develop nano-bots which will assimilate almost instantly.
+
+The limitations to assimilation are few, but the one thing that may never be assimilated into the collective are TRUE
+supernatural creatures such as Dragons, Gods, and alien intelligences. These creatures are simply magic energy and cannot be
+assimilated. Lesser creatures of magic can, however, be assimilated into the borg collective.
+
+The Borg can assimilate animals, however these will always be drones. They can also assimilate vehicles, power armor, and
+robots. These assimilated vehicles will, in essence, become drones controlled by the collective. They need no pilots.
+
+These nano-bots, when injected in the blood of a race previously examined by the borg, will attach to the bloodstream and
+spread Borg DNA, they replicate quickly and spread throughout the body, also creating mechanical periphials. (Complex
+bionics must be manually assembled). Within 1d6 melees the character will be linked with the Borg collective, and in essence,
+be a Borg.
+
+
+
+The Borg Queen
+
+                     "I am the beginning, the end, the one who is many. I am the borg"
+
+The Borg queen is, depending on who asks, a general or supreme leader of the Borg. Either way, they are in complete control
+of the Borg around them. How many they are is questioned. Some say 1, some say 80, some say 1000.. However many there
+are, they are immensly powerful, cunning, and independtly intelligent. All are completely loyal to the borg..
+
+Unlike other Borg, the Queen is not slow and is quite agile, extremly strong and mostly bionic, the only Queen who has been
+viewed has the head and shoulders of a humanoid (greyish skin), and a bionic body. The organic part can seemingly be
+removed.
+
+Alignment: Abberent
+Stats:
+IQ: 4d6+6
+ME: 4d6+6
+MA: 4d6+6
+PS: 30 (Bionic)
+PP: 20
+PE: 30
+PB: 2d6, 4d6 to other sentient Borg (I.E. Voices)
+Spd: 24
+
+MDC: 250 (Repairs 1d4x10 MD per minute)
+Body Force Field: 450
+Cybernetic Implants:
+Any and All are at her disposal, different Body configurations have different implants.
+Skills of Note:
+All skills collected by the collective. Unless it is a new hive with few Borg, the queen usually has any given skill at 98%
+
+Life Span: Effectivly Immortal
+Power Source: 100 Years+ In the Body, Spinal Column has a backup that will last for 20 Years
+
+
+
+The Borg Voice
+
+   "Your arcane society is authority driven. In order to facilitate our introduction into your society, a voice will be
+                                      chosen to speak for us"
+
+A Borg Voice is created in any society that is able to resist the borg for any period of time, these creatures are sentient, yet
+completly loyal to the Borg. They are used to properly communicate with that society, and to gain information. After their
+usefulness, most become drones, although some are kept sentient, after all, life as a Borg Queen could become lonely.. (This
+may be where some 'Queens' come from, it is speculated that if needed a voice can become a Queen)
+
+IQ: 3d6
+ME: 4d6
+MA: 4d6 (Inspires fear :)
+PS: 24 (Bionic)
+PP: 15
+PE: 20
+PB: 2d6, 3d6 to Other Borg Voices/Queens
+Spd: 3d6
+
+MDC: 100 (Regnerates 2d6 every minute)
+Force Field: 150
+
+Cybernetic Implants:
+Varies, usually optics piece, translator, and 1d6 other implants.
+Skills of Note:
+Can access any skill needed from the collective
+
+Life Span: Effectively Immortal
+Power Source: 50 Years
+
+
+
+The Borg Drone
+
+                              "Those bionic zombies you told me about?"
+                                           "The Borg"
+                                      "Borg...sound sweedish"
+
+The Borg Drone makes up the bulk of the Borg collective, and they are, as the name implies, unsientient drones. They will
+relentlessly work at the job given until given a new purpose. Many are unique in their combinations of implants, but all are multi
+purpose..
+
+They can be of any race, and are often a mix, yet all appear pale skinned and hairless.
+
+IQ: N/A, not free thinking
+ME: N/A
+MA: 2d6, they talk in unison, it is intimidating
+PS: 5d6+4, Bionic
+PP: 2d6 (Conversion causes a type of atrophy in the muscles)
+PE: 4d6
+PB: 1d6
+
+MDC: 2d4x10+20 (40-100), varies upon armor size, etc.
+
+                                       Standard Cybernetics:
+                        1) Any Cybernetics from the main book are avaliable, pick 2d4
+                         2) Force Field Generator, only good against energy attacks.
+                                       3) Asimmilation Needle:
+  This double needle injects into the victims skin (Optional vibro field to peirce MD Skin or armor) and injects nanobots that
+                          begin the assimilation process. See above for more details.
+                                         4) Memory Chip:
+         Inside the chest is the memory chip, which records instructions from the collective for the past 2 weeks.
+
+Skills: They download skills as needed for certain task, any given 10 are known at 98% by the particular Borg.
+
+Life Span: 100 Years
+Power Supply: 16 Hours, 4 Days, 1 month, 1 year, 5 years, 10 years depending on type, is recharged in Borg
+ship/base/planet. Recharging takes (Respectivley), 1 hour, 4 hours, 8 hours, 16 hours, 30 hours, 60 hours, 100 hours.
+Notes on Borg
+
+All Borg are immune to mind control, psionics, etc. Cannot be made into Vampires. Impervious to drugs and toxins, and can
+survive the vaccum of space. Does not need to eat/breath/etc. Mind Linking or Telemechanics will cause the psychic to link
+with the collective and become a Borg for the duration. 

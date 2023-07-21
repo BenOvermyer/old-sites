@@ -1,0 +1,86 @@
+FT11-B MDS Battle Armor
+
+        The MDS Battle Armor is the same armor that is worn by Geist in
+the anime MD Geist.  The armor is black with gold highlights, and
+studded with spikes on the shoulders, knees and feet.  It was the favored
+armored exoskeleton of the MDS soldiers, and retained its name despite
+the fact that it was only used by MDS soldiers for less than a fifth of
+its active life.  Only veteran soldiers were aware of the name's origin.
+
+        It was one of the more popular armored exoskeleton designs, and
+was kept in service for over 15 years.  It was in service for only 2
+years before the MDS soldiers entered their cryogenetic sleep, and was
+upgraded significantly during the rest of its active life.  The original
+model used by MDS soldiers was a bulky SDC armored exoskeleton.  When
+lightweight MDC armor technology began to leap ahead, it was quickly
+adapted to the MDS Battle Armor, increasing its protective capacity
+immensely.  It was also modified into a fully environmental suit. (a
+transparent visor was installed underneath the "football visor" to seal
+the helmet)
+
+        The main strength of the MDS Battle Armor (and most other
+exoskeletons of the time) was their versatility.  These were the early
+designs later developed into power armor.  It gave soldiers in the field
+the strength to carry heavy weaponry, and later offered heavy armor
+protection as well.  By the time the armor was retired, it had protection
+capacity approaching that of a tank. (as did most other MDC exoskeletons)
+
+        The MDS Battle Armor was stored in secret military bunkers, along
+with the MDS soldiers, since it was considered extremely unlikely either
+would ever be used again.  Thus, many MDS soldiers awakened from their
+cryogenetic sleep to find their Battle Armor much improved, ready, and
+waiting for use.
+
+        The following stats are for the MDS Battle Armor design that last
+saw use before it was retired, and was stored with the MDS soldiers.  It
+is old and bulky when compared to current exoskeletons, but still offers
+good protection and is lethal in the hands of an MDS.
+
+Class: FT11-B MDS Battle Armor
+Size: 8 to 9 feet
+Weight: 200 lbs
+Bonuses: +10 PS (max 36), can leap up to 30 feet high and wide with a
+         running start, 15 feet from a standing position
+Mobility Penalties: Armor is bulky, Spd is unaffected. -30% to prowl,
+         acrobatics and gymnastics are impossible, -20% to climb.
+         Reduces fatigue by 25%
+Notes: Armor feels like it weighs about 20 lbs
+
+MDC by Location:
+Head/Helmet - 70
+Arms - 70
+Legs - 85
+Main Body - 180
+
+Special Weapon Systems and Features
+1. Vibro-Spear (standard melee weapon) 1D6 MD, 3D6 MD used two-handed
+2. Small vibro blades on the knuckles add 1D4+1 MD to punch
+3. Grappling hook/spike and 300 foot cable with winch built into left
+arm, can lift up to 1000 lbs (winch is fast when lifting 600 lbs or less)
+
+Typically has a heavy energy weapon, such as a particle beam or plasma
+weapon as standard issue.
+Pre-Rifts old particle beam or plasma cannon
+dmg - 3D6
+payload - 10 shots
+range - 800 ft
+
+3 old E-clips for the weapon are also standard issue. (not compatible
+with modern E-clips)
+
+OTHER NOTES:
+It is likely the old particle beam/plasma weapon will be foregone as soon
+as more powerful modern weapons are acquired.
+
+The spear should be particularly effective if you use optional armor
+penetration rules. (I leave this to individual GMs)
+
+The CS or more likely Northern Gun or the Black Market *may* use the
+design to produce a new improved model if they acquire one of these
+suits.
+
+If you want to see a pic or two, check out
+http://www.geocities.com/Hollywood/1577/mdback.jpg
+It's a background image and pretty light, but you can get a look.
+
+by Hugh King

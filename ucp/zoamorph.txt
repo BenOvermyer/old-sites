@@ -1,0 +1,83 @@
+Zoamorph R.C.C.
+
+
+The Zoamorph is a creation of mine based loosely on the Aptom character in the Guyver comic book and anime
+series. For those unfamiliar with the character, Aptom was one of the ''Lost Unit'' created at Chronos Japan. He was
+an experiment to create a Zoanoid that could adapt his form for a variety of uses, however he ended up being less
+powerful then his creators had hoped, and it was impossible to create more like him. Later, the Zoalord, Doctor
+Valcrus, experimented on him, enhancing his powers tremendiously, he became a genetic parasite capable of
+absorbing the powers of any Zoanoid. Unfortunately Valcrus' tinkering also made him completely immune to Zoalord
+mind control, and he went rogue. This character class is based on the idea that Chronos later perfected what they
+were trying to create with Aptom, an adaptable shapeshifter spy. The character type can be easily used in Rifts and
+Nightspawn settings. 
+
+
+The Zoamorph is a creation of the genetic labs at the Chronos Corperation. A highly adaptable zoaform, the Zoamorph is less
+powerful then a Zoanoid, but is highly useful in espionage rolls. The original Zoamorph research was done at the Chronos
+Japan facility, but it suffered from several spectacular failures. Unreproducable units and unstable mutant forms were the results
+of their research. The research was transfered to other branches, who eventually perfected a Zoamorph that had useful
+capabilities, was reproducable, and highly stable.
+
+The Zoamorph is different from most zoaforms in they do not have a weaker human form and a combat form, but instead have
+a highly variable body that can adapt to any need. Their physical abilities are generally greater than a normal human, but not a
+powerful as most Zoanoids.
+
+On Rifts Earth the decendents of these mutants usually carry on their genetic legacy, but rarely express their mutant traits. The
+Zoamorph genetic code is highly recessive. Only the occasional human, whose both parents were carriers of the Zoamorph
+genes has a small chance of espressing them.
+
+     Alignment: Any, but most commonly anarchist ot evil
+     Rifts O.C.C.'s: Any Men of Arms or Scholar and Adventurer O.C.C. that doesn't have psionic, magical or
+     supernatural powers. Common O.C.C.'s include the spies, scouts and city rats. Use the Nightspawn experience table
+     Nightspawn O.C.C.: Chronos trained Zoamorphs have skills equivalent to a ADA Field Agent. They use the
+     Nightspawn experience table.
+     Attributes: I.Q.: 3D6, M.E.: 3D6, M.A.: 3D6, P.S.: 2D6+12, P.P.: 2D6+9, P.E.: 2D6+12, P.B.: 3D6, but can be
+     controlled from 3 to 24, S.P.D.: 2D6+12
+     Hit points: P.E. plus 1D8 per level of experience.
+     S.D.C.: 60.
+     M.D.C.: On Rifts Earth the Zoamorph is an mega-damage creature, with an M.D.C. equal to his combined hit points
+     and S.D.C.
+     P.P.E.: 1D4+1, the Zoamorph process burns off most available P.P.E.
+     Horror Factor: None normally, but 14 when transforming.
+     Weight: 125 - 250 lbs.
+     Size: 5-8 feet tall.
+     Natural Abilities: The Zoamorph is immune to magical transformation, the same as the Nightspawn ability. They have
+     night vision and superior day vision. The Zoamorph is also a natural shapeshifter. Any living form can be immitated, from
+     one eigth to double normal mass. They have a natural disguise skill equal to 70 percent plus 2 percent per level of
+     experience. They cannot create inorganic substances and equipment. Form changing takes only one melee round. The
+     Zoamorph also regenerates at an amazing rate of 3D6 per melee round. Severed limbs and destroyed organs regrow in
+     one melee round thanks to their shapeshifting, but the M.D.C. must heal back as normal. Only reducing the Zoamorph
+     to negative P.E. in hit points or M.D.C. will kill the creature. Even beheading is just a temoprary setback for this
+     shapeshifter, who can simply gow a new head. Simple physical powers can be gained through shapeshifting, among
+     them are the ability to breath under water through gills, claws that add 1D6 to damage, stretching of limbs to twice their
+     normal legnth, and wings or fins that allow flying or swimming at full running speed.
+     Combat: As per hand to hand skills and bonuses, plus 1 attack per melee in Zoanoid form
+     Damage: See Supernatural Strength Table for damage.
+     Bonuses: +4 To Initiative, +5 Vs. Horror Factor, +2 Vs Magic
+     Psionics: None.
+     Magic: None, cannot use magic.
+     Appearance: Appears human usually, but appearence can range greatly.
+     Depth Tolerance: 500 Ft./152 M)
+     Vulnerabilities: Character is vulnerable to psionic attacks. This is by design, because the heads of the Chronos
+     Corperation were powerful psionics. The character saves vs. psionics on a 17 or less, and gets no bonus to save vs.
+     psionics from his M.E.
+
+Nightspawn notes: On Nightspawn Earth the Chronos Corperation can be adapted into the story line with a few alterations.
+First their research is not based on the study of alien technology, but is an attempt to genetically engineer supernatural beings.
+They have secretly developed the technology to break down the genetic structure of such creatures as Werewolves,
+Nightspawn, and several Nightlands creatures. The Zoanoids are an attempt to recreate humans into supernatural soldiers.
+
+While Chronos kept it's activities secret, they were not prepared for a rival in world domination. Luckily for Chronos they
+learned about the existance of the Nightlords before the Nightlords discovered them. Their plans to take the world by force
+were put on hold when the Zoalords learned what they were up against. They new that a few thousand Zoanoids were no
+match for the millions of minions of the Nightlords. Chronos have just barely been successful in keeping the Nightlord's minions
+out of Chronos, through special blood screenings they are able to spot infultrators, and arrange for ''accidents'' before these
+spies can report back. Chronos is firstly dedicated to keeping it's agenda a secret from the Nightlords, and secondly, it plans
+to increase it forces so that it can one day stand against the Nightlords.
+
+While Zoamorphs more powerful then humans, they are no match for most Nightspawn or minions of the Nightlords in
+combat. Only their shapeshifting and skills make them a force to be reconed with. Of cource as creatures of Earth, Zoamorphs
+have Nightlands counterparts. The nemesis of Zoamorphs include Asmedia, Nightprinces and others.
+
+To convert Zoamorphs to Nightspawn rules, they become S.D.C. creatures. They do damage as per the supernatural stregnth
+table in the Nightspawn rules book. 

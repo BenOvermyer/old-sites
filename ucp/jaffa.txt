@@ -1,0 +1,81 @@
+Jaffa R.C.C.
+
+The Jaffa are the carriers of Go'a'uld larvae. They all have a womb
+in their abdominal area which replaces their entire immune system.
+The larvae is placed in the womb and gives the Jaffa an incredibly
+powerful immune system, as well as superhuman strength and endurance.
+The Go'a'ulds rely on the Jaffa for protection as well as carrying
+their children. It is considered a great honor by the captive races
+to become a Jaffa.
+
+Each Jaffa follows a particular Go'a'uld god, unless they are traitors, 
+in which case they will be hunted vigorously by the god. Anyone aiding
+a traitor will be slain immediately. Large bounties are often placed on
+traitors. The known Go'a'uld gods are:
+
+Ra: (Dead, unless you're doing a pre-movie game) Big shot, sun god.
+Apophis: Serpent god, base is on planet Chu'lak.
+Hathor: Sex(!!) goddess, the mother of the gods. Believed to live with Apophis.
+Thoth: Ibis(an egyptian bird) god, most intelligent of the Go'a'ulds.
+
+There are many other Egyptian gods, feel free to create your own factions.
+
+Alignment: Any, usually evil though.
+Attributes: 
+I.Q. 3D6 
+M.E. 3D6 
+M.A. 3D6+3 
+P.S. 5D6
+P.P. 4D6 
+P.E. 4D6+5 
+P.B. 3D6 
+Spd 3D6
+Hit Points: P.E. + 1D20 per level of experience.
+S.D.C.: P.E. x 10, plus those gained from physical skills.
+Natural Armor Rating: None.
+Horror Factor: 10(note: this is only when the Jaffa displays his Go'a'uld larvae)
+P.P.E.: 3D6
+Abilities: Superior physical strength and endurance, as well as a perfect immune system.
+P.S. and P.E. will never be less than 20. Also very good
+at picking up new languages; they have an extra +10% to languages.
+Combat: Three attacks per melee. Two form hand to hand and one
+form boxing. These are skills the Jaffa learns when growing
+up.
+Bonuses: +2 to save vs horror factor, +1 to strike, +3 to dodge
+and parry, plus those gained from attributes and skill bonuses.
+Psionics: None.
+Average Life Span: 250 years.
+O.C.C.: Any man-at-arms O.C.C., but no other.
+Skills of Note: These are base skills that all Jaffa
+have regardless of their O.C.C. Speak Ancient Egyptian(98%), 
+W.P.:Energy Staff, boxing, and HtH: Expert.
+
+Energy Staff:
+Looks like a hi-tech, almost organic staff with two knobbed ends. One
+end has a web-like center to it, and can be used in melee to shock
+opponents. The other end is the really dangerous end - when a thumb
+switch is hit, the end splits into 4 sections and a burst of energy
+can be fired from the end.
+
+Weight: 18 lbs.
+Mega-Damage: Energy Blast: 4D6+10 M.D. 
+Structural Damage: Shock Web: 4d6 S.D.
+Rate of Fire: Standard for energy rifles.
+Effective Range: 1000 ft.
+Black Market Cost: 35,000 credits.
+
+Morphing Armor:
+Each of the Go'a'uld factions has a specific type of armor that they
+give to their Jaffa. Ra's Jaffa had jackal and hawk armor. Apophis's
+Jaffa had snake armor. Hathor's Jaffa had NO armor. Most of the other
+"gods"' Jaffa have some form of this special morphing armor. The gods
+themselves wear customized versions of their faction's armor. The armor
+will morph from protective to "open" modes, and back, at the will of
+the wearer. 
+
+Weight: Varies with faction. Usually around 12 lbs.
+M.D.C.: Varies with faction. Usually around 5 MDC.
+Black Market Cost: Not available even on the black market! If you want
+		   it, kill a Jaffa or BE a Jaffa!
+
+This R.C.C. Written By Ben Overmyer

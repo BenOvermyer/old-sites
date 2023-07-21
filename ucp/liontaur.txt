@@ -1,0 +1,75 @@
+The Liontaur
+
+Based on Sierra Online's Quest For Glory 3
+
+
+
+   (C) 1997 by Kevin Siembieda. (C) 1997 Palladium Books, All rights reserved world wide. No part of this work may be
+  reproduced in part or whole, in any form or by any means, without permission from the publisher. All incidents, situations,
+     institutions, governments and people are fictional and any similarity to characters or persons living or dead is strictly
+  coincidental. Palladium Books (R), and RIFTS (R) are registered trademarks owned and licensed by Kevin Siembieda and
+Palladium Books, Inc. P.P.E. (TM), M.D.C. (TM), Megaverse (TM), and Ley Line (TM) are trademarks owned and licensed
+                      by Kevin Siembieda and Palladium Books, Inc. By Crow T. Robot 
+                                       Artwork By: Gryphon 
+
+
+
+
+
+The Liontaur are a race of centuar like creatures with one key difference, instead of being Equine they are Feline. They have
+the lower body of a lion, the upper body of a man, and their head is a mixture between a lion and a human, with golden fur,
+and Lion-like features, but with the same general layout of a human face.
+
+As a race in general they are instinctivly honorable. 90% of them are either principled or abberant, the other 10% are a mixture
+of the other alignments. Their society itself is highly entwined with honor, and being deemed honorless in a Liontaur society is
+the worst punishment, as no other Liontaur will consort with the honorless one.
+
+In their African-like homelands they built the great city of Tarna, and were generally peaceful for several centuries. Their home
+city became a center of trade throughout the land, and they built an empire, but unfortunatly a war with an army of deamons
+toppled the great city. In a final battle between the greatest Liontaur paladin and the demon high wizard, a huge rift was open in
+the center of the city, engulfing and displacing over 800 Liontaurs. Liontaurs to several different worlds, including Palladium &
+Rifts Earth.
+
+The tribe on Rifts Earth ended up in the grasslands of Africa in about 60 PA on the shores of Lake Tanganyika. Almost 500 of
+the creatures ended up in Africa, and after they realised they were stuck here, they began to re-build their city. They quickly
+made allies with several nearby tribes, bringing 3 human and d-bee tribes together, and they began to build their city, 'New
+Tarna' on the shores of the lake. They learned of technology quickly, and have aquired the capabilities to construct MD armor
+and weapons (The technoloy was aquired by travelling paladins, and took almost 30 years to acquire).
+
+The Palladium Counterparts of these Liontaurs ended up in the Yin-Sloth jungles, near the ruins of an acient dragonwright city.
+The 300 liontaurs began re-constructing their city (Also named New Tarna, hey, the liontaurs arn't extremly creative). Due to
+the presence of several Dragonwright temples in the area, the religion has spread to a large number of the Liontaurs, and the
+groups of Liontaurs are seperated by their own religion (whos gods have disapeared) and Dragonwright, whos priests have
+power in this land. In the past years a large number of neighboring elvish tribal people have migrated to the liontaurs cities, and
+for the moment Palladium's New Tarna is prospering.
+
+The Liontaur
+
+Alignments: 90% are Principled or Abberant
+
+IQ: 3d6
+ME: 2d6
+MA: 3d6
+PS: 4d6
+PP: 4d6
+PE: 3d6
+PB: 3d6
+Spd: 1d4x10
+
+HP: PE + 1d6
+SDC: 1d6x10 + Bonuses
+PPE: As Human, or As OCC
+
+Special Abilities
+
+Enhanced Senses of Smell and Taste: About twice as sensative as a humans. 
+
+Weaknesses
+
+Food Consumption: The Liontaur must eat about twice as much as a human being to support their increased mass.
+
+OCCs: Any non-psionic related. Tend towards Paladin, or on low tech worlds, Cyberknights
+
+Psionics: None, Liontaurs cannot be Psionic
+
+Average Life Span: 80 Years

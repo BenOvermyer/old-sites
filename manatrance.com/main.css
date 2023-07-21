@@ -1,0 +1,55 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #ffffff; FONT-SIZE: 10pt; SCROLLBAR-SHADOW-COLOR: #999999; COLOR: #1b1b1b; LINE-HEIGHT: 130%; 
+	SCROLLBAR-ARROW-COLOR: #c70000; FONT-STYLE: normal; FONT-FAMILY: "Verdana",sans-serif,serif; SCROLLBAR-DARKSHADOW-COLOR: white; 
+	SCROLLBAR-BASE-COLOR: #bbbbbb; TEXT-DECORATION: none; scrollbar-hightlight-color: #EEEEEE
+}
+
+p {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: "Verdana",sans-serif,serif; text-decoration: none
+}
+
+p.copyrite {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: "Tahoma",sans-serif,serif; text-decoration: none
+}
+
+.link {
+	FONT-SIZE: 9pt; COLOR: #3c3c3c; LINE-HEIGHT: 120%; FONT-STYLE: normal; FONT-FAMILY: "MS PGothic"; text-decoration: none
+}
+.link:link {
+	FONT-SIZE: 9pt; COLOR: #3c3c3c; LINE-HEIGHT: 120%; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.link:visited {
+	FONT-SIZE: 9pt; COLOR: #3c3c3c; LINE-HEIGHT: 120%; FONT-STYLE: normal; TEXT-DECORATION: none
+}
+.link:hover {
+	FONT-SIZE: 9pt; COLOR: #000000; LINE-HEIGHT: 120%; FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+
+a.menu {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-STYLE: bold; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+
+a.menu:visited {
+	FONT-SIZE: 10pt; COLOR: #222222; FONT-STYLE: bold; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+
+a.menu:hover {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-STYLE: bold; FONT-FAMILY: Verdana; TEXT-DECORATION: underline
+}
+
+a.menu:active {
+	FONT-SIZE: 10pt; COLOR: #999999; FONT-STYLE: bold; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+
+.link {
+	FONT-SIZE: 9pt; COLOR: #3c3c3c; LINE-HEIGHT: 120%; FONT-STYLE: bold; FONT-FAMILY: "MS PGothic"; text-decoration: none
+}
+.link:link {
+	FONT-SIZE: 9pt; COLOR: #3c3c3c; LINE-HEIGHT: 120%; FONT-STYLE: bold; TEXT-DECORATION: underline
+}
+.link:visited {
+	FONT-SIZE: 9pt; COLOR: #9c9c9c; LINE-HEIGHT: 120%; FONT-STYLE: italic; TEXT-DECORATION: none
+}
+.link:hover {
+	FONT-SIZE: 9pt; COLOR: #000000; LINE-HEIGHT: 120%; FONT-STYLE: none; TEXT-DECORATION: none
+}

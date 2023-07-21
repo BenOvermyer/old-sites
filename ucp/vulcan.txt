@@ -1,0 +1,87 @@
+Vulcan R.C.C.
+
+
+                                               By:
+                                          Tim Santa Cruz 
+
+
+ ; ;Vulcans are a logical race of humanoids from the planet Vulcan. They believe in logic as the only way to live a complete life.
+Thus, they have no crime, violence, or other social problems, because those things are, illogical.
+
+ ; ;Vulcans at one time were an extremely illogical race, given to barbarism, war, and the like, but in order to save their race,
+they adopted a logical way of life. They have developed FTL spaceships, but their craft are designed mainly for science and
+exploration, with minimal weapons and shielding. They are the opposite of their cousin race the Romulans who are a warlike
+and illogical people. The Vulcans want to learn all that they can about the universe, and thus, are very interested in exploring
+Rifts Earth. (As well as other RPG settings).
+
+Alignments: Most Vulcans will be of good alignment due to their logical outlook on life.
+
+Attributes: I.Q. 3D6+6, M.E. 4D6+6, M.A. 2D6, P.S. 5D6, P.P. 3D6+2, P.E. 3D6, P.B. 3D6, Spd. 3D6
+
+Hit Points: P.E. +1D6 per each level.
+
+S.D.C.: 30
+
+Natural Armor Rating: None
+
+Awe Factor: 7
+
+I.S.P.: M.E. +2D6 plus 1D6 per each level (starting at level one)
+
+P.P.E.: 1D6
+
+Natural Abilities: Superior Physical Strength, Vulcan Nerve Pinch (Special, See Below), Resistant to Radiation (1/2
+Damage)
+
+Combat: 2 Attacks, plus those gained from Hand to Hand Combat and/or Boxing.
+
+Bonuses: +1 Save vs. Psionics. +1 Save vs. Poison, +4 Save vs. Horror Factor
+
+Psionics: Mind Meld (Special, See Below), Empathy
+
+Magic: None
+
+Average Life Span: 250 Years
+
+Rifts O.C.C.s: Mostly Scholarly, but any O.C.C. may be chosen. The only exception is CS Military, and Borg
+
+Skills of Note: Speak Vulcan 98%, Speak English 60%, +5% to all Science Skills
+
+Size: 60 + 4D6 inches
+
+Weight: 150 to 250 lb.
+
+Equipment: Only Equipment that is available to the O.C.C. The Vulcans to not build their own weapons so the only ones
+available will be the ones purchased or traded for.
+
+Vulcan Nerve Pinch (Available only to Vulcans): Vulcans use this to incapacitate a victim. Since the vulcans generally don't
+believe in violence, this is a suitable alternative for them. The victim will be completely unconscious for 1D6 minutes.
+There is *no* savings throw.
+ ; ;Range: Touch
+ ; ;Duration: 1D6 Minutes
+ ; ;Damage: None
+
+Vulcan Mind Meld (Available only to Vulcans): This power allows the vulcan to experience a telepathic transfer of thoughts
+with another of any race. This includes all humanoids, aliens intelligences and unintelligent animals. This can be very useful to
+extract information from an individual. The vulcan can also transfer his thoughts to another person. Once a Vulcan has mind
+melded with someone, the it can never be taken back. The vulcan will remember all information extracted, and the other
+person will remember all information received.
+
+Telepathic Extraction: The vulcan can use this power to extract any thoughts or emotions from an individual. The savings
+throw is standard, but the vulcan can raise it by adding 10 I.S.P. per Point.
+ ; ;I.S.P.: 10
+ ; ;Range: Touch
+ ; ;Duration: Permanent
+
+Telepathic Transmission: The vulcan may use this to transfer his own thoughts or emotions to another person. The savings
+throw is standard.
+ ; ;I.S.P.: 10
+ ; ;Range: Touch
+ ; ;Duration: Permanent
+
+Mind Transfer: If a vulcan determines that he is going to die, he will attempt a transfer of all mental functions to the nearest
+individual. This is a grueling process that takes it's toll, not only on the vulcan, but also on the recipient, who will automatically
+lose 1 M.E. point, and 2 P.P.E. points.
+ ; ;I.S.P.: All remaining ISP + the loss of 2 M.E. points
+ ; ;Range: Touch
+ ; ;Duration: Permanent

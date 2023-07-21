@@ -1,0 +1,55 @@
+Starfleet Commando O.C.C.
+
+
+                                               By:
+                                          Tim Santa Cruz
+
+
+Attribute Requirements: I.Q. 11, M.E. 10, P.S.. 13. 
+
+Starting Rank: Lieutenant
+
+O.C.C. Skills:
+  Athletics
+  Boxing
+  Computer Operation (+15%)
+  Demolition (+10%)
+  Demolition Disposal (+5%)
+  Intelligence (+5%)
+  Language: English (98%)
+  Literacy: English (98%)
+  Math: Advanced (+15%)
+  Radio: Basic (+10%)
+  Sniper
+  Weapons Engineer (+5%)
+  W.P. Energy Pistol 
+  W.P. Energy Rifle
+  W.P. Heavy Energy
+  Hand to Hand: Starfleet (See Below)
+
+O.C.C. Related Skills: Select Eight from the following categories
+  Communications - Any 
+  Domestic - Any
+  Electrical - Basic Electronics Only 
+  Espionage - Any (+10%)
+  Mechanical - Any
+  Medical - First Aid and Paramedic Only 
+  Physical - Any (+5% where applicable)
+  Pilot - Any 
+  Pilot Related - Any 
+  Rogue - Any (+5%)
+  Science - Any
+  Technical - Any
+  Weapon Proficiencies - Any
+  Wilderness - Any (+5%)
+
+Secondary Skills: Select 8 at level One, and Two at levels Three, Six, Nine, Twelve, Fifteen 
+
+Standard Equipment: One suit of Medium Armor, One Type II Phaser, One Type III Phaser Rifle, 2D6 Flash Grenades,
+1D6 Plasma Grenades, One SF-10 Disruptor, Tricorder, Universal Translator, Communicator, One Carrying Bag, One
+Standard Starfleet Uniform, One Standard Starfleet Dress Uniform, Five weeks of Ration Pills, Binoculars, Medical Kit.
+
+Money: Standard Salary is 6000 Starfleet Credits a Month (Equal to 3600 Rifts Credits). Starts off with One Months Pay
+
+Cybernetics: None. Would not necessarily be opposed to cybernetic implants, but Starfleet generally frowns upon them.
+Definitely no Bionic limbs.

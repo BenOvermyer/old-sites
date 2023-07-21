@@ -1,0 +1,63 @@
+FMB Hound Monocycle (Hugh King's version)
+
+The Hound is a military one man motorcycle unit, a cheap anti-armor
+unit.  Generally used by way of greater numbers and greater mobility
+vs heavier firepower and heavier armor.
+
+The Hound has only minimal sensors: a targeting system and a short
+range radio.
+
+The pilot can be hit with a called shot at -5. (usually wearing
+body armor though)  The Hound is +4 to dodge.
+
+Crew: 1
+Class: FMB
+
+MDC by Location:
+*Smoke launchers(6) - 5 each
+*Machine-gun - 15
+*Wheel - 20
+**Main Cannon - 20
+***Main Body - 100
+
+* Requires a called shot at -6
+** Requires a called shot at -3
+*** Depleting shuts the Hound down, rendering it useless
+
+Statistical Data
+Height: 5 feet
+Length: 10 feet
+Width: 4 feet
+Weight: 800 lbs
+Cargo: Room for one rifle and sidearm
+Power System: Gasoline, can be converted to electric
+Black Market Cost: 350,000 credits if available
+
+Speed: 160 mph maximum, 80 mph considered cruising
+Range: 400 miles
+
+Weapon Systems:
+1. Main Cannon
+Primary Purpose: Anti-Armor
+Weight: N/A
+Mega-Damage: 2D4x10
+Rate of Fire: 4 times per melee maximum, single shots only
+Maximum Effective Range: 750 ft
+Payload: 20 shots
+
+This weapon has very high power for penetrating the Octopus Tank
+armor, but minimal range and relatively low payload.  Meant to be
+used for hard hits, then break off and reload.
+
+2. Machinegun
+Primary Purpose: Anti-Personnel
+Mega-Damage: 3d6 for one burst
+Range: 1200 ft
+Rate Of Fire: Equal to the #attacks, bursts only
+Payload: 20 Bursts
+
+3. Grenade Launchers (6)
+Mega-Damage: By grenade type, normally smoke grenades (no damage)
+Range: 800 ft
+Rate Of Fire: one at a time or in volleys of 2, 3 or 6
+Payload: 12 grenades

@@ -1,0 +1,166 @@
+Street Fighters O.C.C.
+
+
+                                               By:
+                                        Jeremy David Balsley 
+
+
+  Once, long before the Rifts, before even Victor Lazlo...there were the masters of the Arts of Unarmed Combat.
+
+Background:
+_The Street Fighters_
+  The Street Fighters are men and women trained in the ancient martial arts to such a level of perfection that they have learned
+to channel their very spirit (ISP, PPE, Chi) into their styles. The trademarks of the Street Fighter are his or her flashy style, the
+devastating techniques, and...with the most advanced Fighter, the ability to throw projectiles composed out of their very spirit.
+
+_The Grand Tournament_
+  Every year, the best of the best of Street Fighters fight for the title of Grand Master. For the last two years, the young martial
+artist known as Ryu Hoshi has held that title...
+
+
+Bonuses: 3D6 SDC
+
+P.P.E.: PE+1D4
+
+Chi: PE+1D4
+
+I.S.P.: ME+1D4
+
+Attributes: As per R.C.C. 95% of all Street Fighters are humans.
+
+Skills:
+  Language: Native (98%)
+  Literacy: Native (+10%)
+  Language: English (+10%)
+  Literacy: English (+5%)
+  Math: Basic (+10%)
+  Lore: The Grand Tournament (Base: 25% +5%/Level, +10% bonus)
+  Select 6 Skills (All at +5%)
+  Hand-Hand: (Street Fighter) Select one Style
+
+Secondary Skills: Select 4.
+
+
+
+SFH-H: Shotokan Karate
+
+***This Form is only available to Street Fighters!***
+
+Key to Symbols
+
+Punch-Hand Attacks
+Kick-Foot Attacks
+Focus-Ranged attacks
+Parry-As usual
+Dodge-As Usual
+Roll-As Usual
+
++: 'And'
+|: 'Or'
+
++2(Punch+Kick) means +2 to Punch and +2 to Kick
++2(Punch|Kick) means +2 distributed between punch and Kick
+
+Beginning maneuvers
+  Basic Defenses: Parry, Dodge, AutoParry
+  Advanced Defenses: Circular Parry.
+  Basic Hand Attacks: Select any 3
+  Basic Foot Attacks: Select any 3
+  Advanced Hand Attacks: leap attack
+  Advanced Foot Attacks: Leap Kick (any 3 above)
+
+Advanced Maneuvers
+  Level 1 HaDouken
+  Level 1 ShoRyuKen
+  Level 1 TatsumakiSenpuuKyaku
+  1000 points in MA Techniques
+
+Level Advancement Chart:
+ 1st:
+      +2 (Punch+Kick+Focus), +3(Dodge+Parry+Roll), 2 APM, Select any 2 Techniques from MA Powers, Chi Mastery,
+      or Special Katas.
+ 2nd:
+      +1 (Punch+Kick+Focus), +2(Punch|Kick|Focus)
+ 3rd:
+      +2 (Parry|Dodge|Roll), select 1 MA Technique from the above list
+ 4th:
+      +1 Attack per Melee
+ 5th:
+      +2 (Punch|kick|focus)
+ 6th:
+      +1 (Parry+Dodge+Roll+Punch+Kick+Focus), +1 APM
+ 7th:
+      Select 1 Zenjorike Power, +2 (Punch|Kick|Focus)
+ 8th:
+      +2 (Parry|Dodge|Roll)
+ 9th:
+      +2 (Punch|Kick|Focus)
+ 10th:
+      +1 (Punch+Kick+Focus+Dodge+Parry+Roll)
+ 11th:
+      +1 APM, +2 (Punch|Kick|Focus)
+ 12th:
+      +2 (Parry|Dodge|Roll)
+ 13th:
+      +1 (Punch+Kick+Focus+Parry+Dodge+Roll)
+ 14th:
+      +2 (Parry|Dodge|Roll|Punch|Kick|Focus)
+ 15th:
+      Select 1 Zenjorike Power
+
+
+
+
+SFHH: Shotokan Karate Special Maneuvers
+
+Ha Dou Ken
+  The Infamous Wave Motion Punch
+  The Fighter pulls his/her arms back, gathers his/her Chi, then cuts loose.
+
+  Level 1: (100 points)
+    A Dan style 'GaDouKen'
+    Range: PE inches
+    Damage: 2D4
+
+  Level 2: (250 points)
+    A Sakura style "HaDouKen"
+    Range: PE feet
+    Damage: 2D4
+
+  Level 3: (400 points)
+    A Ryu/Ken/Gouki Style HaDouKen, the most advanced one
+    Range: PE Meters
+    Damage: 2D6
+
+Enhancements:
+
+Charging: (20 points)
+
+  The fighter can spend extra attacks, to increase the size of the projectile, making it more likely to strike the intended victim.
+Sakura's HaDouKen is an example of this in action.
+
+_Number of Attacks_             _Range_ _Damage_ _Strike_
+
+1 Attack                        Full    Normal   Normal
+
+2 Attacks                       1/2     +4       +2
+
+3 Attacks                       1/16    +
+
+
+
+Elemental: (20 points)
+  The fighters projectile inflicts damage of an elemental nature. The most common element is that of Fire, followed by ice or
+electricity.   Range: Normal
+  Damage: Normal + 3
+  Effects: Target suffers the effects of a knockdown, and looses an attack
+
+Fast: (20 points)
+  The fighters HaDouKen gets a +1 Initiative for each time this power is selected.
+
+Heavy Damage: (30 points)
+  The fighters HaDouKen is more damaging.
+    Damage: Normal +2
+
+Knockdown: (10 points)
+  The fighters Hadouken inflicts a knockdown on its target

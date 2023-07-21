@@ -1,0 +1,87 @@
+Gundam RX78 GP-01 ('Unit 1', 'Standard')
+
+        The GP-01 Gundam is a Mobile Suit (robot) armed with a
+beam rifle and two beam sabers.  It carries the beam rifle with
+its right arm and has a large MDC shield on its left arm used to
+parry energy blasts and missile attacks.  The two beam sabers are
+stored over each shoulder.  It is white with a blue chest and
+blue highlights.  Since it has two eyes, it is the Mobile Suit
+that looks the most human.
+
+Brief appearance note: The head looks quite a bit like Optimus
+Prime's (Transformers - eyes, but no nose or mouth)
+
+        The Gundam can fly, but only for short periods and at
+very low altitudes.  However, thruster assisted leaps still allow
+the Gundam to maintain a fair amount of maneuverability without
+actually flying.
+
+Crew: One
+Class: RX78 GP-01
+
+MDC by Location:
+Head/Helmet - 140
+Arms - 170
+Shield - 180
+Legs - 230
+Rear Thrusters, shoulder - 210
+*Main Body - 350
+
+* Depleting shuts the Mobile Suit down, rendering it useless
+
+Speed
+Running: 60 mph maximum
+Leaping: 60 ft after a running start
+Flying: 90 mph, can fly for an hour before needing to stop for
+        an hour.  Maximum altitude is 350 feet.  With a thruster
+        assisted leap, can attain 180 ft high or across.
+
+Statistical Data
+Height: 60 ft
+Weight: 64 tons (fully loaded)
+PS: 40
+Cargo: Minimal, room for a weapon or two
+Power Supply: Nuclear
+Black Market Cost: The Black Market doesn't know about them,
+        but they would go for about 50 million credits or more
+
+Weapon Systems
+1. Beam Rifle
+Weight: 1500 lbs
+Mega-Damage: 2D6x10
+Rate of Fire: equal to #attacks per melee, single shots only
+Maximum Effective Range: 6000 ft, however, beyond 500 ft a roll
+        of 8 or higher is needed to strike, and beyond 2000 ft
+        a 12 or higher is needed to strike (requires a fair bit
+        of precision)
+Payload: Effectively unlimited, however, after 30 blasts in a
+        relatively short time, it will require a recharging
+        period, blasts recharge at the rate of 10 per hour
+
+2. Beam Saber
+Weight: 1200 lbs
+Mega-Damage: 2D6x10
+Payload: Effectively unlimited, powered by the nuclear supply
+
+3. Minovsky Particle Generator
+Minovsky reactors generate a field that scrambles all known sensors,
+forcing the enemy to engage in short range visual combat. (guided
+missiles have no bonus, and require called shots further than 100 ft)
+Furthermore, any opponent bonuses to strike due to sensors are
+cancelled.
+
+4. Hand to Hand
+Robot Combat Elite gives same as UAR-1 Enforcer except following:
++3 to dodge
++4 to parry
++1 to roll
+
+
+For a few images, go here:
+http://ftp.tcp.com/pub/anime-manga/sorted/Gundam/Images/0083-013.GIF
+(action pic with beam saber & shield)
+http://ftp.tcp.com/pub/anime-manga/sorted/Gundam/Images/0083.Katoki.Hajime.GIF
+(great painting of the head, but big - 340 KB)
+
+
+By Hugh King

@@ -1,0 +1,62 @@
+The Dynari
+                               (Based on Star Control 2) 
+
+
+                                               By:
+                                          Crow T. Robot 
+
+
+  The Dynari is a race that looks like a mix between a toad and a brain. Picture a large bullfrog with complex eyes who's skin is
+composed of Brain Matter and you will get a good idea of what a Dynari looks like.
+
+  While physically inept, they are psychics of incredible strength and ability, and have the ability to control and compel other
+sentient beings to suit their evil purposes..
+
+  Milennia ago, in another dimension they controlled a collection of races known as the Sentient Mileu.. For over 8 centuries
+they controlled this collection, until finally their downfall was engineered. The only surviving races were the insect like Ur-Quan,
+and the One eyed Melnorme. In the end, the dynari were labotomized and used as mindless translators known to the Ur'Quan
+as talking pets..
+
+  Unknown to everyone, a small ship with a nest of Dynari was lost in a hyperspace accident, and resurfaced in the Phaseworld
+Universe.. Here the remaining Dynari hope to forge an empire for themselves..
+
+Dynari Stats (Not meant as a PC!)
+
+Alignment: Evil, usually miscreant/diabolic
+
+Attributes:IQ: 5d6, ME: 5d6, MA: 4d6, PS: 1d6, PE: 1d6, PP: 3d6, PB: 1d4, 3d6 to other Dynari
+
+S.D.C.: 5
+
+Hit Points: PE + 1d6
+
+I.S.P.: 4d6x10+ME + 4d6 per level of exp
+
+Psionic Abilities:
+  Pick 4 From Each Catagory at Level 1
+  Pick 3 From Any Catagory each aditional level!
+
+Special Dynaryi Abilities:
+  Ultra Mental Compulsion:
+    ISP Cost: 100
+    Duration: 1 day per level of exp
+    Range: 10 miles per level of exp
+    Targets: 250 People/Sentient Beings Per level of expeirience.
+  This amazing ability allows the Dynari to control a large amount of people mentally, and force them to obey orders. All targets
+must make an initial save (-1 per lv. of dynari), otherwise they will be mentally to do whatever the Dynari asks. If asked to kill
+a loved one, or do something totally aginst alignment, or commit suicide the target gets to roll an UNMODIFIED save vs.
+psionics (Roll Above a 12), if they suceed they wont do the command, and cannot be further compelled to follow that
+command (Note they are still under command of the Dynari)
+  The only way to Break the compulsion is pain. Extreme pain for 5 minutes continuously will break the mental compulsion.
+This is how the Ur-Quan eventually over through the Dynari. Note that people already in a state of pain cannot be affected by
+this power.
+
+  Telepathy/Empathy at NO isp charge, natural communication for race.
+
+  Nightvision
+
+Lifespan: 1500 Years
+
+
+  Please note that while the Dynari may seem powerful, they are meant to be. They are bad guys and if you are dumb enough
+to let a player play one. Well you deserve what you get.. Hopefully this will spawn some interesting comments ;)

@@ -1,0 +1,89 @@
+Klingon
+
+
+                                               By:
+                                          Tim Santa Cruz 
+
+
+I'm sure this has been done a million times, but... This can be used for pretty much any game system, but works best in Heroes
+Unlimited and Rifts. This is *not* an R.C.C., but an Alien Race. (Mostly 'cause I'm too lazy to do the Skills.)
+
+BTW, I hope I am not violating any dead thread laws here. :P
+
+
+  If you don't know who Klingons are then go watch Star Trek. They are a race of Warriors, who believe strongly in honor
+and combat. Most Klingons are very concerned with appearing honorable before their family and their Empire.
+
+  Klingons have developed incredibly advanced FTL spaceships using a technology called Warp Drive, and use a technology
+called a cloaking device (traded for from the Romulans) that can render their ships invisible to all scanning devices.
+
+  The Klingons are ruled by a high council with the head of that council being the leader of the Empire. There is also an
+Emperor named Ka'lest, but he is more of a figurehead ruler than an actual Emperor.
+
+  The Klingons have highly honed combat skills and will often fight with each other, sometimes to the death, for the purpoase of
+building up thier comabt skills. They often have fighting tournaments in which many competitors are maimed or killed, for the
+sake of honor and combat.
+
+Alignments: Usually Selfish or Aberrant, but can choose any.
+
+Attributes: I.Q. 3D6, M.E. 3D6, M.A. 3D6+1, P.S. 4D6+2, P.P. 3D6, P.E. 5D6, P.B. 2D6, Spd 3D6
+
+Hit Points: P.E. + 2D6 at level one, plus 1D6 each additional level
+
+S.D.C.: 40
+
+Natural Armor Rating: None
+
+Horror Factor: 10
+
+P.P.E.: 3D6
+
+Natural Abilities: Superior Physical Strength and Endurance. Heal twice as fast as Humans.
+
+Combat: 2 Attacks, plus those gained from Hand to Hand Combat and/or Boxing.
+
+Bonuses: + 2 Save vs. Horror Factor, +3 Save vs. Poison, +10% Save vs. Coma Death. This is in addition to any attribute
+Bonuses.
+
+Psionics: None
+
+Magic: None, The Klingons don't believe in Magic.
+
+Average Life Span: 40 Years. Most Klingons die in combat, but the actual lifespan would be about 80 years.
+
+Rifts O.C.C.s: Any Men of Arms Except for Military, Borg, Glitter Boy, and Cyber-Knight.
+
+Skills of Note: Speak Klingonese at 98%, W.P. Knife., W.P. Energy Pistol
+
+Size: 66 + 3D6 inches.
+
+Weight: 180 to 250 lb.
+
+Equipment:
+
+Klingon Battle Armor
+ Weight: 40 lb
+ A.R. 12
+ S.D.C. 60
+
+Bat'leth
+ Weight: 20 lb
+ Damage: 5D6 
+
+Klingon Knife
+ Weight: 5 lb.
+ Damage: 2D6 
+
+Klingon Disruptor
+ Weight: 5 lb.
+ Range: 1000 ft.
+ Payload: 30
+ Damage: 6 Settings
+  1 - 1D4 Stun. (rarely used) Has a 50 % chance of knocking out victims.
+  2 - 4D6
+  3 - 1D4 x 10
+  4 - 1D4 x 100*
+  5 - 2D6 x 100*
+  6 - 5D6 x 100*
+
+* The last 3 Setting are generally refered to as Kill and will vaporize in an instant.

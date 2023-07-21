@@ -1,0 +1,48 @@
+Gamma World Conversion: Orlen R.C.C.
+
+
+From the biological archives of Lazlo:
+
+Species: Homo Orlencia
+
+Background: The Orlen is a race genetically stable race of varient humans. They are believed to have evolved in isolation
+somewhere in central North America, and have become a species unto themselves. They can only reproduce viable offspring
+with other Orlen, not any other kind of human varient. They are most common to North America, being found in small numbers
+as far north as Lazlo and as far south as the Pecos Empire, although lone members of this race can be found anywhere. Orlens
+as a race show an aptitide twards both telepathy and telekinesis, as well as possessing other psionic powers with less
+frequency. They also seem to display a knack for focusing themselves on certain mental tasks. They also seem to display a
+level of awareness of their surroundings that surpasses common humans.
+
+Appearence: The Orlen appears to be a human with two heads set on wide shoulders and chest. They also have two
+complete sets of arms at the shoulder. Mutation variation is rare, only about 5% display one or two minor mutations (given on
+page 12 of the Rifts book). They commonly display tan cuacasian skin tones and dark straignt hair.
+
+                                      Game Statistics:
+
+
+
+Note: Basically the same as humans with only minor changes as noted.
+
+     I.Q.: 2D6+6 
+     M.E.: 2D6+6 
+     P.P.: 3D6+2 
+     Hit Points: P.E.x2 plus 1D8 per level 
+     Psionics: Has Telepathy, Telekinesis (physical power), and any two powers from any of the catagories of Sensitive,
+     Physical or Healing. Also have the Will Force power, described in the Mutant Animal Powers section. I.S.P. is
+     M.E.+4D6 plus 1D6+1 per level. Considered a major psionic unless they take a psionic character class that makes
+     them a master psionic. 
+     Bonuses: +1 Attack per melee and get to make two perception rolls whenever one is called for, keeping the best roll. 
+     Penalties: Must find custom made armor, considered a dangerous mutant by the Coalition. 
+
+
+
+O.C.C.'s: Orlens must choose an O.C.C. during character creation just like humans. Available O.C.C.'s include any of the
+men at arms except Coalition and Juicer (normal Juicer chemical do not work on them, but can become a Maxi-Killer juicer),
+and any scholar and adventurer. Cyber-Knight Orlen never gain extra psionics, they already have psionic powers. Crazy
+Orlens gain new psionics as normal, but gain half the additional ISP to their normal amount. Operator Orlens can choose to
+give up the two psionics of choice in favor of Telemechanics and gain no additional I.S.P. They can also become men of
+magic, and gain any associated psionics, but again only half the I.S.P. is added to their normal amount when taking classes like
+the Mystic or Techno-Wizard that have psionics. Psionics classes are available to the Orlen, but they loose the two powers of
+choice in favor of the powers associated with the class. I.S.P. will become whichever amount is higher, psionic class or racial
+class total. Remember that major psionics have penalities to their skills when taking non-psionic character classes. Orlens
+cannot become Tattooed Men, as magic tattoos do not work on them.

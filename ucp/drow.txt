@@ -1,0 +1,476 @@
+Drow Elf R.C.C.
+
+
+                                               By:
+                                           Dave Anhorn 
+
+
+                                            The Drow
+
+  Ages past, when the Elven folk were but new to the face of the world, their numbers were torn with discord, and those of
+moral disposition drove from themselves those elves who were selfish and cruel. Constant warfare between the two divisions
+of Elven kind continued with the goodly ones ever victorious, until those of dark nature were forced to withdraw from the lands
+under the sky and seek safety in the realms of the underworld. Here in the lightless caverns and endless warrens of twisting
+passages and caves hung with their icicles of stone, the dark Elven folk found both refuge and comfort. Over the centuries they
+grew strong again and schooled themselves in the arcane arts. They were strong enough to face and defeat their former
+brethren in battle, but no longer desired to walk upon the green lands under the sun and stars. Yet they neither forgave nor
+forgot and above all else, they bear enmity for all their distant kin--elves and faeries--who drove them under. They are seldom
+seen by those from above. They still persist and consort with other creatures in order to work out their schemes and inflict
+revenge upon those who inhabit the world above.
+
+  Drow are black skinned and pale haired (the few exceptions tend to be bone-white albinos.) Rare Drow have naturally silver
+or copper-hued hair, although there are those who deliberately dye their hair silver. Most Drow have red eyes, but some
+others have green, brown, or black. Various shades of amber and rose-hued eyes are not unknown. All Drow eyes tend to
+grow redder when they are angry or upset. Yellow eyes usually denote illness, disease, poisoning, or the presence of certain
+detrimental magics. Blue and purple (and all the tints thereof) are the most unusual eye colors, and usually denote human or
+surface-Elven blood somewhere in the Drow's ancestry.
+
+  Drow have superior night vision, seeing up to 120 feet in total darkness. They move almost silently and can blend into the
+shadows with 75% chance of success (only when underground or in a very familiar area however.) They are highly
+coordinated and ambidextrous. They have a +2 on all magic saves.
+
+  Drow are slight of build and have delicate fingers and toes. Their features are somewhat sharp and their ears are pointed and
+large. Drow do not naturally show age until well after their 600th year.
+
+  The usual Drow garb includes: Finely tailored silks, black boots, ankle length black silk cloaks, and very fine, mesh chain
+armors of exquisite workmanship. Most usually carry a small amount of personal wealth in a soft leather bag worn around the
+neck.
+
+  Because the Drow have dwelled so long in the dark labyrinthian places under the surface of the earth, they dislike bright light.
+Drow, for the most part, will not venture forth into daylight, except on the cloudiest and gloomiest of days. In daylight the
+Drow have a -2 penalty to strike/parry/dodge, and it is 75% likely that they will retire from situations due to the light. In
+addition they are at a -10% on all skills (due to a lack of concentration), and have a -1 to all saves. They are not affected by
+torches, lanterns, or faerie fire. After one year on the surface world, Drow can become acclimatized to the bright light, and will
+only suffer half of the above penalty but from this time onward will only have a +1 save vs. magic until 1 year is spent below
+the surface. After 2 years on the surface the will no longer suffer any penalties save that of the reduced magic savings throw
+bonus.
+
+  Drow society has developed along strongly matriarchal lines, with females holding all positions of power and responsibility in
+government, the military and at home (although this is not always the rule in all Drow houses or cities.) The Drow worship a
+variety of gods, with Lloth the Spider-Demon Goddess being the most common, although the worship of Nocticula is on the
+rise in many places. Even among Drow who do not worship Lloth, an affinity for arachnids is strong and the Drow emulate
+spider-like characteristics in many ways. Their cities, buildings, and cavern networks are often created in a web pattern. Traps
+among these structures channel creatures to the center of the web. Spiders and similar creatures often dwell among Drow
+communities, and are prominent in Drow sculpture, art, and fashion. Drow door-carvings and frames for example, are apt to
+sport a motif of repeatedly crawling spiders. Drow homes are often decorated by translucent, draped, gray hangings that
+emulate spider-webs. Even games of tag, especially the courting games of hide and seek played at festival times by young
+Drow, are known as "spider hunts". Any battle or endeavor in which a Drow dies fighting is known as his last bite.
+
+  The Drow culture is perhaps the most widespread and firmly entrenched of all underground cultures. The Drow make treaties
+with other races when it serves their interests, but are quick to break these agreements if the terms are no longer advantageous
+(agreements with lesser races are not considered binding); this of course makes other races reluctant to enter into alliances with
+them. The long term objective of the Drow is to rule over all other subterranean races, and to control all access to and from the
+underworld. The secondary goal is the extermination of all other Elven races, including the ceasing of their surface lands and
+holdings.
+
+All of the dark elves can use the following spells once/day:
+  Dancing Lights Faerie Fire Darkness
+  Those above 4th level can cast:
+  Detect Magic Know Alignment Levitate
+
+Drow Clerics can cast (at level):
+   1. Detect Lie
+  2. Detect Undead
+  3. Suggestion
+  4. Clairvoyance
+  5. E.S.P.
+  6. Invisibility to Undead
+  7. Dispel Magic
+
+  and have a 20% chance each level of improving previous level magics (i.e. cast more times/day, not to exceed base spell-like
+abilities.)
+
+  Drow of noble blood or name gain the ability to use all of their base and mature powers more than once per day. An
+additional daily use is granted at the end of each decade of life. All Drow with I.Q.'s of 16 or higher, and of 6th level or
+greater, can wield a natural spell-like power and a spell simultaneously, or employ a maximum of two natural spell-like powers.
+
+R.C.C. Skills:
+  Sign Language: Drow 98%
+  Locate Secret Compartments and Doors (+10%)
+  Prowl (+20%)
+  Recognize Precious Metals and Stones (+10%)
+  Blind Fighting (+5% to fighter classes only)
+  Weapons (to Fighters and Clerics only.)
+
+Hand to Hand Combat: Drow (this is Hand to hand Martial Arts with the following additions and replaces all other Hand to
+Hands, regardless of O.C.C., with the exception of the Paladin and the Weapons Master. For these classes see Hand to
+Hand: Spider Weapons Master.)
+
+   1.One extra Attack at First Level
+   2.+1 to strike/parry/dodge at 2nd Level
+   3.Death Blow on natural 20 At 13th Level
+   4.Knockout/stun on unmodified roll of 18, 19, 20 at level 15
+
+Hand to Hand: Spider Weapons Master (See Weapons Master O.C.C.)
+
+Drow Patrols: There are three types of Drow patrol
+  1. Male
+  2. Female
+  3. Mixed
+
+Each are as detailed:
+
+     1. 7-10 soldiers of 2nd level
+       1 soldier of 4th level
+       1 Knight/wizard of 5th/3rd level
+       1 Priest of 7th level or higher as leader
+
+     2. 7-10 soldiers of 3rd level
+       1 Knight of 5th level
+       1 Knight/Wizard of 5th/3rd level
+       1 Priestess of 7th level or higher as leader
+
+     3. 4-12 soldiers of 2nd level
+       1 soldier of 4th level
+       1 Knight of 5th level
+       1 Paladin/Priest(ess) of 7th level or higher to lead
+       11-16 bugbear slaves of 2nd level
+       2 troll slaves of 4th level
+       11-16 goblin slaves of 2nd level
+       4 ghosts of 6 hit dice
+       7-12 ghouls of 4 hit dice
+
+
+A Drow war party will be made up of:
+  7-10 type 1 patrols 7-10 type 2 patrols
+  10-15 type 3 patrols 8-14 wizards of 8th level
+  8-14 Priest(esse)s of 8th level 12-17 knights of 9th level
+  1 Paladin or Priest(ess)/Wizard/Noble of 10th/7th/5th level as leader
+
+  In each of these patrol/war groups all Drow will be mounted on special lizard mounts.
+
+Lizard Mounts:
+  A.R. 10 Spd. 30 H.P. 4-40
+  No. of Att: 2 Dam 2-8 (Claws)
+
+Drow Noble's Hunting Party (used to track and kill escaped slaves) consists of:
+  3-6 Bugbear trackers armed with heavy morning stars and spears
+  2-4 displacer beasts as bloodhounds
+  5-8 Soldiers of 3rd level
+  2-3 Soldiers of Noble standing of 6-8th level
+  1 Knight/Priest(ess) of Noble standing of 7th /5th level
+
+  All Drow are mounted on lizard mounts detailed earlier; the knight is armed with a death lance which discharges a negative
+force that does 5-30 damage in addition to weapon damage and bonuses.
+
+
+Social Organization
+
+  Social station is the most important thing in the world of the Drow. Ascension to greater power is the ultimate goal in Drow
+society. Assassination is the preferred tool in this job. It must be used discreetly in the city, for to openly murder or wage war
+(on a rival House) brings down the merciless might of Drow justice (not because of the act itself, simply as punishment for the
+boorish act of fighting in public.) Outside the patrol-range of cities, however, might is right, and Houses and merchant clans
+often battle each other openly in the wild Underdark.
+
+  There are two major social groupings among the Drow. These are the relatively unimportant (according to the priestesses of
+Lloth) merchant clans, and the staid, monolithic noble houses. In truth, both establishments are vital to the survival of the Drow.
+
+Merchant Clans
+
+  Merchant clans vary in organization. They are usually headed by an "inner ring" or council of the most experienced and/or
+wealthy merchant members, and hence are usually led by males (the demeaning and dangerous occupation of trading with
+outsiders is an almost exclusively male one).
+
+  The membership of the inner ring of a given merchant clan consist primarily of male wizards, and priests of 4th level (or less).
+Removed as they are from Drow society at large, the merchant clans have little compunction about dealing with the surface
+world. In fact, a few of the "second ring," or managers, are non-Drow of various races.
+
+  The lowest rank in the merchant clan, the "assets," are a mix of Drow, and non-Drow. these are the laborers and soldiery of
+the merchant house. Together, the merchant clans forge links with the outside world that enables the Noble Houses to survive.
+
+Merchant trains consist of:
+
+     Small Mercantile Train Medium Mercantile Train
+       1-2 merchants 3-4 merchants
+       Type 1 Drow patrol Type 3 Drow patrol
+       * 5-8 slaves and 1 slave master *9-16 slaves and 2 slave masters
+       1-2 pack beasts 3-4 pack beasts
+
+     Large Mercantile Train
+       5-8 merchants
+       1 type 1 Drow patrol
+       1 type 3 Drow patrol
+       *17-24 slaves and 3 slave masters
+       5-8 pack beasts
+
+  *Slaves in Drow communities are far less valued than those owned by surface dwellers. To a Drow a slave is but a pair of
+hands without limits that need to be thought of. If it is killed there are millions of replacements to be had.
+
+Types of Slaves:
+  1. Bug Bear
+  2. Dwarf
+  3. Elf
+  4. Gnoll
+  5. Goblin
+  6. Half-Elf
+  7. Half-Orc
+  8. Hobgoblin
+  9. Human
+  10. Orc
+  11. Troglodyte
+  12. Gnome
+  13. Kobolds
+  14. Ogre
+  15. Wolfen
+  16. Trolls
+  17. And in some cases other Drow
+
+Pack Beasts:
+
+  A.R. 10 Spd. 20
+  H.P. 3-30
+  No. of Att: 1 Dam 2-8 (Bite)
+
+  Merchant Trains will typically carry normal goods such as cloth, leathers, wood, food stuffs and the like, there is also the
+following chance of some valuable items on the train--30% for a small train, 45% for a medium train, 75% for a large train.
+Merchant train treasure types will be as follows (only 2 types will be found in a single merchant train.)
+  1. Slaves
+  2. 110-300 silver ingots worth 100gp each
+  3. 31-50 gold ingots worth 100gp each
+  4. 5-10 platinum ingots worth 100gp each
+  5. 2-5 mithral ingots worth 100gp each
+  6. 1-4 adamantine ingots worth 100gp each
+  7. 1-100 gems worth 60gp each
+  8. 5-12 potions
+  9. 1-4 scrolls
+  10. Political passengers or nobles
+  11. Magic items
+  12. Magic weapons, and/or armor
+
+There are 9 Drow merchant clans
+
+   1.The Black Claw: Black iron hook or green enameled lozenge (Sponsored by Baenrae)
+
+   2.Sloane: Violet enameled urn or white enameled morel mushroom
+
+   3.The Toiled Pleasures: Bronze coiled whip or pink enameled horsetail mushroom (Sponsored by Noquar).
+
+   4.The Silver Crescent: Silver crescent or red enameled gemstones
+
+   5.The Brown Mushroom: Tan enameled puffball mushroom or lilac enameled pentagram (sponsored by Fey-Branche)
+
+   6.The Mystic Prism: Blue enameled prism or pewter bars (Sponsored by Sorcere)
+
+   7.The Skull: Russet enameled shelf fungi or white enameled bone.
+
+   8.The Flail and Chain: Brass chain links or silver flail
+
+   9.Pierced Mushroom: Yellow enameled mushroom or gold crossbow.
+
+
+
+Drow Noble Houses
+
+  Noble houses are led by a matron mother (or in extremely rare cases a patron father, however never in a House that follows
+Lloth,) the senior priest(ess). In Lloth-worshipping Drow communities, her rule is absolute, enforced by the priestesses
+beneath her (usually her daughters.) Al females of the mother's blood, in order of their age, follow in rank, although they wield
+no authority until they are trained and of age (past puberty.)
+
+  Below the daughters come the male officers of the House: the weapon master (leader of the fighters,) (chief) House wizard,
+and the patron (current consort of the matron mother.) These ranks may be combined, and even held by the traditional next
+rank down in the hierarchy: the male heirs of the House.
+
+  Male heirs are also ranked by age: elderboy, secondboy, thridboy, and so on. the are not allowed to look at the faces of
+other Drow, or speak unless spoken to or bidden. This treatment teaches them their subordinate place in Drow society. (Of
+course in cities where other gods hold power this hierarchy is suitably altered.)
+
+  Below them come the "war-leaders" of the House (veteran warriors, who lead House patrols, attack squads, and guards,
+under the command of the weapons master,) and the House mages (under the command of the House wizard.)
+
+  Beneath these "blood" members and officials of the House rank are its common warriors, its crafts people, its servants, and
+its slaves. All ranks are decreed, and can be changed at the whim of the matron mother. Her position changes at death--often
+at the hands of her eldest daughter.
+
+  (Even if freed from the authority of an established House, ruler, or realm, Drow instinctively band together in groups. Survival,
+to these warlike folk (so often at swords' points among themselves) is often a matter o numbers, trusted battle companions,
+and tactics.)
+
+  House Ranks (A - Allies R - Rivals G - God (secretly worshipped in house by at least one.))
+
+     (Ruling House)Noquar A-23, 27, 28 R-1, 3, 4, 5, 6, 7, 8, 20, 22, 24, 26, 29 G - Nocticula
+
+        1.Baenrae A-4, 5, 6, 20 R-2, 3, 23, 27, 28 G - Lloth
+
+        2.Barrison Del'Armgo A - 3, 19 R - 1, 3, 17 G - Nocticula
+
+        3.Oblodra A - 2, 24 R - 1, 4 G - Lloth
+
+        4.Faen Tlabbar A - 1, 5 R - 3, 6, 7 G - Lloth
+
+        5.Xorlarrin A - 1, 4, 22 R - 6, 7 G - Lloth
+
+        6.Agrach Dyrr A - 1, 7 R - 3, 6, 7 G - Lloth
+
+        7.Mizzrym A - 1, 5 R - 4 G - Lloth
+
+        8.Fey-Branche R - 10 G - Lloth
+
+        9.Tuin'Tarl R - 10 G - Vhaeraun (Eilistraee)
+
+       10.Duskryn A - 11, 26 R - 8, 9 G - Lloth 
+       11.Srune'lett A - 4, 10, 25 R - 14, 15 G - Lloth
+
+       12.Horlbar A - 13 R - 9 G - Vhaeraun
+
+       13.Kenafin A - 12, 19, 29 R - 8 G - Lloth (Ghaunadaur)
+
+       14.Druu'giir R - 11 G - Vhaeraun
+
+       15.Hunzrin A - 1 R - 16 G - Lloth
+
+       16.Shobalar R - 17, 18, 19 G - Lloth
+
+       17.Vandree A - 1 R - 2 G - Lloth
+
+       18.Symrivvin G - Lloth
+
+       19.Rilynt'tar A - 2, 12, 25 R - 16, 24 G - Lloth
+
+       20.Everhate A - 1, 22, 24 R - N, 23 G - Lloth
+
+       21.Nurboinns R - 25 G - Nocticula
+
+       22.Despana A - 5, 20, 24 R - N, 23 G - Lloth
+
+       23.Kilsek A - N, 27, 28 R - 1, 22 G - Noticula
+
+       24.Aleval A - 3, 20, 22 R - N, 19 G - Lloth
+
+       25.Millithor A - 11, 19 R - 21, 40, 41, 42, 43 G - Lloth
+
+       26.Tormtor A - 10, 29 R - N, 28 G - Ghaunadaur
+
+       27.Godeep A - N, 23, 28 R - 1, 29 G - Noticula
+
+       28.Iasta A - N, 23, 27 R - 1, 20 ,26 G - Noticula
+
+       29.Eilservs A - 13, 26 R - N, 27 G - Ghaunadaur
+
+       30.Arabani G - Noticula
+
+       31.Arkhenneld G - Lloth
+
+       32.Auvryndar G - Noticula
+
+       33.Claddath G - Noticula
+
+       34.Helviiryn R - 40, 41, 42, 43 G - Lloth
+
+       35.Hlaund G - Vhaeraun
+
+       36.Maerret G - Lloth (Vhaeraun)
+
+       37.Melarn A - 36, 39 G - Lloth (Vhaeraun)
+
+       38.Silver Thorn/Archill'kharkon A - 40, 41, 42, 43 R - 39 G - Nocticula/Styphon
+
+       39.Mylyl A - 37, 49 R - 38, 40, 41, 42, 43 G - Lloth
+
+       40.Dreth A - 41, 42, 43 R - 25, 34, 39, 48 G - Nocticula
+
+       41.Aleanrahel A - 40, 41, 42, 43 R - 25, 34, 39, 48 G - Nocticula
+
+       42.Zauviir A - 40, 41, 42, 43 R - 25, 34, 39, 47 G - Nocticula
+
+       43.Celebryl A - 30, 40, 41, 42 R - 25, 34, 39, 47 G - Nocticula
+
+       44.Porador A - 46 G - Vhaeraun
+
+       45.Felistyr R - 46 G - Lloth (Eilistraee)
+
+       46.Gelbalf A - 44 R - 48, 45 G - Vhaeraun
+
+       47.Gilfronden A - 48 R - 40, 41, 42, 43 G - Lloth
+
+       48.Galeifel A - 47 R - 46 G - Ghaunadaur
+
+       49.Chossum A - 39 R - 40, 41, 42, 43 G - Ghaunadaur
+
+       50.Syrklist G - Nocticula
+
+       51.Membrium G - Nocticula
+
+       52.Drannor G - Vhaeraun
+
+       53.Simbul G - Lloth
+
+       54.Prakis G - Lloth
+
+       55.Inglorion G - Vhaeraun
+
+       56.Ousstyl G - Ghaunadaur
+
+       57.Maaril G - Nocticula
+
+       58.D'uranthor G - Nocticula
+
+       59.Ledathiss G - Styphon
+
+       60.Andahl G - Nocticula
+
+       61.Roemossnep G - Nocticula
+
+       62.Dellnnaoks G - Ghaunadaur
+
+       Extinct Houses--Devir Do'Urden Hun'ett Freth Teken'duis
+
+       Outside the hierarchy is the mercenary band Bregan D'aerthe, led by Jarlaxle (a 17th level Drow mercenary.)
+
+
+Drow Customs
+
+  - The Drow gesture of peace is crossed arms. Disarming an opponent, and then ceasing the fight is also considered an
+indication of peaceful intent.
+
+  - The Drow gesture of surrender is dropping to one knee, letting fall any weapons before the being one submits to (usually
+performed by a male Drow to a female Drow).
+
+  - Drow like to give and receive massages; long scented massages involving scented oils, hot water, and steam.
+
+  - Drow enjoy magic and exalt in wielding its unleashed power; they are fascinated by new spells and effects.
+
+  - Drow love beauty, the beauty of sculpture and made items (especially weapons), and of the body. Drow of both sexes are
+proud of displaying their physiques and all children exhibiting any physical deficiency are slain or sacrificed.
+
+  - Drow like to party.
+
+  - Drow love to hunt, and use it as a rite of passage.
+
+The Ten Attributes Number of 6 sided dice rolled is designated below.
+
+ 
+  Race           I.Q. M.E.  M.A.  P.S.  P.P.  P.E.  P.B. SPD.   PER.  
+LUCK
+ 
+  Dark Elves     3+1  3     2     3     5     3     4    3      4     3
+  (Drow)
+
+Psionics: Standard
+
+Hit Points: Standard
+
+S.D.C. Base: 10
+
+Horror Factor: 12
+
+Alignments: Any, but tend toward evil (good alignments are almost unheard of).
+
+O.C.C.: Any.
+
+Physical Appearance: see above
+
+Height: 6' to 7' tall
+
+Weight: 150 to 200 lb.
+
+Average Life Span: 1000 years
+
+Special/Natural Abilities: Night vision 120', Natural Spell Like Abilities (as above)
+
+Enemies: Almost every other race, especially Surface Elves.
+
+Allies: Demons and evil denizens of the underground world.
+
+Favorite Weapons: Darts, swords, and crossbow pistols.
+
+Racial Skills: as above

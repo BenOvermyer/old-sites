@@ -1,0 +1,67 @@
+Ferrengi
+
+
+                                               By:
+                                          Tim Santa Cruz 
+
+
+  The Ferrengi are a race in interstellar traders who care about nothing but Profit. They are an economic giant, and a military
+mouse. While their military does boast some decent ships, the focus of the Space Program is to augment their importing /
+exporting business.
+
+  Their role as interstellar profit seeker has earned them a bad reputation in their galaxy. Their race has no political allies, and
+there are many races which would gladly conquer the Ferrengi, but their economy helps the galaxy to thrive. Their recent
+negotiations within a deep region of space (which they use a wormhole to travel to) has proven extremely profitable and has
+only caused to add more lust for profit to the Ferrengi mindset.
+
+  The Ferrengis are ruled by an individual titled "The Grand Negas". All Ferrengis are butt kissers and will do anything to get
+close to such an individual.
+
+Alignments: Mostly Selfish.
+
+Attributes: I.Q. 2D6+2, M.E. 3D6, M.A. 4D6+2, P.S. 2D6+2, P.P. 3D6, P.E. 3D6, P.B. 2D6, Spd 3D6
+
+Hit Points: P.E. + 1D6 at level one, plus 1D6 each additional level
+
+S.D.C.: 20
+
+Natural Armor Rating: None
+
+Horror Factor: None
+
+P.P.E.: 3D6
+
+Natural Abilities: Superior Mental Affinity.
+
+Combat: 2 Attacks, plus those gained from Hand to Hand Combat and/or Boxing.
+
+Bonuses: +10% to Trust Intimidate, +1 Save vs. Psionics. This is in addition to any attribute bonuses.
+
+Psionics: None
+
+Magic: None, The Ferrengi don't believe in Magic.
+
+Average Life Span: 60 years ?
+
+Rifts O.C.C.s: Any Except for CS Military, and Cyber-Knight. Ferrengi will shy from all Men of Arms OCCs due to a fear
+of combat. 
+
+Skills of Note: Speak Ferrengi at 98%
+
+Size: 60 + 2D6 inches.
+
+Weight: 150 to 200 lbs.
+
+Equipment:
+
+Ferrengi Disruptor
+  Weight: 10 lbs.
+  Range: 1000 feet
+  Payload: 10
+  Damage: 4 Settings
+    1. 1D4 (Stun)
+    2. 5D6
+    3. 1D6x10
+    4. 1D4 M.D.C.*
+
+*This last setting is generally referred to as Kill and will vaporize in an instant.

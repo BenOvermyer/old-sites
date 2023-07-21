@@ -1,0 +1,67 @@
+The Katta
+
+Based on Sierra Online's Quest For Glory 2
+
+
+
+   (C) 1997 by Kevin Siembieda. (C) 1997 Palladium Books, All rights reserved world wide. No part of this work may be
+  reproduced in part or whole, in any form or by any means, without permission from the publisher. All incidents, situations,
+     institutions, governments and people are fictional and any similarity to characters or persons living or dead is strictly
+  coincidental. Palladium Books (R), and RIFTS (R) are registered trademarks owned and licensed by Kevin Siembieda and
+Palladium Books, Inc. P.P.E. (TM), M.D.C. (TM), Megaverse (TM), and Ley Line (TM) are trademarks owned and licensed
+                      by Kevin Siembieda and Palladium Books, Inc. By Crow T. Robot 
+
+
+
+
+
+ The Katta are a race of feline humanoids who inhabit the desert. They are about 4 and a half to 5 feet tall, and are usually on
+  the lean side. Their fur is dark, and tends to grow long and curly, instead of smooth like many other feline humanoid races.
+     They are well acclimated for survival in the desert, as their bodies can hold in moisture for long periods of time, their
+              metabolism is also such that they only need half as much food, water, and sleep as a human.
+
+The Katta are extremly good conversationalists, and among the most common professions for them to be are Bards,
+Merchants, and Storytellers. The Katta are not a violent race, and while they are not unheard of, Katta warriors are rare.
+
+They tend to be travelling people, and on the worlds that they have been too, they almost never sustain an empire, but merely
+wander around, exploring and gathering stories. Although some Katta will eventually settle down, usually to start a buisness.
+(They are also good finiancialists).
+
+For some reason, they are not adapt at the ways of sorcery, and therefore a Katta who wishes to practice mystical arts will
+have a long and difficult road ahead of him(or her). Although magic is not natural to them, psionics are common among them.
+
+The Katta Race
+
+Alignments: Any, leans towards unprincipled/scrupulous
+
+IQ: 3d6
+ME: 3d6
+MA: 4d6+4
+PS: 2d6
+PP: 3d6+2
+PE: 4d6
+PB: 3d6
+
+SDC: Base of 15, Plus those gained by OCC/RCC
+HP: PE +1d6
+
+Natural Abilities
+
+Metabolism: Requries half the food/water/sleep that a human of the same size would require.
+
+Weaknesses
+
+Slow Healing: Due to their slower metabolic processes, they heal at 1/2 the normal rate. This can be brought up to normal if
+the Katta eats 3x what he/she would normally eat in a day.
+
+Psionics: 60% chance of Minor, 10% of Major, 5% of Master
+ISP: Standard
+PPE: 1d6 for a normal, magic users have 25% PPE Penalty
+Cybernetics/Bionics: Not Opposed to getting them, in high tech worlds the average Katta Wanderer will have 1d4 implants..
+
+OCCs/RCCs: Most commonly Bards, Merchants, Rogue Scholars/Scientists, Wilderness Scouts, etc.
+
+Average Life Span: 75 Years
+
+Habitat: All over the megaverse, their travelling nature has made them find their ways to other worlds besides their home in
+Shapier.

@@ -1,0 +1,23 @@
+FMB Hound Pilot OCC
+
+The guys who pilot the one-wheeled monocycle, armed with a main gun
+as big as it can safely operate, working in squads like wolf packs
+to take out 30 foot Octopus Tanks brimming with weapons.  They use
+mobility and numbers to overcome much tougher opponents, emptying
+their guns at Octopus Tanks while dodging the barrage of return
+fire.  A few small mercenary bands have formed a few squads of
+Hound Units, apparently after jointly discovering a number of FMB
+Monocycles, presumably in an old factory or old storage facilities.
+
+Skills: Same as NGR Infantry with the following changes:
+OCC Skills
+Language is native language
+Literacy is in character's native language
+Pilot skill of choice is automatically Pilot: Motorcycle
+Swimming changed to Physical skill of choice
+WP Automatic Rifle changed to WP Energy Pistol
+
+Equipment:
+Suit of body armor, energy rifle, energy pistol, 2 e-clips each.
+Other standard equipment. (clothing, utility belt, etc)
+FMB Hound Monocycle

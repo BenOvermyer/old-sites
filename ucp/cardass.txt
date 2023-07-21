@@ -1,0 +1,40 @@
+Cardassians R.C.C.
+
+
+                                               By:
+                                          Tim Santa Cruz
+
+
+  Humanoid race that has been involved in a bitter, extended conflict with the UFP that has just recently been resolved. The
+Cardassians annexed Bajor and striped it of it resources. The Bajorans are very resentful of this occupation of their planet and
+hate Spoonheads as a result.
+
+Alignments: Any 
+
+Attributes: IQ 4d6, ME 4d6, MA 3d6+2, PS 3d6, PP 2D6+2, PE 3d6+1, PB 2d6, SPD 3d6+1 
+
+Hit Points: P.E. + 1d6 
+
+SDC: 4d6 + those from O.C.C. and Physical Skills 
+
+P.P.E.: 4d6 
+
+Horror Factor: 8 for those who have never seen a Cardassian 
+
+Natural Abilities: The Cardassians have the innate ability to sense deception in others. It may be some kind of latent psionc
+power but no one knows for sure, and Cardassians will not appear as psionc. Cardassians have a 60% chance of detecting
+deception, even from Psioncs.
+
+Bonuses: +1 vs. Poison, toxins, and drugs; +4 Save vs. Psionics.
+
+Psionics: None 
+
+O.C.C.: any but Coalition.
+
+Skills of Note: All Cardassians will speak and be literate in both Cardassian and English at 98%. 
+
+Combat: two plus those gained from hand to hand training and/or boxing.
+
+Size: Five feet eight inches +3d6 inches 
+
+Weight: 120-250 lb.

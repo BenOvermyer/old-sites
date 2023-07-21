@@ -1,0 +1,234 @@
+War-roid OCC/RCC
+
+        War-roids are robots that were built by the Imperial Army on
+another world, Gaiarth.  They are robots, but have all aspects of a
+transferred intelligence.  Whether or not they were actually once
+human and had their essences transferred into robot bodies or whether
+they were somehow created with an essence is unclear.
+
+        War-roids were developed as troops for the Imperial Army to
+combat the enemy's autosoldiers (robot animal-like drones), and
+were paired with human partners to make a balanced team.  The typical
+War-roid is much like a soldier, except that they all have exceptional
+loyalty.  To date, not one War-roid has been reported as a menace or a
+danger to humans.
+
+        There is no movement in the face of a War-roid, it is totally
+mechanical.  The eyes do not visibly move, and although there is
+obviously a mouth, it is merely cosmetic. (there is no opening)
+
+        There are 3 types of War-roids, the War-roid Soldier (the
+front line troop), the War-roid Warlock (the commander/general, rare),
+and War-roid Zaxon, who is a unique individual and the "Warlock of
+Warlocks". (War-roid Warlocks)
+
+        Energy barriers were developed on Gaiarth, and led to melee
+weapons being developed to a much higher degree than those of Rifts
+Earth, since melee weapons are unaffected by energy barriers.  The
+energy barriers would protect War-roids from enemy energy attacks
+while they charged, giving them time to reach the enemy and engage
+them in melee combat.
+
+        War-roids have long life spans, and can operate with little
+or no maintenance for extremely long periods of time, several have
+operated for over 100 years without major malfunction, though routine
+maintenance is recommended. (it should be noted these were also in
+isolated areas and did not engage in combat for these extended periods
+of time)
+
+        War-roids cannot wear additional armor.
+
+
+Attributes: (unlisted rolled as normal)
+
+War-roid Soldier
+PS 32, PP 20, PE N/A, Spd 220
+
+War-roid Warlock
+PS 36, PP 22, PE N/A, Spd 220
+
+Bonuses: (sensor bonuses calculated in, but not PP)
++1 melee attack
+War-roid Soldier: +1 strike, +2 parry, +3 dodge, +3 initiative
+War-roid Warlock: +1 strike, +2 parry, +3 dodge, +3 initiative
+All War-roids are -6 to parry ranged attacks, -4 to dodge them
+
+Attribute Requirements
+Soldier IQ 10, ME 12
+Warlock IQ 13, ME 12
+
+OCC/RCC SKILLS:
+Language: American (98%)
+Literacy: American (+20%)
+Math: Basic (+20%)
+Computer Operation (+20%)
+Climbing (+5%)
+Pilot: Hovercraft(+5%)
+Read Sensory Equipment (+15%)
+WP Sword
+WP Chain
+WP choose 1 ancient
+Hand to Hand Expert
+
+For Warlocks, add
+Computer Programming (+15%)
+Computer Hacking (+15%)
+
+OCC RELATED:
+Soldiers pick 6 skills, plus 1 more each at levels 3, 6, 9, and 12
+Warlocks pick 4 skills, plus 2 more each at levels 5, 9, and 13
+Communications: Any (+10%)
+Domestic: Any
+Electrical: Basic only
+Espionage: None
+Mechanical: Basic only
+Medical: First Aid and Paramedic only (+10%)
+Military: None
+Pilot: Any except Robots/PA and aircraft (+10%)
+Pilot Related: Any (+5%)
+Physical: Hand-to-Hand only
+Rogue: Computer Hacking only
+Science: Any
+Technical: Any
+Wilderness: None
+WP: Only ancient to start
+
+SECONDARY:
+also gets 3 secondary skills, with the above restrictions but without
+the bonuses; one more each can be selected at levels 6, 10 and 14
+
+ROBOT FEATURES: (most of these found in Source Book 1)
+
+1. Transferred Intelligence - all War-roids exhibit TI features
+        A slight exception to this is that War-roids, if they possess
+psionics, will only possess minor psionics, and the specific powers
+empathy and presence sense.  Approximately 15% of War-roids possess
+psionics.
+
+2. Humanoid Body
+        War-roid Soldier - Basic Humanoid: 420 MDC (8 feet tall)
+        War-roid Warlock - Giant Humanoid: 600 MDC (10 feet tall)
+
+3. Power Supply
+        Super-Solar Power System
+        Nuclear: Soldier 10 years
+                 Warlock 20 years
+
+3. Audio
+        Advanced Audio System
+        Radar Signal Detector
+        Radio Signal Scrambler
+        Single Voice Synthesizer
+        Inaudible Frequency Transmission
+
+4. Optics
+        Basic Robot Optic System
+        Targeting Combat Computer
+        Telescopic Vision
+
+5. Sensors
+        Bio-Scan Medical Survey Unit
+        Micro-Radar
+
+6. Weapons
+        Power Punch - add 2D6 to punch damage for power punch
+
+        War-roid Sword - War-roids are generally armed with an MDC
+sword, that, combined with their strength, does 1D4*10 (they were
+made to specialize in melee combat using these swords)
+
+        However, 20% of War-roid Soldiers, and 50% of War-roid
+Warlocks are armed with an Energized Sword/Energy Whip
+
+        Energized Sword/Energy Whip - 1D6*10 MDC as a sword, 1D4*10
+as a whip, whip has a length/range of approximately 50 feet
+
+This weapon is a hilt that juts out slightly from one side of the
+War-roid's lower chest, usually the left side.  It becomes an energy
+sword or whip when grasped.  Nano-sensors built into the hilt recognize
+the imprint of that specific War-roid's hand, activating the weapon.
+Effectively indestructible for parrying attacks, energy supplied by the
+War-roid's power supply.
+Attacking with this weapon as a whip does not require the War-roid
+"switch" it to whip form if it was used last attack as a sword,
+instantaneous. (though if the last attack was as a whip, parry for the
+next attack will be impossible)
+
+7. Energy Barrier
+        All War-roids can form an energy barrier that protects from
+energy attacks.  The barrier is centered on the War-roid, and extends
+a few feet beyond the War-roid.  The barrier replenishes its MDC in
+24 hours if damaged.  If the barrier is reduced past zero, it absorbs
+up to an additional 50 MDC. (ie: barrier at 3, 50 MDC inflicted,
+barrier absorbs all damage as it is destroyed)
+MDC     War-roid Soldier: 100
+MDC     War-roid Warlock: 150
+
+Disadvantages of the Energy Barrier
+1) The energy barrier protects only from ranged energy attacks, it has
+no effect on physical or melee attacks. (a TW flaming sword has full
+effect)
+2) If the barrier is destroyed, the War-roid is stunned for 1D4 melees
+unable to take any action. (systems overloaded)
+3) Once the barrier is destroyed, it will not function again until the
+War-roid has his systems repaired.
+4) The War-roid must activate the barrier initially, similar to a
+dodge, requiring the use of a melee attack. (functions from then on
+until the War-roid deactivates it - deactivating doesn't take an
+attack)
+
+8. Star Satellite - exclusive to the War-roid Warlock
+        Approximately 20% of Warlocks have a "star" that is still
+"alive".  This "star" is an orbiting satellite which can give the
+War-roid a boost if power systems are failing, or if there is great
+need for a powerful strike.  This is not done consciously by the
+War-roid, but is activated automatically by computers on the satellite
+that monitor the War-roid's systems.
+None of these "stars" are known to exist in Rifts Earth. (though it
+is possible, if extremely unlikely, that one came through a rift into
+Earth space)
+
+9. Jack System - exclusive to the War-roid Warlock
+        War-roid Warlocks have a jack system that enables them to
+patch into any computer controlled facility and take direct control
+of it.  For example, if Archie (the box) was destroyed, a War-roid
+Warlock could patch in to the Aberdeen complex and take complete
+control of it, similar to the control Archie has now.
+
+EQUIPMENT:
+Very little in the way of equipment, mostly self-sufficient, may have
+a vehicle such as a hovercycle for transportation.
+War-roid Soldiers have a sensor helmet with thermo-imaging and
+ultraviolet optics built in.  Has 20 MDC. (only fits the smaller
+Soldiers)
+
+MONEY:
+War-roids have very little value for money, rarely have more than
+2D4x100 credits at any one time
+
+CYBERNETICS:
+None
+
+OTHER NOTES:
+War-roids cannot start with any ranged WPs.  They have been made to
+fight in a particular style, namely charge the enemy and engage in.
+melee.  They were not made with ranged firefights in mind.  They have
+a barrier to enable them to reach the enemy relatively undamaged,
+where they can engage them in melee combat, eliminating the advantage
+of any enemy barrier systems.  They do not use ranged weapons unless
+absolutely necessary.  Generally this is left to their human
+partner(s) if required.
+
+War-roids that have their MDC completely depleted are deactivated,
+however, they can be repaired and the essence is completely undamaged,
+although it passes into a dormant state.  The War-roid must be
+completely destroyed to destroy the essence, anywhere from 50-100%
+more damage must be inflicted.  War-roids have been known to lay
+dormant for over 100 years.
+
+Psionics that affect living beings affect War-roids the same way.
+(not if of physical nature, though - ie: healing, etc)
+
+Alignment, if used, will be good.
+
+By Hugh King

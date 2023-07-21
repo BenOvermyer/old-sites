@@ -1,0 +1,95 @@
+Yautja Hunter R.C.C.
+
+
+                                               By:
+                                            Dustin M. 
+
+
+[Creator's Note: The Yautja Hunters are my rendition of the Predator, as based on the Dark Horse comics and the
+Bantam/Spectra novelizations of those stories. Detailed description of the Yautja and their culture may be obtained from these
+books.]
+
+Alignment: Any, but the vast majority are aberrant or anarchist.
+
+Attributes: The number of dice rolled is as designated: I.Q.: 4D6, M.E.: 4D6+2, M.A.: 4D6, P.S.: 2D6+20, P.P.: 4D6+10,
+P.E.: 2D4+20, P.B.: 2D6, SPD.: 6D6.
+
+M.D.C.: P.E. plus 6D6*10+100, and 2D6 M.D. per level
+
+Horror Factor: 14
+
+P.P.E.: 1D6*10
+
+Natural Abilities: Natural M.D.C. body structure, supernatural strength and endurance (can carry 100 times P.S. in pounds,
+and can lift 200 times P.S. in pounds), heightened sense of hearing (equal to cybernetic amplified hearing), superior eagle-like
+vision (able to read a sign from three miles) heals ten times faster than normal.
+
+Combat: Three plus those gained from hand to hand combat skills and boxing.
+
+Bonuses: +3 to strike, +5 to parry and dodge, +10 to save vs horror factor +2 to save vs poisons and toxins, plus those
+gained from attributes and skill bonuses.
+
+Damage: Variable depending on P.S. attribute. See supernatural strength chart.
+
+Magic: None
+
+Psionics: None
+
+R.C.C. Skills of Note: Language: Yautja 98%, Literacy: Yautja 98%, Mathematics: Basic 98%, Climbing 90%, and Prowl
+80% +5%.
+  Skills gained from the heightened sense of hearing: Estimate the distance of the sound: 60% +5% per level of experience;
+estimate the speed of the sound's approach or departure: 50% +5% per level of experience; recognize a voice or sound
+through intense concentration: 40% +5% per level of experience; imitate a voice 35% +5% per level of experience.
+  Hunting skills are as follows: Wilderness Survival: +30%, Land Navigation: +30%, Tracking: +35%. Additionally select six
+espionage/military/wilderness skills, four ancient W.P.s, two modern W.P.s, four physical, and a hand-to-hand combat skill
+(any), all with a bonus of +15%. Also select six secondary skills from any of the categories.
+
+Xp table: Use the same table as the Techno-Wizard.
+
+Average Life Span: 200 to 350 years.
+
+Enemies: None per se.
+
+Allies: None per se.
+
+Size: 6.5ft to 9.8ft (2m to 3m).
+
+Weight: 350lb to 550lb (160kg to 250kg).
+
+Appearance: A giant reptilian humanoid.
+
+
+Yautja Shift Suit
+
+This suit of body armor gives the Hunter the incredible ability to blend in with his environment. In also has a shoulder mounted
+plasma ejector.
+
+M.D.C.: 100
+Weight Class: Medium
+Weight: 17lb (7.7kg)
+Prowl Penalty: Excellent mobility; no prowl penalty!
+
+Features:
+
+   1.Chameleon: A truly unique power that allows the hunter to blend into and adapt to his environment, the Shift Suit
+     enables the individual to change color and texture to blend into his environment. Movement destroys the effectiveness of
+     the chameleon ability.
+       Chances of being unseen:
+         90% Undetectable if completely still.
+         70% Undetectable if moving 2ft per melee or less.
+         20% Undetectable if moving 6ft per melee.
+         Totally ineffective if moving any faster.
+       Duration: Indefinite as needed. 
+   2.Burner: this shoulder mounted weapon is a short range, but devastatingly powerful weapon.
+       Mega-Damage: 1D6*10 M.D. per blast.
+       Range: 1200ft (365m)
+       Rate of Fire: Aimed, Burst, Wild; see modern Weapon Proficiencies.
+       Payload: 20 blasts; one blast can be recharged every ten minutes. 
+   3.Optics: the Shift Suit has the full range of optical enhancements found on power armors. 
+   4.Other Features:   - Insulated, high temperature shielding for up to 200 degrees centigrade.
+         Normal fires do no damage. Nuclear, plasma, and magic fires do full damage.
+       - Radiation shielded.
+       - Polarized and light sensitive/adjusting tinted visor.
+       - Helmet face plate is removable.
+       - Wrist Mini-Comp: A multi-purpose miniature computer and display that will indicate system errors within the armor,
+     damage levels, and oxygen supply, as well as direction (compass), time, and date. 

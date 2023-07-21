@@ -1,0 +1,272 @@
+Go'a'uld Host R.C.C.
+
+	The Go'a'uld....symbiotic snake-like creatures that live
+within the bodies of their victims. In return for providing a body
+for the Go'a'uld, the host also gets to witness and take part in
+thousands of atrocities, all at their hands. The Go'a'uld are 100%
+evil. They have been stealing bodies for as long as they have lived.
+	Most elder Go'a'ulds take on the forms of gods, usually of
+a human culture, and take their faction of humans through a Stargate
+to another planet, where they rule as gods. Young Go'a'ulds are still
+very arrogant, but they are not nearly as ruthless as the elders.
+
+Known Go'a'uld Gods:
+Ra - died on Abydos
+Apophis - Serpent God of Chu'lak
+Hathor - Sex Goddess of Chu'lak, mother of the gods
+
+These are the gods that I've seen in the movie and the series. There's
+at least one more, but I can't remember his name. 
+
+Players can take on the form of their own Go'a'uld god, but they will
+NOT start out with their own faction of human slaves. That takes time.
+Also, it depends on if the GM will even ALLOW a Go'a'uld player.
+
+Horror Factor: 13 ONLY when seeing the Go'a'uld itself.
+
+Alignment: Evil alignments only
+
+Attributes are identical to the host's attributes, except for mental attributes, which
+get a +1d8 bonus.
+
+Hit Points: Host's HP: PE + 2D10
+	    Go'a'uld HP: 1d4
+S.D.C.: Higher than normal, base of 25 SDC
+
+P.P.E.: 1D4x10
+
+Natural Abilities:
+  1.) Immune System: Go'a'uld hosts have perfect immune systems.
+  2.) Advanced Technology: Each Go'a'uld can immediately recognize and use Go'a'uld technology. 
+  3.) Virtual Immortality: As long as a Go'a'uld is not killed, which happens often, it will live for several thousand years.
+  4.) Glowing Eyes: All Go'a'uld hosts' eyes will glow at will.
+
+Magic Abilities: Depends on the host.
+
+Psionic Abilities: Standard, the same as humans.
+
+Combat: Depends on the host.
+
+Bonuses: +2 to save vs. psionics, +4 to save vs. horror factor. In addition use the following chart:
+
+Level - Bonuses gained: These bonuses apply each time a Go'a'uld reaches the indicated level. 
+
+  3 - +1 to IQ
+  5 - +1 to ME
+  7 - +1 to MA
+  10 - +1 to IQ, ME, and MA
+  14 - +2 to IQ, ME, and MA
+  
+For every 3 levels afterwards, the Go'a'uld gets an additional +1 to IQ, MA, OR ME.
+
+Damage: As per combat form.
+
+O.C.C. Skills:
+  Language & Literacy: Native Language (98%)
+  Mathematics: Advanced (+30%)
+  Go'a'uld Technology - the ability to understand and use Go'a'uld technology. Base 30%. (+70%) +5 each level.
+  Mechanics: Go'a'uld Tech - the ability to create and repair Go'a'uld technology. Base 5%. (+50%) +5 each level.
+O.C.C. Related Skills: Select 15 other skills. All new skills start at level one proficiency.
+  Communications: Any (+5%)
+  Domestic: Any 
+  Electrical: Any (+5%)
+  Espionage: Any 
+  Mechanical: Any (+5%)
+  Medical: Any 
+  Military: Any
+  Physical: Dependent on host.
+  Pilot: Any (+10%)
+  Pilot Related: Any (+5%)
+  Rogue: None
+  Science: Any (+20%)
+  Technical: Any (+20%)
+  WP: Dependent on host.
+  Wilderness: Any
+
+Secondary Skills: The character also gets to select 4 secondary skills at level 1, plus 2 additional at levels 3, 6, and 9, and
+one additional at levels 12 and 15. These are additional areas of knowledge that do not get the advantage of the bonus listed in
+parentheses. All secondary skills start at the base skill level.
+
+Skill Note: An alternative to the above skills is allowing the character to select an OCC/RCC and use the skills from that class/race
+including and special bonuses granted by the class/race. Use the Dragon Experience table instead of the class/race's normal table.
+
+Experience Note: Use the Dragon Experience table for all hosts.
+
+Equipment: Dependent on caste:
+	God: 
+
+Habitat: Anywhere, anywhen.
+
+Enemies: All other sentient creatures.
+
+Allies: None. Not even other Go'a'uld.
+
+Size: Standard human variables - 5' to 7' tall
+
+Weight: Standard human - 100 lb to 250 lb
+
+The Quickening and Beheadings
+  The Quickening is the life force of Immortals. It contains their essence, what some may term their soul. When two Immortals
+fight, the air around them becomes charged with Quickening, resulting in the sparks during fights. When an Immortal is
+beheaded, the Immortal that beheads the other gains the dead Immortal's Quickening, giving the victor more power. When an
+Immortal is beheaded the victor gains the following:
+
+  +1 to a random stat (Roll 1D8), +1D10 to hit points, +1D10 to SDC, +400 Experience (alterable by GM), and the loser's
+PPE. In addition, roll on the following table:
+  01-10% Gains +1 to any 1 stat (random)
+  11-20% Regeneration ability is increased by 1D6 per minute
+  21-30% Learns one skill known by slain Immortal at loser's percentage
+  31-40% Gains 1D10x3 SDC
+  41-50% Gains +1 to parry and dodge
+  51-60% Gains +1 to strike with melee weapons
+  61-70% Gains +3 to damage
+  71-80% Gains +10% to any skill common to both the Immortal and the loser.
+  81-95% Gains +1 level in WP Sword (or appropriate WP)
+  96-00% Roll twice on the above table and ignore any rolls of 96-00%.
+
+  A 25% chance to gain one talent that the loser had at 1/2 the normal PPE cost. Activation costs are unchanged. Example:
+Bubba the Immortal beheads Leon the Immortal who happens to possess the talent of Primal Empathy. Bubba doesn't have
+this talent, but wants it so he rolls 1D100 and gets a 12. He therefore spends 5 PPE instead of 10 PPE and now has the talent.
+It still costs 8 PPE to use however.
+
+  Two Immortals will never attack another in unison. It simply doesn't happen. If a character does this, I leave it up to the GM
+to assign penalties. Same for fighting on Holy Ground. It ought to be something reeeealy bad though.
+
+Personal Swords and Weapons of Beheading
+  All Immortals have a favorite weapon that they use for fighting other Immortals. Most use swords, some (rarely) use axes. All
+Immortals must get their hands on one of these weapons if they wish to survive. For gaming purposes, all Immortals will start
+with a superior weapon with the following bonuses: +2 to parry, +2 to strike, +5 to damage. These weapons are very
+expensive and in many cases are very old. A weapon is considered "personal" if it is the weapon used exclusively for a period
+of 1 year or more.
+
+Quickening Talents
+  Immortals are sustained by their Quickening, the force which keeps them alive and heals their injuries. Everyone has
+Quickening, however it is only noticeable in Immortals, a bonfire of energy compared to the spark in mortals. Immortals have
+learned to channel their Quickening into mastering certain abilities, from concealing weapons to mastering their minds to
+enhancing their bodies. Immortals can select one Talent at every other level (1, 3, 5...) in addition to the 25% chance when
+beheading an Immortal.
+
+Blood Fury
+  Some Immortals are able to use their Quickening to create a berserker rage that dramatically increases their combat prowess.
+When in the rage they will attack their enemy until one of them loses their head. If the Immortal is in normal combat and not
+fighting another Immortal they will attack all known enemies and then they take 2D4 melees to calm down. If they are
+provoked or if they even perceive the slightest threat against them they will lash out for another 8 melees. After they are calmed
+down they are so drained that they are -4 to all combat actions for 30 minutes.
+  Range: Self only
+  Duration: 8 melees
+  Limitations: Only available at 5th level or higher
+  Cost: 20 PPE to acquire, 25 PPE to activate.
+ Bonuses: The Blood Fury grants the Immortal the following bonuses:
+  +2 attacks per melee
+  +35 SDC
+  +10 to damage
+  +4 to strike
+  -5 to dodge
+  -5 to parry
+  Cannot pull punches or roll with impacts
+
+Primal Empathy
+  This is the ability to sense the emotions of creatures on a primal level, to feel their life force. The user can detect whether a
+creature is good, evil, animal or human(oid), supernatural or mortal. When used on a wild animal the character often receives a
+surge of energy or adrenaline in response to the sheer feeling of freedom enjoyed by many animals. This adds +10 to the
+character's speed and PE and they will act carefree for the duration. When used on sentient beings the character gets a
+momentary feeling as if they were the other person, ie: A Principled Immortal uses Primal Empathy on a psychopathic
+murderer. The Immortal would think like the murderer for about 1 minute during which his two natures (the Principled and the
+Diabolic) would conflict. The Immortal must save vs. psionics or their alignment is temporarily changed to the target's alignment
+for a period of 1 minute. Every melee they get to save vs. psionics. If a successful save is made they revert instantly to their
+normal alignment and behavior.
+  Range: 150 feet
+  Duration: 1 minute per level of experience
+  Cost: 10 PPE are spent permanently to acquire it, and 8 PPE are needed to activate it.
+
+Enhanced Awareness Level 1
+  This meditative state increases the distance that the Immortal can sense other Immortals. It can be used during normal activity
+but at a lesser effectiveness. To use it at full effectiveness one must be meditating silently without movement or distraction.
+  Range: Increases range of 'Buzz' by 25 feet per level
+  Duration: 10 minutes per 5 PPE spent
+  Limitations: Only available at 2nd level or higher. When this talent is used during normal activity the increase in range is only
+10 feet per level.
+  Cost: 10 PPE are spent permanently to acquire it, and 5 PPE are spent for every 10 minutes it is in use.
+
+Enhanced Awareness Level 2
+  By this time the Immortal has learned to bend his senses to detect specific creatures. They are now able to detect
+supernatural creatures if they bend their mind to it.
+  Range: Normal range of Buzz. Can be used in conjunction with Enhanced Awareness Level 1 to increase the distance.
+  Duration: 10 minutes per 8 PPE spent
+  Limitations: Only available at 5th level or higher
+  Prerequisite: Enhanced Awareness Level 1
+  Cost: 15 PPE are spent permanently to acquire it, and 8 PPE are spent for every 10 minutes it is in use. If used in conjunction
+with Enhanced Awareness Level 1 it costs 18 PPE per 10 minutes.
+
+Enhanced Healing
+  The ability to heal oneself even faster than normal is the focus of this power. Often used as a last ditch effort, this power uses
+up great quantities of Quickening that are slow to replenish. For each point of PPE (Quickening) the Immortal is healed of 1
+HP or 5 SDC. The downside to this power is that the spent PPE is regained at 1/2 the normal rate.
+  Range: Self
+  Duration: Permanent
+  Cost: 10 PPE are spent permanently to acquire it, and 1 PPE is spent for every 1 HP or 5 SDC healed.
+
+Weapon Concealment Level 1
+  Some Immortals have spent time learning how to conceal their weapons from normal view by their Quickening to mask its
+presence from others. This ability allows a character to mask the presence of their weapon from mortals by making the
+weapon unnoticeable. It's still there, it's just unremarkable and people won't notice it.
+  Range: Self, can only conceal a weapon on one's person
+  Duration: 10 minutes per level of experience
+  Limitations: This can only be performed on the Immortal's personal weapon, one that he / she has trained with extensively (at
+least one year), not just any weapon they pick up.
+  Cost: 15 PPE are spent permanently to acquire it, and 10 PPE are needed to activate it.
+
+Weapon Concealment Level 2
+  After mastering how to conceal their weapon from mortals, some Immortals have gone further and learned how to conceal it's
+presence from mechanical sensors as well. This ability takes a fair amount of skill and concentration. The basic principle is that
+the Immortal is able to place their sword in a state of limbo for limited periods of time allowing them to pass through
+mechanical sensors while keeping their sword undetected. The only person that can retrieve the sword is the Immortal who
+placed it there. This means that they Immortal doesn't have to worry about tripping over their sword when performing
+acrobatics or other maneuvers hard to do with a sheathed sword.
+  Range: Self, can only conceal a weapon on one's person
+  Duration: 4 minutes per level of experience.
+  Limitations: This can only be performed on the Immortal's personal weapon, one that he / she has trained with extensively (at
+least one year), not just any weapon they pick up. Not available until fifth level.
+  Prerequisite: Weapon Concealment Level 1
+  Cost: 20 PPE are spent permanently to acquire it, and 15 PPE are needed to activate it.
+
+Weapon Enhancement Level 1
+  In order to combat the supernatural so that an Immortal may reach the time of the Gathering, some Immortals have focused
+their energy into doing enhanced damage with their chosen weapon. This power imbues the weapon with a portion of the
+Immortal's life force (Quickening) that increased the damage.
+  Range: Personal weapon
+  Duration: 4 melees (1 minute) per level of experience
+  Limitations: Only available at 3rd level or higher
+  Cost: 10 PPE to acquire permanently, 7 PPE to add 1 die of damage to a melee weapon. Example: Bubba the Immortal is
+using a short sword (he's stupid, what can I say) that normally does 1D8 damage. For each 7 PPE that he spends, the sword
+will do +1D8 damage for four melees per level.
+
+Telepathy
+  The simple ability to communicate without using words. Instead the user communicates telepathically. The telepath can send a
+message to one person at a time and two-way telepathic communication is impossible unless the recipient is also telepathic
+(whether natural, psionic or magic in nature).
+  Range: 175 feet
+  Duration: 2 minutes per level of experience
+  Cost: 5 PPE to acquire permanently, 3 PPE to activate.
+
+  All psionic powers can be used as Quickening Talents. In order to derive their costs, multiply the ISP cost by 1.5. This is
+how much it costs to gain the power. The normal ISP cost is how much PPE it costs to activate. Note: This is a makeshift
+method of doing it. I will update the list of talents as I get time. In addition, feel free to create your own. If you do, please send
+me a copy with details so I can add it to my list.
+
+Conversion Notes:
+  RIFTS�: Immortals are MDC creatures in RIFTS� Earth and other MD environments. An Immortal's MDC is equal to their
+SDC and HP added together. An Immortal's personal weapon does MDC, and Weapon Enhancement does additional MDC
+damage. The Immortal does not have supernatural strength in RIFTS� Earth.
+
+  Ninjas & Superspies� & Mystic China�: Immortals remain mostly unchanged in this game. You may wish to add Chi
+powers to the martial arts, and once an Immortal is beheaded their Chi goes to the winner.
+
+  Heroes Unlimited� & After The Bomb�: No changes that I can think of.
+
+  Beyond the Supernatural�: Same here, none that I can think of.
+
+  Palladium Fantasy RPG�, 2nd Ed: No changes, however they are rarely encountered on the world of Palladium. Some
+believe that the Old Ones conducted a war of genocide against the Immortals millennia ago which leaves Immortals with an
+uneasy feeling when they are on Palladium, a psychic imprint left from the Old One's rages. Thus most Immortals born or
+visiting on Palladium leave quickly if they can.

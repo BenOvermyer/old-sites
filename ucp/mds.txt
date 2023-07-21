@@ -1,0 +1,133 @@
+Most Dangerous Soldier (MDS) OCC
+
+        The Most Dangerous Soldiers are genetically engineered soldiers
+who are trained experts in all forms of combat.  They were developed as
+super-soldiers by the old superpowers, and are incredibly resourceful,
+cunning and dangerous in the extreme.  They usually rely heavily on
+stealth, surprise and guile. There are many stories of a single MDS
+taking on an entire enemy platoon, and winning!
+
+        They proved to be too good at combat, however, developing an
+obsession with war and combat.  The MDS soldiers were found to be
+responsible for acts prolonging war and initiating combat with
+non-hostile forces.
+
+        The military tricked the MDS soldiers into entering cryogentic
+sleep, but stored them away in secret military bunkers, in case they were
+needed some day as a last resort.  In the world of Rifts Earth, many of
+these MDS soldiers have awakened to an Earth filled with conflict, war,
+combat, supernatural monsters and seemingly unending deadly opponents.
+This is an Earth they will thrive on.
+
+        A few unconfirmed reports had Naruni Enterprises indirectly
+using a few MDS soldiers (before Naruni was driven from North America)
+as one way of keeping battles and conflicts active between small kingdoms.
+
+        MDS soldiers never settle down, continually seeking danger and
+battle until they are killed.  MDS soldiers also never form into groups,
+a sole MDS will be the most encountered at any one time, in any particular
+group.
+
+
+MDS Abilities (gained through genetic engineering)
+1. Heightened intelligence, +1D4 IQ
+2. Heightened endurance +4D6 SDC, +1d6 hit points, +1d4 PE
+3. Increased strength, +1D6 PS
+4. Increased reflexes, +1d4 PP, +1 melee attack
+5. Increased speed, +2D6 Spd
+6. Bonuses. +2 initiative, +2 vs psionics (iron will)
+7. Insanity - All MDS soldiers have an obsession with war/combat/battle,
+   they constantly seek it out or instigate it if none is to be found
+8. MDS soldiers also gain insanities at levels 5 and 11, mainly associated
+   with violence
+
+*optional* - if you use Horror Factor as based on reputation, to anyone
+who knows about the MDS soldiers they have a HF 10
+(unlikely, info on them might possibly be in some old military computer
+files, under high security clearance - even then, they must recognize
+the MDS, most likely by dog tags)
+
+Attribute Requirements
+IQ 11, ME 11, PS 13, PP 13, PE 13
+
+OCC SKILLS:
+Language: American (98%)
+Literacy: American (+20%)
+Math: Basic (+10%)
+Electronic Countermeasures (+10%)
+Armorer (+15%)
+Military Fortification (+20%)
+Radio: Scramblers (+10%)
+Detect Ambush (+20%)
+Detect Concealment (+15%)
+Intelligence (+15%)
+Sniper
+Demolitions (+20%)
+Demolitions: Disposal (+20%)
+Athletics
+Boxing
+Running
+Prowl (+15%)
+Climbing (+10%)
+Weapon Systems (+10%)
+WP (choose 4)
+Hand to Hand Commando
+
+OCC RELATED:
+pick 4 skills, plus 2 more each at levels 3, 6, 9, and 12
+Communications: Any (+5%)
+Domestic: None
+Electrical: Basic only
+Espionage: Any (+15%)
+Mechanical: Automotive and Basic only
+Medical: First Aid only (+5%)
+Military: Any (+20%)
+Pilot: Any (+10%)
+Pilot Related: Any (+10%)
+Physical: Any except Gymnastics (+10%)
+Rogue: Any
+Science: Math only
+Technical: any except Art, Photography and Writing
+Weapon: Any
+Wilderness: None
+
+SECONDARY:
+also gets 4 secondary skills, with the above restrictions but without
+the bonuses; two more each can be selected at levels 4, 8 and 13
+
+EQUIPMENT:
+Suit of light or heavy body armor or MDS Battle Armor, energy rifle
+and energy pistol of choice, 4 e-clips for each, 1D4 grenades,
+survival knife, both robot medical kits, utility belt, air filter
+& gas mask, canteen and maybe another weapon or two.
+
+MDS soldiers seldom know how to use robots or power armor initially,
+but can learn if they can find someone to teach them.  However, they
+dislike relying heavily on computers and sensors, so they rarely
+learn these skills, instead using stealth and guerilla warfare, and
+exoskeltons or heavy body armor for stand-up battles.  Note that although
+they do not generally use sensors heavily, they are experts at fooling
+all manner of them.  Any robots or PA learned will be fast, mobile units
+with primarily simple sensors.  Vehicle will likely be either MDS Battle
+Armor or a small, fast vehicle like hovercycles.
+
+MONEY:
+MDS soldiers have very little value for money, rarely have more than
+2D4x100 cr at any one time
+
+CYBERNETICS:
+None to start, and avoid bionics and enhancement, prefer to use "their
+own two hands". Generally dislikes bionic augmentation.  An MDS will
+consider basic, minor cybernetics, typically along the lines of clock
+& compass.
+
+OTHER NOTES:
+It can be assumed the MDS has already foraged somewhat and acquired some
+basic modern weapons, (see equipment) as well as familiarity with them,
+or it can be role-played. MDS soldiers adapt to modern weapons and the
+increased firepower in 2D4 weeks.
+Until then all skills dealing with technology are at -15%.
+
+If you use alignment, virtually all selfish or evil.
+
+By Hugh King
